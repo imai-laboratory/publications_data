@@ -1,6 +1,41 @@
 [
     {
         "author": [
+            "榎波 晃一",
+            "奥岡 耕平",
+            "秋田 祥平",
+            "今井 倫太"
+        ],
+        "title": "電動車椅子運転支援エージェントにおける情報通知タイミングに関する調査 ",
+        "year": "2019",
+        "book": "HAIシンポジウム2018",
+        "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-12.pdf"
+    },
+    {
+        "author": [
+            "石川 敬規",
+            "妹尾 卓磨",
+            "今井 倫太"
+        ],
+        "title": "複数の潜在変数を用いた表現学習モデルMPVAEの提案 ",
+        "year": "2019",
+        "book": "HAIシンポジウム2018",
+        "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-13.pdf"
+    },
+    {
+        "author": [
+            "阿部 佑樹",
+            "松森 匠哉",
+            "妹尾 卓磨",
+            "今井 倫太"
+        ],
+        "title": "条件付き画像キャプショニングに向けた敵対的生成ネットワークの検討",
+        "year": "2019",
+        "book": "HAIシンポジウム2018",
+        "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-15.pdf"
+    },
+    {
+        "author": [
             "里形 理興",
             "滝口 啓介",
             "福地 庸介",
@@ -11,7 +46,7 @@
         "book": "HAIシンポジウム2018",
         "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-16.pdf"
     },
-     {
+    {
         "author": [
             "永吉　秋平",
             "奥岡 耕平",
@@ -23,5 +58,18 @@
         "year": "2019",
         "book": "HAIシンポジウム2018",
         "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-33.pdf"
+    },
+    {
+        "author": [
+            "芹澤 桃子",
+            "秋田 祥平",
+            "奧岡 耕平",
+            "岨野 太一",
+            "今井 倫太"
+        ],
+        "title": "３DCGエージェントを用いて共同注視の実感を高めるビデオチャットシステム",
+        "year": "2019",
+        "book": "HAIシンポジウム2018",
+        "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-34.pdf"
     }
 ]
