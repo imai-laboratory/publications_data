@@ -2,13 +2,26 @@
     {
         "author": [
             "里形 理興",
-            "滝口 啓介",
-            "福地 庸介",
+            "奥岡 耕平",
+            "大澤 正彦",
             "今井 倫太"
         ],
         "title": "ユーザ操作に基づく適応型ストリートビューの検討",
         "year": "2019",
-        "book": "HAIシンポジウム2018",
+        "book": "HAIシンポジウム",
         "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-16.pdf"
+    },
+     {
+        "author": [
+            "永吉　秋平",
+            "奥岡 耕平",
+            "北川 遼",
+            "岨野　太一",
+            "今井 倫太"
+        ],
+        "title": "接客エージェントへ生物感を付与する視線制御モデル",
+        "year": "2019",
+        "book": "HAIシンポジウム",
+        "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-33.pdf"
     }
 ]
