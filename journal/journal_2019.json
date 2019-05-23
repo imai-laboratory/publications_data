@@ -1,6 +1,17 @@
 [
     {
         "author": [
+            "Taichi_Sono",
+            "Satoru_Satake",
+            "Takayuki_Kanda",
+            "Michita_Imai"
+        ],
+        "title": "Walking partner robot chatting about scenery",
+        "year": "2019",
+        "book": "Advanced Robotics"
+    },
+    {
+        "author": [
             "Masahiko_Osawa",
             "Michita_Imai"
         ],
