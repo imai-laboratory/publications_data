@@ -6,6 +6,30 @@
             "秋田 祥平",
             "今井 倫太"
         ],
+        "title": "ナッジ効果を用いた運転支援システムの提示タイミングの決定",
+        "year": "2019",
+        "book": "第33回人工知能学会全国大会",
+        "draft_pdf_url": "https://confit.atlas.jp/guide/event-img/jsai2019/1G4-OS-13b-02/public/pdf?type=in"
+    },
+    {
+        "author": [
+            "里形 理興",
+            "滝口 啓介",
+            "福地 庸介",
+            "今井 倫太"
+        ],
+        "title": "ユーザの閲覧行動に基づきパノラマ画像データを選択する適応型ストリートビューの開発",
+        "year": "2019",
+        "book": "第33回人工知能学会全国大会",
+        "draft_pdf_url": "https://confit.atlas.jp/guide/event-img/jsai2019/1O2-J-12-02/public/pdf?type=in"
+    },
+    {
+        "author": [
+            "榎波 晃一",
+            "奥岡 耕平",
+            "秋田 祥平",
+            "今井 倫太"
+        ],
         "title": "電動車椅子運転支援エージェントにおける情報通知タイミングに関する調査",
         "year": "2019",
         "book": "HAIシンポジウム2018",
