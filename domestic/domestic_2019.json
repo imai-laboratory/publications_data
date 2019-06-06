@@ -1,6 +1,18 @@
 [
     {
         "author": [
+            "阿部 佑樹",
+            "妹尾 卓磨",
+            "松森 匠哉",
+            "今井 倫太"
+        ],
+        "title": "画像キャプションに対する表現学習に向けた敵対的生成ネットワーク",
+        "year": "2019",
+        "book": "第33回人工知能学会全国大会",
+        "draft_pdf_url": "https://confit.atlas.jp/guide/event-img/jsai2019/3Rin2-30/public/pdf?type=in"
+    },
+    {
+        "author": [
             "榎波 晃一",
             "奥岡 耕平",
             "秋田 祥平",
