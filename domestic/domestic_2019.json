@@ -1,6 +1,17 @@
 [
     {
         "author": [
+            "妹尾 卓磨",
+            "大澤 正彦",
+            "今井 倫太"
+        ],
+        "title": "Stabilizing Deep Policy Gradients via Differentiable Memory",
+        "year": "2019",
+        "book": "神経回路学会全国大会",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "阿部 佑樹",
             "妹尾 卓磨",
             "松森 匠哉",
