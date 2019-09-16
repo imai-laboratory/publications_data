@@ -15,7 +15,7 @@ draft_pdf_url には、外部からフリーでアクセスできるURLを設定
 論文がフリーで公開されない場合は、学会名や著作権表示のないドラフト原稿を用意し、
 今井研GoogleDriveの
 
-[ailab > 2. Research Data > 論文ドラフト](https://drive.google.com/drive/folders/0B8j5f8TKRudITzQ5QWV2X0J4TWM?usp=sharing)
+[ailab > 2. Research Data > 論文ドラフト](https://drive.google.com/drive/u/1/folders/1HCs_1aKi0NV7kAHSPt6vO529zE0B6UGP)
 
 フォルダを適宜利用してアクセス可能なURLを入手してください。
 
