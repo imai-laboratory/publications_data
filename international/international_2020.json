@@ -2,6 +2,21 @@
 [
     {
         "author": [
+            "Riki_Satogata",
+            "Mitsuhiko_Kimoto",
+            "Shun_Yoshioka",
+            "Masahiko_Osawa",
+            "Kazuhiko_Shinozawa",
+            "Michita_Imai"
+        ],
+        "title": "Emergence of Agent Gaze Behavior using Interactive Kinetics-Based Gaze Direction Model",
+        "year": "2020",
+        "book": "In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction",
+        "abbrv": "HRI’20 Companion",
+        "draft_pdf_url": "https://drive.google.com/open?id=1vbeWl3ek3qmLUcEhXq56RUwxWuD8SBn8"
+    },
+    {
+        "author": [
             "Yosuke_Fukuchi",
             "Yusuke_Takimoto",
             "Michita_Imai"
