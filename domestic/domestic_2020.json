@@ -1,0 +1,68 @@
+[
+    {
+        "author": [
+            "吉野 哲平",
+            "松森 匠哉",
+            "福地 庸介",
+            "滝本 祐介",
+            "阿部 祐樹",
+            "新行内 浩輔",
+            "今井 倫太"
+        ],
+        "title": "対話における重要語抽出を用いた文脈と解釈の逐次相互依存解決",
+        "year": "2020",
+        "book": "HAIシンポジウム2020",
+        "draft_pdf_url": "http://hai-conference.net/symp2020/proceedings/pdf/P-5.pdf"
+    },
+    {
+        "author": [
+            "内海 佑麻",
+            "阿部 祐樹",
+            "妹尾 卓磨",
+            "今井 倫太"
+        ],
+        "title": "動画中のオブジェクトの運動を捉える敵対的生成ネットワーク",
+        "year": "2020",
+        "book": "HAIシンポジウム2020",
+        "draft_pdf_url": "http://hai-conference.net/symp2020/proceedings/pdf/P-9.pdf"
+    },
+    {
+        "author": [
+            "大塚 洋平",
+            "秋田 祥平",
+            "奥岡 耕平",
+            "木本 充彦",
+            "今井 倫太"
+        ],
+        "title": "エージェントの視線動作にユーザが抱く 違和感予測モデルの提案",
+        "year": "2020",
+        "book": "HAIシンポジウム2020",
+        "draft_pdf_url": "http://hai-conference.net/symp2020/proceedings/pdf/P-12.pdf"
+    },
+    {
+        "author": [
+            "大澤 正彦",
+            "奧岡 耕平",
+            "坂本 孝丈",
+            "市川 淳",
+            "今井 倫太"
+        ],
+        "title": "認知的インタラクションフレームワークに基づいた他者モデルの提案",
+        "year": "2020",
+        "book": "HAIシンポジウム2020",
+        "draft_pdf_url": "http://hai-conference.net/symp2020/proceedings/pdf/P-40.pdf"
+    },
+    {
+        "author": [
+            "大竹 七勢",
+            "松森 匠哉",
+            "福地 庸介",
+            "滝本 佑介",
+            "今井 倫太"
+        ],
+        "title": "文脈および画像情報を加味した逐次的対話の解釈",
+        "year": "2020",
+        "book": "HAIシンポジウム2020",
+        "draft_pdf_url": "http://hai-conference.net/symp2020/proceedings/pdf/P-41.pdf"
+    }
+]
