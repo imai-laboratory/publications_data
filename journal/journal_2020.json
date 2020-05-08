@@ -1,6 +1,33 @@
 [
     {
         "author": [
+            "松元 崇裕",
+            "松村 成宗",
+            "渡部 智樹",
+            "今井 倫太"
+        ],
+        "title": "ロボットが高齢者と長期関係性を構築するための 対話に基づく非同期コミュニケーション",
+        "book": "情報処理学会論文誌",
+        "year": "2020",
+        "vol": "Vol.61",
+        "no": "No.2",
+        "page": "pp.181-199"
+    },
+    {
+        "author": [
+            "Ryosuke Hasumoto",
+            "Kazuhiro Nakadai",
+            "Michita Imai"
+        ],
+        "title": "Reactive Chameleon: A Method to Mimic Conversation Partner's Body Sway for a Robot",
+        "book": "International Journal of Social Robotics",
+        "year": "2020",
+        "vol": "Vol.12",
+        "no": "No.1",
+        "page": "pp.239-258"
+    },
+    {
+        "author": [
             "Masahiko_Osawa",
             "Michita_Imai"
         ],
