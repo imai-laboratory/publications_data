@@ -1,16 +1,27 @@
 [
     {
-        "author": [
-            "松元 崇裕",
-            "松村 成宗",
-            "渡部 智樹",
-            "今井 倫太"
-        ],
+        "author": {
+            "ja": [
+                "松元 崇裕",
+                "松村 成宗",
+                "渡部 智樹",
+                "今井 倫太"
+            ],
+            "en": [
+                "Takahiro Matsumoto",
+                "Narimune Matsumura",
+                "Tomoki Watanabe",
+                "Michita Imai"
+            ]
+        },
         "title": {
             "ja": "ロボットが高齢者と長期関係性を構築するための 対話に基づく非同期コミュニケーション",
             "en": "Asynchronous Communication Based on Convesastion for Long-term Relationship Between Older Adult and Robot"
         },
-        "book": "情報処理学会論文誌",
+        "book": {
+            "ja": "情報処理学会論文誌",
+            "en": "Transactions of Information Processing Society of Japan"
+        },
         "year": "2020",
         "vol": "Vol.61",
         "no": "No.2",
