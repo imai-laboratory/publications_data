@@ -6,7 +6,10 @@
             "渡部 智樹",
             "今井 倫太"
         ],
-        "title": "ロボットが高齢者と長期関係性を構築するための 対話に基づく非同期コミュニケーション",
+        "title": {
+            "ja": "ロボットが高齢者と長期関係性を構築するための 対話に基づく非同期コミュニケーション",
+            "en": "Asynchronous Communication Based on Convesastion for Long-term Relationship Between Older Adult and Robot"
+        },
         "book": "情報処理学会論文誌",
         "year": "2020",
         "vol": "Vol.61",
