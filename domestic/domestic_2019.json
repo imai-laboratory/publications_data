@@ -38,16 +38,30 @@
         "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3Rin230/_pdf/-char/ja"
     },
     {
-        "author": [
-            "榎波 晃一",
-            "奥岡 耕平",
-            "秋田 祥平",
-            "今井 倫太"
-        ],
-        "title": "ナッジ効果を用いた運転支援システムの提示タイミングの決定",
+        "author": {
+            "ja": [
+                "榎波 晃一",
+                "奥岡 耕平",
+                "秋田 祥平",
+                "今井 倫太"
+            ],
+            "en": [
+                "Kouichi Enami",
+                "Kohei Okuoka",
+                "Shohei Akita",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ナッジ効果を用いた運転支援システムの提示タイミングの決定",
+            "en": "To determine the display timing of driving assistant using Nudge"
+        },
         "year": "2019",
         "page": "1G4-OS-13b-02",
-        "book": "第33回人工知能学会全国大会",
+        "book": {
+            "ja": "第33回人工知能学会全国大会",
+            "en": "The 33th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
         "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1G4OS13b02/_pdf/-char/ja"
     },
     {
