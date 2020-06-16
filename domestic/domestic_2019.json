@@ -65,15 +65,29 @@
         "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1G4OS13b02/_pdf/-char/ja"
     },
     {
-        "author": [
-            "里形 理興",
-            "滝口 啓介",
-            "福地 庸介",
-            "今井 倫太"
-        ],
-        "title": "ユーザの閲覧行動に基づきパノラマ画像データを選択する適応型ストリートビューの開発",
+        "author": {
+            "ja": [
+                "里形 理興",
+                "滝口 啓介",
+                "福地 庸介",
+                "今井 倫太"
+            ],
+            "en": [
+                "Riki Satogata",
+                "Keisuke Takiguchi",
+                "Yosuke Fukuchi",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ユーザの閲覧行動に基づきパノラマ画像データを選択する適応型ストリートビューの開発",
+            "en": "Development of an Adaptive Street View that Selects Panoramic Images Based on User Browsing Behavior"
+        },
         "year": "2019",
-        "book": "第33回人工知能学会全国大会",
+        "book": {
+            "ja": "第33回人工知能学会全国大会",
+            "en": "The 33th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
         "page": "1O2-J-12-02",
         "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1O2J1202/_pdf/-char/ja"
     },
@@ -113,15 +127,29 @@
         "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-15.pdf"
     },
     {
-        "author": [
-            "里形 理興",
-            "滝口 啓介",
-            "福地 庸介",
-            "今井 倫太"
-        ],
-        "title": "ユーザ操作に基づく適応型ストリートビューの検討",
+        "author": {
+            "ja": [
+                "里形 理興",
+                "滝口 啓介",
+                "福地 庸介",
+                "今井 倫太"
+            ],
+            "en": [
+                "Riki Satogata",
+                "Keisuke Takiguchi",
+                "Yosuke Fukuchi",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ユーザ操作に基づく適応型ストリートビューの検討",
+            "en": "Consideration of Adaptive Street View based on User Operation"
+        },
         "year": "2019",
-        "book": "HAIシンポジウム2018",
+        "book": {
+            "ja": "HAIシンポジウム2018",
+            "en": "HAI Symposium 2018"
+        },
         "draft_pdf_url": "http://hai-conference.net/symp2018/proceedings/pdf/P-16.pdf"
     },
     {
