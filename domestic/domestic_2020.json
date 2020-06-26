@@ -1,5 +1,146 @@
 [
     {
+        "author": {
+            "ja": [
+                "大塚 洋平",
+                "秋田 祥平", 
+                "奥岡 耕平", 
+                "木本 充彦", 
+                "今井 倫太"
+            ],
+            "en": [
+                "Yohei Otsuka",
+                "Shohei Akita",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "エージェントの視線動作にユーザが抱く違和感予測モデル「PredGaze」の提案",
+            "en": "PredGaze: a Study of Predict Agent Gaze Behavior"
+        },
+        "year": "2020",
+        "page": "1P3-GS-7-01",
+        "book": {
+            "ja": "第34回人工知能学会全国大会",
+            "en": "The 34th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1P3GS701/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
+                "吉野 哲平",
+                "松森 匠哉", 
+                "福地 庸介", 
+                "滝本 佑介", 
+                "今井 倫太"
+            ],
+            "en": [
+                "Teppei Yoshino",
+                "Shoya Matsumori",
+                "Yosuke Fukuchi",
+                "Yusuke Takimoto",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "SCAKE: 文脈と重要語の逐次的並列推定",
+            "en": "SCAKE: Simultaneous Contextualization and Keyword Extraction"
+        },
+        "year": "2020",
+        "page": "3Q1-GS-9-03",
+        "book": {
+            "ja": "第34回人工知能学会全国大会",
+            "en": "The 34th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Q1GS903/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
+                "新行内 浩輔", 
+                "松森 匠哉", 
+                "福地 庸介", 
+                "阿部 佑樹", 
+                "今井 倫太"
+            ],
+            "en": [
+                "Kosuke Shingyouchi",
+                "Shoya Matsumori",
+                "Yosuke Fukuchi",
+                "Yuki Abe",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "分散表現空間内の文脈の推移に着目したワード人狼における発話分析",
+            "en": "Conversational Analysis of Word Wolf based on the Contextual Transition in Distributed Representation Space"
+        },
+        "year": "2020",
+        "page": "3Q1-GS-9-04",
+        "book": {
+            "ja": "第34回人工知能学会全国大会",
+            "en": "The 34th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Q1GS904/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
+                "内海 佑麻",
+                "阿部 佑樹",
+                "妹尾 卓磨",
+                "今井 倫太"
+            ],
+            "en": [
+                "Yuma Uchiumi",
+                "Yuki Abe",
+                "Takuma Seno",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "動画からオブジェクトの運動特徴量を抽出する教師なし双方向表現学習",
+            "en": "Unsupervised Motion Feature Extraction in Video via Bi-directional GAN"
+        },
+        "year": "2020",
+        "page": "1I5-GS-2-04",
+        "book": {
+            "ja": "第34回人工知能学会全国大会",
+            "en": "The 34th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1I5GS204/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
+                "里形 理興",
+                "妹尾 卓磨",
+                "福地 庸介",
+                "今井 倫太"
+            ],
+            "en": [
+                "Riki Satogata",
+                "Takuma Seno",
+                "Yosuke Fukuchi",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "Q-Mapping: 行動価値関数を利用したユーザ操作に対する解釈の適応的獲得",
+            "en": "Q-Mapping: Learning of Interpretation for User Operation Using Action Value Function"
+        },
+        "year": "2020",
+        "page": "3Rin4-46",
+        "book": {
+            "ja": "第34回人工知能学会全国大会",
+            "en": "The 34th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin446/_pdf/-char/ja"
+    },
+    {
         "author": [
             "吉野 哲平",
             "松森 匠哉",
