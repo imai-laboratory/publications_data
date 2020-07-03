@@ -13,17 +13,31 @@
         "book": "Intl._Journal_of_Advanced_Robotics"
     },
     {
-        "author": [
-            "小野哲雄",
-            "今井倫太",
-            "江谷為之",
-            "中津良平"
-        ],
-        "title": "ヒューマンロボットインタラクションにおける関係性の創出",
+        "author": {
+            "ja": [
+                "小野哲雄",
+                "今井倫太",
+                "江谷為之",
+                "中津良平"
+            ],
+            "en": [
+                "Tetsuo Ono",
+                "Michita Imai",
+                "Tameyuki Etani",
+                "Ryohei Nakatsu"
+            ]
+        },
+        "title": {
+            "ja": "ヒューマンロボットインタラクションにおける関係性の創出",
+            "en": "Construction of Relationship between Humans and Robots"
+        },
         "year": "2000",
         "page": "pp.1586",
         "no": "No.1",
         "vol": "Vol.41",
-        "book": "情報処理学会論文誌"
+        "book": {
+            "ja": "情報処理学会論文誌",
+            "en": "IPSJ Journal"
+        }
     }
 ]

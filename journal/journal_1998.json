@@ -1,14 +1,26 @@
 [
     {
-        "author": [
-            "今井倫太",
-            "篠沢一彦"
-        ],
-        "title": "自発的注意機構による呼びかけからの行動生成システム",
+        "author": {
+            "ja": [
+                "今井倫太",
+                "篠沢一彦"
+            ],
+            "en": [
+                "Michita Imai",
+                "Kazuhiko Shinozawa"
+            ]
+        },
+        "title": {
+            "ja": "自発的注意機構による呼びかけからの行動生成システム",
+            "en": "Action Generator in Response to Calling by Spontaneous Attention Mechanism"
+        },
         "year": "1998",
         "page": "pp.2635-2644",
         "no": "No.11",
         "vol": "Vol.J81-D-II",
-        "book": "信学論D-II"
+        "book": {
+            "ja": "電子情報通信学会論文誌. D-II, 情報・システム, II-情報処理",
+            "en": "The transactions of the Institute of Electronics, Information and Communication Engineers"
+        }
     }
 ]
