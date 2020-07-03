@@ -1,15 +1,28 @@
 [
     {
-        "author": [
-            "今井倫太",
-            "開一夫",
-            "安西祐一郎"
-        ],
-        "title": "注意機構を利用したヒューマンロボットインタフェース",
+        "author": {
+            "ja": [
+                "今井倫太",
+                "開一夫",
+                "安西祐一郎"
+            ],
+            "en": [
+                "Michita Imai",
+                "Kazuo Hiraki",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "注意機構を利用したヒューマンロボットインタフェース",
+            "en": "Human-Robot Interface with Attention"
+        },
         "year": "1994",
         "page": "pp.144756",
         "no": "No.8",
         "vol": "Vol.J77-D-II",
-        "book": "電子情報通信学会D-II"
+        "book": {
+            "ja": "電子情報通信学会論文誌. D-II, 情報・システム, II-情報処理",
+            "en": "The transactions of the Institute of Electronics, Information and Communication Engineers"
+        }
     }
 ]
