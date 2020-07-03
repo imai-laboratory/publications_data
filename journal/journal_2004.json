@@ -1,17 +1,31 @@
 [
     {
-        "author": [
-            "川島_英之",
-            "今井_倫太",
-            "遠山_元道",
-            "安西__祐一郎"
-        ],
-        "title": "センサデータベースシステムKRAFTの設計と実装",
+        "author": {
+            "ja": [
+                "川島_英之",
+                "今井_倫太",
+                "遠山_元道",
+                "安西__祐一郎"
+            ],
+            "en": [
+                "Hideyuki Kawashima",
+                "Michita Imai",
+                "Motomichi Toyama",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "センサデータベースシステムKRAFTの設計と実装",
+            "en": "Design and Implementation of a Sensor Database System KRAFT"
+        },
         "year": "2004",
         "page": "pp.39-53",
         "no": "No.14",
         "vol": "Vol.45",
-        "book": "情報処理学会論文誌:データベース"
+        "book": {
+            "ja": "情報処理学会論文誌:データベース",
+            "en": "IPSJ TOD"
+        }
     },
     {
         "author": [

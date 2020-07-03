@@ -1,17 +1,31 @@
 [
     {
-        "author": [
-            "神田_崇行",
-            "今井_倫太",
-            "小野_哲雄",
-            "石黒_浩"
-        ],
-        "title": "人-ロボット相互作用における身体動作の数値解析",
+        "author": {
+            "ja": [
+                "神田_崇行",
+                "今井_倫太",
+                "小野_哲雄",
+                "石黒_浩"
+            ],
+            "en": [
+                "Takayuki Kanda",
+                "Michita Imai",
+                "Tetsuo Ono",
+                "Hiroshi Ishiguro"
+            ]
+        },
+        "title": {
+            "ja": "人-ロボット相互作用における身体動作の数値解析",
+            "en": "Numerical Analysis of Body Movements on Human-Robot Interaction"
+        },
         "year": "2003",
         "page": "pp.2699-2709",
         "no": "No.11",
         "vol": "Vol.44",
-        "book": "情報処理学会論文誌"
+        "book": {
+            "ja": "情報処理学会論文誌",
+            "en": "IPSJ Journal"
+        }
     },
     {
         "author": [
@@ -28,18 +42,32 @@
         "book": "International_Journal_of_Human_Computer_Interaction"
     },
     {
-        "author": [
-            "川島_英之",
-            "遠山_元道",
-            "今井_倫太",
-            "安西__祐一郎"
-        ],
-        "title": "リモートメモリを用いたセンサデータストリームの永続化",
+        "author": {
+            "ja": [
+                "川島_英之",
+                "遠山_元道",
+                "今井_倫太",
+                "安西__祐一郎"
+            ],
+            "en": [
+                "Hideyuki Kawashima",
+                "Motomichi Toyama",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "リモートメモリを用いたセンサデータストリームの永続化",
+            "en": "Providing Persistence for Sensor Data Streams Using Remote Memories"
+        },
         "year": "2003",
         "page": "pp.989",
         "no": "No.SIG12(TOD19)",
         "vol": "Vol.44",
-        "book": "情報処理学会論文誌：データベース"
+        "book": {
+            "ja": "情報処理学会論文誌：データベース",
+            "en": "IPSJ TOD"
+        }
     },
     {
         "author": [

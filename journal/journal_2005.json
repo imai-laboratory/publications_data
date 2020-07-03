@@ -1,61 +1,116 @@
 [
     {
-        "author": [
-            "梅澤_猛",
-            "今井_倫太",
-            "安西_祐一郎"
-        ],
-        "title": "領域可変型検索手法Baumによるモバイルユーザのための周辺情報提示",
+        "author": {
+            "ja": [
+                "梅澤_猛",
+                "今井_倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Umezawa Takeshi",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "領域可変型検索手法Baumによるモバイルユーザのための周辺情報提示",
+            "en": "Baum-based Location Sensitive Information Service for Mobile Users"
+        },
         "year": "2005",
         "page": "pp.3008—3015",
         "no": "No.12",
         "vol": "Vol.46",
-        "book": "情報処理学会論文誌"
+        "book": {"ja": "情報処理学会論文誌", "en": "IPSJ Journal"}
     },
     {
-        "author": [
-            "中村_学",
-            "川島_英之",
-            "佐竹_聡",
-            "今井_倫太",
-            "安西_祐一郎"
-        ],
-        "title": "コミュニケーションロボットのためのセンサデータ可視化ソフトウェアRSVの設計と実装",
+        "author": {
+            "ja": [
+                "中村_学",
+                "川島_英之",
+                "佐竹_聡",
+                "今井_倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Manabu Nakamura",
+                "Hideyuki Kawashima",
+                "Satoru Satake",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "コミュニケーションロボットのためのセンサデータ可視化ソフトウェアRSVの設計と実装",
+            "en": "RSV: Sensor Data Analysis System for Communication Robot"
+        },
         "year": "2005",
         "page": "pp.89—92",
         "no": "No.2",
         "vol": "Vol.4",
-        "book": "日本データベース学会Letters"
+        "book": {
+            "ja": "日本データベース学会Letters",
+            "en": "DBSJ Letters"
+        }
     },
     {
-        "author": [
-            "神田_崇行",
-            "鎌島_正幸",
-            "今井_倫太",
-            "小野_哲雄",
-            "坂本_大介",
-            "石黒_浩",
-            "安西_祐一郎"
-        ],
-        "title": "人間型対話ロボットのための協調的身体動作の利用",
+        "author": {
+            "ja": [
+                "神田_崇行",
+                "鎌島_正幸",
+                "今井_倫太",
+                "小野_哲雄",
+                "坂本_大介",
+                "石黒_浩",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Takayuki Kanda",
+                "Masayuki Kamashima",
+                "Michita Imai",
+                "Tetsuo Ono",
+                "Daisuke Sakamoto",
+                "Hiroshi Ishiguro",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "人間型対話ロボットのための協調的身体動作の利用",
+            "en": "Embodied Cooperative behavior for a Humanoid Robot that Communicates with Humans"
+        },
         "year": "2005",
         "page": "pp.132—143",
         "no": "No.7",
         "vol": "Vol.23",
-        "book": "日本ロボット学会誌"
+        "book": {
+            "ja": "日本ロボット学会誌",
+            "en": "Journal of the Robotics Society of Japan"
+        }
     },
     {
-        "author": [
-            "向井_淳",
-            "今井_倫太",
-            "安西_祐一郎"
-        ],
-        "title": "観測指向モデルによるロボットの自発的な行動基準の生成",
+        "author": {
+            "ja": [
+                "向井_淳",
+                "今井_倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Jun Mukai",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "観測指向モデルによるロボットの自発的な行動基準の生成",
+            "en": "Spontaneous Criterion Generation for Robot’s Behavior by the Measurement Oriented Model"
+        },
         "year": "2005",
         "page": "pp.314-324",
         "no": "No.3",
         "vol": "Vol.17",
-        "book": "知能と情報(日本知能情報ファジイ学会誌)"
+        "book": {
+            "ja": "知能と情報(日本知能情報ファジイ学会誌)",
+            "en": "journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        }
     },
     {
         "author": [
