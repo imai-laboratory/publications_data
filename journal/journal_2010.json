@@ -44,34 +44,65 @@
         "book": "Cybernetics_and_Systems:_An_International_Journal_Volume"
     },
     {
-        "author": [
-            "佐竹_聡",
-            "神田_崇行",
-            "GLAS_Dylan_F.",
-            "今井_倫太",
-            "石黒_浩",
-            "萩田_紀博"
-        ],
-        "title": "対話ロボットの人間へのアプローチ方法_:_対話ロボットの対話開始に対する戦略",
+        "author": {
+            "ja": [
+                "佐竹_聡",
+                "神田_崇行",
+                "GLAS_Dylan_F.",
+                "今井_倫太",
+                "石黒_浩",
+                "萩田_紀博"
+            ],
+            "en": [
+                "Satoru Satake",
+                "Takayuki Kanda",
+                "GLAS Dylan F.",
+                "Michita Imai",
+                "Hiroshi Ishiguro",
+                "Norihiro Hagita"
+            ]
+        },
+        "title": {
+            "ja": "対話ロボットの人間へのアプローチ方法_:_対話ロボットの対話開始に対する戦略",
+            "en": "How to Approach Humans? : Strategies for Social Robots to Initiate Interaction"
+        },
         "year": "2010",
         "page": "pp.327-337",
         "no": "No.3",
         "vol": "Vol.28",
-        "book": "日本ロボット学会誌"
+        "book": {
+            "ja": "日本ロボット学会誌",
+            "en": "Journal of the Robotics Society of Japan"
+        }
     },
     {
-        "author": [
-            "藤村_亮太",
-            "郭_斌",
-            "大村_廉",
-            "中臺_一博",
-            "今井_倫太"
-        ],
-        "title": "実物体を扱う遠隔協調作業を支援する壁面投影移動型アバタシステムRemyの提案",
+        "author": {
+            "ja": [
+                "藤村_亮太",
+                "郭_斌",
+                "大村_廉",
+                "中臺_一博",
+                "今井_倫太"
+            ],
+            "en": [
+                "Ryota Fujimura",
+                "Bin Guo",
+                "Ren Ohmura",
+                "Kazuhiro Nakadai",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "実物体を扱う遠隔協調作業を支援する壁面投影移動型アバタシステムRemyの提案",
+            "en": "Movable projection avatar system \"Remy\" for helping remote collaboration handling real objects"
+        },
         "year": "2010",
         "page": "pp.701-712",
         "no": "No.5",
         "vol": "Vol.21",
-        "book": "日本知能情報ファジィ学会誌「知能と情報」"
+        "book": {
+            "ja": "日本知能情報ファジィ学会誌「知能と情報」",
+            "en": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        }
     }
 ]

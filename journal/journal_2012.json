@@ -1,19 +1,35 @@
 [
     {
-        "author": [
-            "志和_敏之",
-            "奥野_佑将",
-            "神田_崇行",
-            "今井_倫太",
-            "石黒_浩",
-            "萩田_紀博"
-        ],
-        "title": "コミュニケーションロボットによる道案内_-ジェスチャの有用性と発話タイミングのモデル化",
+        "author": {
+            "ja": [
+                "志和_敏之",
+                "奥野_佑将",
+                "神田_崇行",
+                "今井_倫太",
+                "石黒_浩",
+                "萩田_紀博"
+            ],
+            "en": [
+                "Toshiyuki Shiwa",
+                "Yusuke Okuno",
+                "Takayuki Kanda",
+                "Michita Imai",
+                "Hiroshi Ishiguro",
+                "Norihiro Hagita"
+            ]
+        },
+        "title": {
+            "ja": "コミュニケーションロボットによる道案内_-ジェスチャの有用性と発話タイミングのモデル化",
+            "en": "Giving Route Directions from Communication Robot : Gesture's Effect and Modeling of Utterance Timing"
+        },
         "year": "2012",
         "page": "No.10",
         "no": "",
         "vol": "Vol.J95-D",
-        "book": "電子情報通信学会"
+        "book": {
+            "ja": "電子情報通信学会論文誌. D, 情報・システム",
+            "en": "The IEICE transactions on information and systems (Japanese edition)"
+        }
     },
     {
         "author": [
@@ -30,17 +46,28 @@
         "book": "Web_Intelligence_and_Agent_Systems:_An_International_Journal"
     },
     {
-        "author": [
-            "杉山_治",
-            "篠沢_一彦",
-            "今井_倫太",
-            "萩田_紀博"
-        ],
+        "author": {
+            "ja": [
+                "杉山_治",
+                "篠沢_一彦",
+                "今井_倫太",
+                "萩田_紀博"
+            ],
+            "en": [
+                "Osamu Sugiyama",
+                "Kazuhiko Shinozawa",
+                "Michita Imai",
+                "Norihiro Hagita"
+            ]
+        },
         "title": "コミュニケーションロボットのための発話とジェスチャのアサインパターンの抽出とその発展的開発手法の提案",
         "year": "2012",
         "page": "pp.46-59",
         "no": "",
         "vol": "",
-        "book": "電子情報通信学会論文誌_A_人とエージェントのインタラクション論文特集"
+        "book": {
+            "ja": "電子情報通信学会論文誌_A_人とエージェントのインタラクション論文特集",
+            "en": "IEICE Transaction on Fundamentals of Electronics, Communications and Computer Sciences (Japan Edition)"
+        }
     }
 ]

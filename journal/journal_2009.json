@@ -13,32 +13,60 @@
         "book": "IEEE_Workshop_on_Advanced_Robotics"
     },
     {
-        "author": [
-            "松田_祐児",
-            "大澤_博隆",
-            "大村_廉",
-            "今井_倫太"
-        ],
-        "title": "SRTを用いた擬人化_ロボットの表出要素の組合せ評価",
+        "author": {
+            "ja": [
+                "松田_祐児",
+                "大澤_博隆",
+                "大村_廉",
+                "今井_倫太"
+            ],
+            "en": [
+                "Yuji Matsuda",
+                "Hirotaka Osawa",
+                "Ren Ohmura",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "SRTを用いた擬人化_ロボットの表出要素の組合せ評価",
+            "en": "Evaluation of Combination of Anthropomorphic Robot's Appearances Using System Response Time"
+        },
         "year": "2009",
         "page": "pp.806-817",
         "no": "No.11",
         "vol": "Vol.A92-A",
-        "book": "電子情報通信学会論文誌"
+        "book": {
+            "ja": "電子情報通信学会論文誌. A, 基礎・境界",
+            "en": "The transactions of the Institute of Electronics, Information and Communication Engineers. A"
+        }
     },
     {
-        "author": [
-            "石井健太郎",
-            "鳩康彦",
-            "Thomas_Kanold",
-            "今井倫太"
-        ],
-        "title": "自発的に話しかける対話ロボットの話しかけの一手法",
+        "author": {
+            "ja": [
+                "石井健太郎",
+                "鳩康彦",
+                "Thomas_Kanold",
+                "今井倫太"
+            ],
+            "en": [
+                "Kentaro Ishii",
+                "Yasuhiko Hato",
+                "Thomas Kanold",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "自発的に話しかける対話ロボットの話しかけの一手法",
+            "en": "A Speaking Technique for Self-Driven Interactive Robot"
+        },
         "year": "2009",
         "page": "pp.693-700",
         "no": "No.5",
         "vol": "Vol.21_",
-        "book": "知能と情報"
+        "book": {
+            "ja": "知能と情報 : 日本知能情報ファジィ学会誌",
+            "en": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        }
     },
     {
         "author": [
@@ -68,50 +96,96 @@
         "book": "International_Journal_of_Social_Robotics"
     },
     {
-        "author": [
-            "納谷_太",
-            "高橋悟史",
-            "宮前雅一",
-            "寺田_努",
-            "野間春生",
-            "鳥山朋二",
-            "小暮_潔",
-            "西尾章治郎",
-            "今井倫太"
-        ],
-        "title": "複数人物の位置追跡のためのZigBeeセンサネットワークの開発",
+        "author": {
+            "ja": [
+                "納谷_太",
+                "高橋悟史",
+                "宮前雅一",
+                "寺田_努",
+                "野間春生",
+                "鳥山朋二",
+                "小暮_潔",
+                "西尾章治郎",
+                "今井倫太"
+            ],
+            "en": [
+                "Futoshi Naya",
+                "Satoshi Takahashi",
+                "Masakazu Miyamae",
+                "Tsutomu Terada",
+                "Haruo Noma",
+                "Tomoji Toriyama",
+                "Kiyoshi Kogure",
+                "Shojiro Nishio",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "複数人物の位置追跡のためのZigBeeセンサネットワークの開発",
+            "en": "A ZigBee-based Sensor Network System for Tracking of People's Locations"
+        },
         "year": "2009",
         "page": "pp.55-66",
         "no": "No.1",
         "vol": "Vol.14",
-        "book": "日本バーチャルリアリティ学会論文誌"
+        "book": {
+            "ja": "日本バーチャルリアリティ学会論文誌",
+            "en": "Transactions of the Virtual Reality Society of Japan"
+        }
     },
     {
-        "author": [
-            "大澤_博隆",
-            "野田_誠人",
-            "大村_廉",
-            "今井_倫太"
-        ],
-        "title": "擬人化した物体からの情報提示手法のための後付け可能な指示区画検知センサの開発",
+        "author": {
+            "ja": [
+                "大澤_博隆",
+                "野田_誠人",
+                "大村_廉",
+                "今井_倫太"
+            ],
+            "en": [
+                "Hirotaka Osawa",
+                "Masato Noda",
+                "Ren Ohmura",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "擬人化した物体からの情報提示手法のための後付け可能な指示区画検知センサの開発",
+            "en": "Development of Attachable Pointing Detection Sensor for Information-Providing by Anthropomorphized Object"
+        },
         "year": "2009",
         "page": "pp.12-23",
         "no": "No.1",
         "vol": "Vol.21",
-        "book": "知能と情報（日本知能情報ファジィ学会誌）"
+        "book": {
+            "ja": "知能と情報（日本知能情報ファジィ学会誌）",
+            "en": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        }
     },
     {
-        "author": [
-            "佐竹_聡",
-            "今井_倫太",
-            "安西_祐一郎"
-        ],
-        "title": "Seshat:作業で関わった実世界オブジェクトによるコンテンツ検索",
+        "author": {
+            "ja": [
+                "佐竹_聡",
+                "今井_倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Satoru Satake",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "Seshat:作業で関わった実世界オブジェクトによるコンテンツ検索",
+            "en": "Seshat : Contents Search Based on the Real World Objects of a Work"
+        },
         "year": "2009",
         "page": "pp.1",
         "no": "No.1",
         "vol": "Vol.11",
-        "book": "ヒューマンインタフェース学会論文誌"
+        "book": {
+            "ja": "ヒューマンインタフェース学会論文誌",
+            "en": "The Transactions of Human Interface Society"
+        }
     },
     {
         "author": [
@@ -127,19 +201,35 @@
         "book": "International_Journal_of_Social_Robotics"
     },
     {
-        "author": [
-            "志和敏之",
-            "神田崇行",
-            "今井倫太",
-            "石黒浩",
-            "萩田紀博",
-            "安西祐一郎"
-        ],
-        "title": "対話ロボットの反応時間と反応遅延時における間投詞の効果",
+        "author": {
+            "ja": [
+                "志和敏之",
+                "神田崇行",
+                "今井倫太",
+                "石黒浩",
+                "萩田紀博",
+                "安西祐一郎"
+            ],
+            "en": [
+                "Toshiyuki Shiwa",
+                "Takayuki Kanda",
+                "Michita Imai",
+                "Hiroshi Ishiguro",
+                "Norihiro Hagita",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "対話ロボットの反応時間と反応遅延時における間投詞の効果",
+            "en": "How Quickly Should Communication Robots Respond?"
+        },
         "year": "2009",
         "page": "pp.87-95",
         "no": "No._1.",
         "vol": "Vol._27.",
-        "book": "日本ロボット学会誌"
+        "book": {
+            "ja": "日本ロボット学会誌",
+            "en": "Journal of the Robotics Society of Japan"
+        }
     }
 ]
