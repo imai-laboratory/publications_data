@@ -1,17 +1,31 @@
 [
     {
-        "author": [
-            "佐竹聡",
-            "川島英之",
-            "今井倫太",
-            "安西_祐一郎"
-        ],
-        "title": "Brownie:_カメラ上に指定された過去のランドマーク情報に基づく実世界探し物検索システム",
+        "author": {
+            "ja": [
+                "佐竹聡",
+                "川島英之",
+                "今井倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Satoru Satake",
+                "Hideyuki Kawashima",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "Brownie:_カメラ上に指定された過去のランドマーク情報に基づく実世界探し物検索システム",
+            "en": "Brownie：Real World Search System Based on the Past Landmark Information from Camera Image"
+        },
         "year": "2007",
         "page": "pp.556-569",
         "no": "No.5",
         "vol": "Vol.19",
-        "book": "知能と情報(日本知能情報ファジィ学会誌)"
+        "book": {
+            "ja": "知能と情報(日本知能情報ファジィ学会誌)",
+            "en": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        }
     },
     {
         "author": [
@@ -27,18 +41,32 @@
         "book": "Journal_of_Advanced_Computational_Intelligence_and_Intelligent_Informatics_(JACIII)"
     },
     {
-        "author": [
-            "広瀬健志郎",
-            "川島英之",
-            "佐竹_聡",
-            "今井倫太"
-        ],
-        "title": "異種ロボット間でのジェスチャ情報の共有化",
+        "author": {
+            "ja": [
+                "広瀬健志郎",
+                "川島英之",
+                "佐竹_聡",
+                "今井倫太"
+            ],
+            "en": [
+                "Kenshiro Hirose",
+                "Hideyuki Kawashima",
+                "Satoru Satake",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "異種ロボット間でのジェスチャ情報の共有化",
+            "en": "Sharing Gesture Contents among Heterogeneous Robots"
+        },
         "year": "2007",
         "page": "pp.1258",
         "no": "No.1",
         "vol": "Vol.6",
-        "book": "日本データベース学会Letters"
+        "book": {
+            "ja": "日本データベース学会Letters",
+            "en": "DBSJ Letters"
+        }
     },
     {
         "author": [

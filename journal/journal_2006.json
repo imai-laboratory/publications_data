@@ -1,18 +1,32 @@
 [
     {
-        "author": [
-            "広田_裕",
-            "川島_英之",
-            "佐竹_聡",
-            "梅沢_猛",
-            "今井_倫太"
-        ],
-        "title": "セマンティック・センサネットワークの実現に向けた実世界指向メタデータ管理システムMeTの設計と実装",
+        "author": {
+            "ja": [
+                "広田_裕",
+                "川島_英之",
+                "佐竹_聡",
+                "梅沢_猛",
+                "今井_倫太"
+            ],
+            "en": [
+                "Hirota Yutaka",
+                "Kawashima Hideyuki",
+                "Umezawa Takeshi",
+                "Imai Michita"
+            ]
+        },
+        "title": {
+            "ja": "セマンティック・センサネットワークの実現に向けた実世界指向メタデータ管理システムMeTの設計と実装",
+            "en": "Design and Implementation of Real World Oriented Metadata Management System MeT for Semantic Sensor Network"
+        },
         "year": "2006",
         "page": "pp.1090—1103",
         "no": "No.12",
         "vol": "Vol.89-A",
-        "book": "信学論A"
+        "book": {
+            "ja": "電子情報通信学会論文誌. A, 基礎・境界",
+            "en": "The transactions of the Institute of Electronics, Information and Communication Engineers. A"
+        }
     },
     {
         "author": [
@@ -32,59 +46,115 @@
         "book": "connection_science"
     },
     {
-        "author": [
-            "杉山治",
-            "神田祟行",
-            "今井倫太",
-            "石黒浩",
-            "萩田紀博",
-            "安西祐一郎"
-        ],
-        "title": "コミュニケーションロボットのための指さしと指示語を用いた3段階注意誘導モデル",
+        "author": {
+            "ja": [
+                "杉山治",
+                "神田祟行",
+                "今井倫太",
+                "石黒浩",
+                "萩田紀博",
+                "安西祐一郎"
+            ],
+            "en": [
+                "Osamu Sugiyama",
+                "Takayuki Kanda",
+                "Michita Imai",
+                "Hiroshi Ishiguro",
+                "Norihiro hagita",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "コミュニケーションロボットのための指さしと指示語を用いた3段階注意誘導モデル",
+            "en": "Three-Layered Draw-Attention Model for Communication Robots with Pointing Gesture and Verbal Cues"
+        },
         "year": "2006",
         "page": "pp.964—975",
         "no": "No.8",
         "vol": "Vol.24",
-        "book": "日本ロボット学会誌"
+        "book": {
+            "ja": "日本ロボット学会誌",
+            "en": "Journal of Robotics Society of Japan"
+        }
     },
     {
-        "author": [
-            "梅沢_猛",
-            "今井_倫太",
-            "安西_祐一郎"
-        ],
-        "title": "Baumを用いたモバイルユーザ向け周辺情報提示アプリケーション",
+        "author": {
+            "ja": [
+                "梅沢_猛",
+                "今井_倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Takeshi Umezawa",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "Baumを用いたモバイルユーザ向け周辺情報提示アプリケーション",
+            "en": "A Baum-based Application of Location Sensitive Information for Mobile Users"
+        },
         "year": "2006",
         "page": "pp.2117—2124",
         "no": "No.7",
         "vol": "Vol.47",
-        "book": "情報処理学会論文誌"
+        "book": {
+            "ja": "情報処理学会論文誌",
+            "en": "IPSJ Journal"
+        }
     },
     {
-        "author": [
-            "中村_学",
-            "川島_英之",
-            "佐竹_聡",
-            "今井_倫太",
-            "安西_祐一郎"
-        ],
-        "title": "RSV:コミュニケーションロボットのためのセンサデータ解析支援システム",
+        "author": {
+            "ja": [
+                "中村_学",
+                "川島_英之",
+                "佐竹_聡",
+                "今井_倫太",
+                "安西_祐一郎"
+            ],
+            "en": [
+                "Manabu Nakamura",
+                "Hideyuki Kawashima",
+                "Satoru Satake",
+                "Michita Imai",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "RSV:コミュニケーションロボットのためのセンサデータ解析支援システム",
+            "en": "RSV: Sensor Data Analysis System for Communication Robot"
+        },
         "year": "2006",
         "page": "pp.105—120",
         "no": "No.SIG_8",
         "vol": "Vol.47",
-        "book": "情報処理学会論文誌：データベース"
+        "book": {
+            "ja": "情報処理学会論文誌：データベース",
+            "en": "IPSJ Transactions on Databases"
+        }
     },
     {
-        "author": [
-            "今井_倫太",
-            "鳴海_真里子"
-        ],
-        "title": "人間の五感を利用したロボットとのコミュニケーションへの没入の実現",
+        "author": {
+            "ja": [
+                "今井_倫太",
+                "鳴海_真里子"
+            ],
+            "en": [
+                "Michita Imai",
+                "Mariko Narumi"
+            ]
+        },
+        "title": {
+            "ja": "人間の五感を利用したロボットとのコミュニケーションへの没入の実現",
+            "en": "Immersion in Interaction with a Robot via Human's Five Senses"
+        },
         "year": "2006",
         "page": "pp.342—350",
         "no": "No.4",
         "vol": "Vol.42",
-        "book": "計測自動制御学会論文集"
+        "book": {
+            "ja": "計測自動制御学会論文集",
+            "en": "SICE Journal of Control, Measurement, and System Integration"
+        }
     }
 ]

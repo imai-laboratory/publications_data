@@ -1,19 +1,35 @@
 [
     {
-        "author": [
-            "鳩康彦",
-            "佐竹聡",
-            "神田崇行",
-            "今井倫太",
-            "萩田紀博",
-            "安西祐一郎"
-        ],
-        "title": "コミュニケーションロボットによる領域参照のための直示的インタラクションの_モデル化",
+        "author": {
+            "ja": [
+                "鳩康彦",
+                "佐竹聡",
+                "神田崇行",
+                "今井倫太",
+                "萩田紀博",
+                "安西祐一郎"
+            ],
+            "en": [
+                "Yasuhiko Hato",
+                "Satoru Satake",
+                "Takayuki Kanda",
+                "Michita Imai",
+                "Norihiro Hagita",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "コミュニケーションロボットによる領域参照のための直示的インタラクションの_モデル化",
+            "en": "Modeling of Communication Robot's Deictic Interaction Referring to Regions"
+        },
         "year": "2011",
         "page": "pp.52-63",
         "no": "No.6",
         "vol": "Vol.29",
-        "book": "日本ロボット学会誌"
+        "book": {
+            "ja": "日本ロボット学会誌",
+            "en": "Journal of the Robotics Society of Japan"
+        }
     },
     {
         "author": [

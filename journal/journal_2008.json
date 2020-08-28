@@ -1,16 +1,29 @@
 [
     {
-        "author": [
-            "古山真之",
-            "大村廉",
-            "今井倫太"
-        ],
-        "title": "インタラクティブに音楽を検索·発見できるソフトウェア「音楽夢想」",
+        "author": {
+            "ja": [
+                "古山真之",
+                "大村廉",
+                "今井倫太"
+            ],
+            "en": [
+                "Masayuki Furuyama",
+                "Ren Ohmura",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "インタラクティブに音楽を検索·発見できるソフトウェア「音楽夢想」",
+            "en": "Ongaku Musou: Interactive Software for Searching and Discovering Music"
+        },
         "year": "2008",
         "page": "pp.3918-3932",
         "no": "No.12",
         "vol": "Vol.49",
-        "book": "情報処理学会論文誌"
+        "book": {
+            "ja": "情報処理学会論文誌",
+            "en": "IPSJ Journal"
+        }
     },
     {
         "author": [
@@ -43,17 +56,30 @@
         "book": "IEICE_Transactions_on_Information_and_Systems"
     },
     {
-        "author": [
-            "大澤博隆",
-            "大村廉",
-            "今井倫太"
-        ],
-        "title": "直接擬人化手法を用いた機器からの情報提示の評価",
+        "author": {
+            "ja": [
+                "大澤博隆",
+                "大村廉",
+                "今井倫太"
+            ],
+            "en": [
+                "Hirotaka Osawa",
+                "Ren Ohmura",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "直接擬人化手法を用いた機器からの情報提示の評価",
+            "en": "Evaluation of Function Explaining from Artifacts using a Direct Anthropomorphization Method"
+        },
         "year": "2008",
         "page": "pp.11-20",
         "no": "No.3",
         "vol": "Vol.10",
-        "book": "ヒューマンインタフェース学会論文誌(特集号：オフィス・家庭における次世代インタフェース)"
+        "book": {
+            "ja": "ヒューマンインタフェース学会論文誌(特集号：オフィス・家庭における次世代インタフェース)",
+            "en": "The Transactions of Human Interface Society"
+        }
     },
     {
         "author": [
@@ -69,32 +95,61 @@
         "book": "International_Journal_of_Mobile_Information_Systems_(IJMIS)"
     },
     {
-        "author": [
-            "杉山治",
-            "神田崇行",
-            "今井倫太",
-            "石黒浩",
-            "萩田紀博",
-            "安西祐一郎"
-        ],
-        "title": "人とコミュニケーション_ロホットの直示的な会話の実現",
+        "author": {
+            "ja": [
+                "杉山治",
+                "神田崇行",
+                "今井倫太",
+                "石黒浩",
+                "萩田紀博",
+                "安西祐一郎"
+            ],
+            "en": [
+                "Osamu Sugiyama",
+                "Takayuki Kanda",
+                "Michita Imai",
+                "Hiroshi Ishiguro",
+                "Norihiro Hagita",
+                "Yuichiro Anzai"
+            ]
+        },
+        "title": {
+            "ja": "人とコミュニケーション_ロホットの直示的な会話の実現",
+            "en": "Natural Deictic Communication between Humans and Robots"
+        },
         "year": "2008",
         "page": "pp. 73-86",
         "no": "No.1",
         "vol": "Vol.10",
-        "book": "ヒューマンインタフェース学会論文誌"
+        "book": {
+            "ja": "ヒューマンインタフェース学会論文誌",
+            "en": "The Transactions of Human Interface Society"
+        }
     },
     {
-        "author": [
-            "鳴海真里子",
-            "梅澤猛",
-            "今井倫太"
-        ],
-        "title": "周辺のセンサデバイスに基づくロボットの演出行動の選択",
+        "author": {
+            "ja": [
+                "鳴海真里子",
+                "梅澤猛",
+                "今井倫太"
+            ],
+            "en": [
+                "Narumi Mariko",
+                "Umezawa Takeshi",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "周辺のセンサデバイスに基づくロボットの演出行動の選択",
+            "en": "Selecting Direction of Robot's Behavior with Environmental Sensor Divices"
+        },
         "year": "2008",
         "page": "pp.37-50",
         "no": "No.1",
         "vol": "Vol.J91-D",
-        "book": "電子情報通信学会論文誌D"
+        "book": {
+            "ja": "電子情報通信学会論文誌D",
+            "en": "The IEICE transactions on information and systems (Japanese edition)"
+        }
     }
 ]
