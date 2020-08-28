@@ -14,19 +14,35 @@
         "book": "Advanced Robotics"
     },
     {
-        "author": [
-            "松元_崇裕",
-            "後藤_充裕",
-            "石井_亮",
-            "渡部_智樹",
-            "山田_智広",
-            "今井_倫太"
-        ],
-        "title": "複数ロボットとの位置関係がユーザの対話負荷に与える影響",
+        "author": {
+            "ja": [
+                "松元_崇裕",
+                "後藤_充裕",
+                "石井_亮",
+                "渡部_智樹",
+                "山田_智広",
+                "今井_倫太"
+            ],
+            "en": [
+                "Takahiro Matsumoto",
+                "Mitsuhiro Goto",
+                "Ryo Ishii",
+                "Tomoki Watanabe",
+                "Tomohiro Yamada",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "複数ロボットとの位置関係がユーザの対話負荷に与える影響",
+            "en": "Spatial Arrangement Effects to Participant Workload in Human Multi-robots Conversation"
+        },
         "year": "2019",
         "page": "pp.340-353",
         "no": "No.2",
         "vol": "Vol.60",
-        "book": "情報処理学会論文誌"
+        "book": {
+            "ja": "情報処理学会論文誌",
+            "en": "IPSJ Journal"
+        }
     }
 ]

@@ -1,13 +1,23 @@
 [
     {
-        "author": [
-            "岡崎_裕文",
-            "金井_祐輔",
-            "尾形_正泰",
-            "長谷川_孔明",
-            "石井_健太郎",
-            "今井_倫太"
-        ],
+        "author": {
+            "ja": [
+                "岡崎_裕文",
+                "金井_祐輔",
+                "尾形_正泰",
+                "長谷川_孔明",
+                "石井_健太郎",
+                "今井_倫太"
+            ],
+            "en": [
+                "Hirofumu Okazaki",
+                "Yusuke Kanai",
+                "Masa Ogata",
+                "Komei Hasegawa",
+                "Kentaro Ishii",
+                "Michita Imai"
+            ]
+        },
         "title": "Toward_Understanding_Pedagogical_Relationship_in_Human-Robot_Interaction",
         "year": "2016",
         "page": "pp.69-78",

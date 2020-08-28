@@ -1,15 +1,28 @@
 [
     {
-        "author": [
-            "大隅_俊宏",
-            "大澤_博隆",
-            "今井_倫太"
-        ],
-        "title": "ソシオン理論に基づいたクラス内のいじめと同調方略のモデル化",
+        "author": {
+            "ja": [
+                "大隅_俊宏",
+                "大澤_博隆",
+                "今井_倫太"
+            ],
+            "en": [
+                "Toshihiro Osumi",
+                "Hirotaka Osawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ソシオン理論に基づいたクラス内のいじめと同調方略のモデル化",
+            "en": "The Simulation of Bullying and Conforming at a Class Based on Socion Theory"
+        },
         "year": "2014",
         "page": "pp. 560-570",
         "no": "No._4",
         "vol": "Vol._134",
-        "book": "電気学会論文誌C（電子・情報・システム部門誌）"
+        "book": {
+            "ja": "電気学会論文誌C（電子・情報・システム部門誌）",
+            "en": "IEEJ transactions on electronics, information and systems"
+        }
     }
 ]
