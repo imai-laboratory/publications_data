@@ -32,5 +32,22 @@
         "book": "Proceedings of the 12th International Conference on Agents and Artificial Intelligence",
         "abbrv": "ICAART",
         "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=9aaF+t4mXPE=&t=1"
+    },
+    {
+        "author": [
+            "Yohei_Otsuka",
+            "Shohei_Akita",
+            "Kohei_Okuoka",
+            "Mitsuhiko_Kimoto",
+            "Michita_Imai"
+        ],
+        "title": "PredGaze: A Incongruity Prediction Model for User's Gaze",
+        "year": "2020",
+        "page": "27",
+        "no": "",
+        "vol": "",
+        "book": "29th IEEE International Conference on Robot & Human Interactive Communication",
+        "abbrv": "RO-MAN",
+        "draft_pdf_url": "https://drive.google.com/file/d/1o7uW8Q9rttJwjk8wMntvjFMg05bZ1sK6/view?usp=sharing"
     }
 ]
