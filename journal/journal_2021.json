@@ -1,0 +1,26 @@
+[
+    {
+        "author": {
+            "ja": [
+                "妹尾 卓磨",
+                "今井 倫太"
+            ],
+            "en": [
+                "Takuma Seno",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "Policy Gradients with Memory-Augmented Critic: 微分可能メモリを用いた方策オフ型方策勾配法の安定化手法",
+            "en": "Policy Gradients with Memory-Augmented Critic: Stabilizing Off-policy Policy Gradients via Differentiable Memory"
+        },
+        "book": {
+            "ja": "人工知能学会論文誌",
+            "en": "The Japanese Society of Artificial Intelligence"
+        },
+        "year": "2021",
+        "vol": "Vol.36",
+        "no": "No.1",
+        "page": ""
+    }
+]
