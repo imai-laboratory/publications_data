@@ -2,6 +2,29 @@
     {
         "author": {
             "ja": [
+                "内海佑麻",
+                "今井倫太"
+            ],
+            "en": [
+                "Yuma Uchiumi",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "Fisher 情報量行列を用いた確率モデル上の注意計算",
+            "en": "A Computation of Visual Attentions on the Stochastic Model Using the Fisher Information Matrix"
+        },
+        "year": "2020",
+        "page": "C000029",
+        "book": {
+            "ja": "第30回 日本神経回路学会 全国大会",
+            "en": "The 30th Annual Conference of the Japanese Neural Network Society"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/160tx-vAwUWnmMlU6Do_GfN8Z8rcreQEz/view"
+    },
+    {
+        "author": {
+            "ja": [
                 "大塚 洋平",
                 "秋田 祥平", 
                 "奥岡 耕平", 
