@@ -2,6 +2,37 @@
     {
         "author": {
             "ja": [
+                "本郷 望実",
+                "松森 匠哉",
+                "福地 庸介",
+                "前川 知行",
+                "今井 倫太"
+            ],
+            "en": [
+                "Nozomi Hongo",
+                "Shoya Matsumori",
+                "Yosuke Fukuchi",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "対話支援に向けた言語情報と画像情報の対応付けによる話者のアテンション可視化",
+            "en": "Visualization of speaker’s attention by mapping language and visual information for dialogue support"
+        },
+        "year": "2020",
+        "page": "pp.79-84",
+        "no": "no.02",
+        "vol": "vol.B5",
+        "book": {
+            "ja": "言語・音声理解と対話処理研究会",
+            "en": "SIG-SLUD"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1fa7xJQX3WXvq4DZP__7GQMbc0YwlkuoD/view?usp=sharing"
+    },    
+    {
+        "author": {
+            "ja": [
                 "内海佑麻",
                 "今井倫太"
             ],
