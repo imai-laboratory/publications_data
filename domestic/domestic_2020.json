@@ -259,5 +259,20 @@
         "year": "2020",
         "book": "HAIシンポジウム2020",
         "draft_pdf_url": "http://hai-conference.net/symp2020/proceedings/pdf/P-41.pdf"
+    },
+        {
+        "author": [
+            "宝田 悠",
+            "福地 庸介",
+            "今井 倫太",
+            "高橋 達二"
+        ],
+        "title": {
+            "ja": "文脈および画像情報を加味した逐次的対話の解釈",
+            "en": "Evaluation of legible motions considering information asymmetry"
+        },
+        "year": "2020",
+        "book": "日本認知科学会第37回大会",
+        "draft_pdf_url": ""
     }
 ]
