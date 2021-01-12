@@ -2,6 +2,30 @@
     {
         "author": {
             "ja": [
+                "岨野　太一",
+                "今井 倫太"
+            ],
+            "en": [
+                "Taichi Sono",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "目的のない散歩のためのパートナーロボットにおける発話量の検討",
+            "en": "A Study on the Amount of Speech in Partner Robots for Purposeless Walking"
+        },
+        "book": {
+            "ja": "知能と情報(日本知能情報ファジィ学会誌)",
+            "en": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        },
+        "year": "2021",
+        "vol": "Vol.33",
+        "no": "No.1",
+        "page": ""
+    }
+    {
+        "author": {
+            "ja": [
                 "妹尾 卓磨",
                 "今井 倫太"
             ],
