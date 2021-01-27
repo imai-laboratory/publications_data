@@ -1,5 +1,18 @@
 [
     {
+        "author": [
+            "森本 くるみ",
+            "松森 匠哉",
+            "奥岡 耕平",
+            "木本 充彦",
+            "今井 倫太"
+        ],
+        "title": "レジュメ型オンライン会議における音声の言語情報を用いたスクローリングインタラクションの基礎検討",
+        "year": "2020",
+        "book": "第190回 ヒューマンコンピュータインタラクション研究会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1M6ovm8-dBOqeR5FQtokxCoBSA2ZAKchk/view?usp=sharing"
+    },
+    {
         "author": {
             "ja": [
                 "本郷 望実",
@@ -274,18 +287,5 @@
         "year": "2020",
         "book": "日本認知科学会第37回大会",
         "draft_pdf_url": ""
-    },
-        {
-        "author": [
-            "森本 くるみ",
-            "松森 匠哉",
-            "奥岡 耕平",
-            "木本 充彦",
-            "今井 倫太"
-        ],
-        "title": "レジュメ型オンライン会議における音声の言語情報を用いたスクローリングインタラクションの基礎検討",
-        "year": "2020",
-        "book": "第190回 ヒューマンコンピュータインタラクション研究会",
-        "draft_pdf_url": "https://drive.google.com/file/d/1M6ovm8-dBOqeR5FQtokxCoBSA2ZAKchk/view?usp=sharing"
     }
 ]
