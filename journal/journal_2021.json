@@ -2,6 +2,32 @@
     {
         "author": {
             "ja": [
+                "奥岡 耕平",
+                "大澤 正彦", 
+                "今井 倫太"
+            ],
+            "en": [
+                "Kohei Okuoka",
+                "Masahiko Osawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "遠隔操作と自律操作を適応的に切り替える半自律テレプレゼンスロボットアーキテクチャ",
+            "en": "Semi-Autonomous Telepresence Robot Architecture for Adaptively Switching between Remote and Autonomous Operation"
+        },
+        "book": {
+            "ja": "人工知能学会論文誌",
+            "en": "The Japanese Society of Artificial Intelligence"
+        },
+        "year": "2021",
+        "vol": "Vol.36",
+        "no": "No.2",
+        "page": "D-K47_1-12"
+    },
+    {
+        "author": {
+            "ja": [
                 "岨野　太一",
                 "今井 倫太"
             ],
