@@ -1,1 +1,41 @@
-
+[
+    {
+        "author": [
+            "柴田 遼一",
+            "吉野 哲平",
+            "松森 匠哉",
+            "福地 庸介",
+            "木本 充彦",
+            "今井 倫太"
+        ],
+        "title": "不完全な検索クエリにおける対話履歴からの検索ワード補完手法の検討",
+        "year": "2021",
+        "book": "情報処理学会第83回全国大会. 2021",
+        "draft_pdf_url": "https://www.ipsj.or.jp/event/taikai/83/ipsj_web2021/data/pdf/6Q-03.html"
+    },
+    {
+        "author": [
+            "金沢壮真",
+            "松森匠哉",
+            "新行内浩輔",
+            "福地庸介",
+            "今井倫太"
+        ],
+        "title": "視覚情報を用いた対話型物体特定タスクにおける質問数削減手法の検討",
+        "year": "2021",
+        "book": "情報処理学会第83回全国大会. 2021",
+        "draft_pdf_url": "https://www.ipsj.or.jp/event/taikai/83/ipsj_web2021/data/pdf/6Q-06.html"
+    },
+    {
+        "author": [
+            "渡邊悠太",
+            "福地庸介",
+            "前川知行",
+            "今井倫太"
+        ],
+        "title": "行動情報と発話情報の組み合わせによる信念と欲求の逐次的推測モデルの検討",
+        "year": "2021",
+        "book": "情報処理学会第83回全国大会. 2021",
+        "draft_pdf_url": "https://www.ipsj.or.jp/event/taikai/83/ipsj_web2021/data/pdf/1ZB-04.html"
+    }
+]
