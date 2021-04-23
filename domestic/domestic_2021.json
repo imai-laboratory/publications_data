@@ -1,5 +1,32 @@
 [
     {
+        "author": {
+            "ja": [
+                "内海 佑麻",
+                "福地 庸介",
+                "木本 充彦",
+                "今井 倫太"
+            ],
+            "en": [
+                "Yuma Uchiumi",
+                "Yosuke Fukuchi",
+                "Mitsuhiko Kimoto",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "曖昧性解消における視覚的注意へのトップダウン介入 - Duck-Rabbit illusionの反転現象を例として",
+            "en": "A Top-down Penetration to the Visual Attention via Elimination of the Ambiguity - Rethinking Duck-Rabbit illusion"
+        },
+        "year": "2021",
+        "page": "C000363",
+        "book": {
+            "ja": "第35回人工知能学会全国大会",
+            "en": "The 35th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": ""
+    },
+    {
         "author": [
             "柴田 遼一",
             "吉野 哲平",
