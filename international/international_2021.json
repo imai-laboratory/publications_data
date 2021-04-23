@@ -16,36 +16,5 @@
         "book": "Proceedings of the 13th International Conference on Agents and Artificial Intelligence",
         "abbrv": "ICAART",
         "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=nCFsLQXzweo=&t=1"
-    }, 
-    {
-        "author": [
-            "Yuma Uchiumi",
-            "Yuki Abe",
-            "Michita Imai"
-        ],
-        "title": "Disentangled Motion Representation Learning for Video Encoding and Generation",
-        "year": "2021",
-        "page": "",
-        "no": "",
-        "vol": "",
-        "book": "2021 International Symposium on Intelligent Unmanned Systems and Artificial Intelligence",
-        "abbrv": "SIUSAI",
-        "draft_pdf_url": ""
-    },
-    {
-        "author": [
-            "Yuma Uchiumi",
-            "Yosuke Fukuchi",
-            "Mitsuhiko Kimoto",
-            "Michita Imai"
-        ],
-        "title": "A Top-down Penetration to the Visual Attention via Elimination of the Ambiguity",
-        "year": "2021",
-        "page": "",
-        "no": "",
-        "vol": "",
-        "book": "The 35th Annual Conference of the Japanese Society for Artificial Intelligence",
-        "abbrv": "JSAI",
-        "draft_pdf_url": ""
     }
 ]
