@@ -2,6 +2,33 @@
     {
         "author": {
             "ja": [
+                "前川 知行",
+                "松森 匠哉",
+                "福地 庸介",
+                "今井 倫太"
+            ],
+            "en": [
+                "Tomoyuki Maekawa",
+                "Shoya Matsumori",
+                "Yosuke Fukuchi",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "文脈の中で相互理解感を形作る推薦対話システム",
+            "en": "Context-dependent recommendation dialogue system　forming sense of mutual understanding"
+        },
+        "year": "2021",
+        "page": "pp.40-46",
+        "book": {
+            "ja": "日本認知科学会第38回大会",
+            "en": "The 38th Annual Meeting of the Japanese Cognitive Science Society"
+        },
+        "draft_pdf_url": "https://www.jcss.gr.jp/meetings/jcss2021/proceedings/pdf/JCSS2021_O3-1F.pdf"
+    },
+    {
+        "author": {
+            "ja": [
                 "内海 佑麻",
                 "福地 庸介",
                 "木本 充彦",
