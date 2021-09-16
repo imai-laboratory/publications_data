@@ -2,6 +2,24 @@
 [
     {
         "author": [
+            "Shoya Matsumori",
+            "Kosuke Shingyouchi",
+            "Yuki Abe",
+            "Yosuke Fukuchi",
+            "Komei Sugiura",
+            "Michita_Imai"
+        ],
+        "title": "Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue",
+        "year": "2021",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings of International Conference on Computer Vision (ICCV), (to appear)",
+        "abbrv": "ICCV",
+        "draft_pdf_url": "https://arxiv.org/abs/2106.15550"
+    },
+    {
+        "author": [
             "Nanase_Otake",
             "Shoya_Matsumori",
             "Yosuke_Fukuchi",
