@@ -1,5 +1,24 @@
 [
     {
+        "author": [
+                "土屋 碧渡",
+                "川崎 陽祐",
+                "渡邊 悠太",
+                "佐藤 夏樹",
+                "福地 庸介",
+                "松森 匠哉",
+                "前川 知行",
+                "髙橋 正樹",
+                "今井 倫太"
+            ],
+        "title": "アクショングラフを用いて位置情報をもとにした信念と欲求の推定システム",
+        "year": "2021",
+        "page": "pp.1-6",
+        "no":"CNR2021-4",
+        "book":  "クラウドネットワークロボット研究会(第４１回)",
+        "draft_pdf_url": "https://drive.google.com/file/d/1vPMePHVOyauxb2UcM3IhZihLqaZ4E5fV/view?usp=sharing"
+    },
+    {
         "author": {
             "ja": [
                 "前川 知行",
