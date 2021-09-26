@@ -2,6 +2,21 @@
 [
     {
         "author": [
+            "Soma Kanazawa",
+            "Shoya Matsumori",
+            "Michita_Imai"
+        ],
+        "title": "Improving Goal-Oriented Visual Dialogue by Asking Fewer Questions",
+        "year": "2021",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The 28th International Conference on Neural Information Processing, (to appear)",
+        "abbrv": "ICONIP",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Shoya Matsumori",
             "Kosuke Shingyouchi",
             "Yuki Abe",
