@@ -2,6 +2,32 @@
     {
         "author": {
             "ja": [
+                "Mitsuhiko Kimoto",
+                "Yuuki Yasumatsu", 
+                "Michita Imai"
+            ],
+            "en": [
+                "Mitsuhiko Kimoto",
+                "Yuuki Yasumatsu",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "Help-Estimator: Robot Requests for Help from Humans by Estimating a Person's Subjective Time",
+            "en": "Help-Estimator: Robot Requests for Help from Humans by Estimating a Person's Subjective Time"
+        },
+        "book": {
+            "ja": "International Journal of Social Robotics",
+            "en": "International Journal of Social Robotics"
+        },
+        "year": "2021",
+        "vol": "",
+        "no": "",
+        "page": ""
+    },
+    {
+        "author": {
+            "ja": [
                 "奥岡 耕平",
                 "大澤 正彦", 
                 "今井 倫太"
