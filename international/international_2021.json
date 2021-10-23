@@ -26,12 +26,12 @@
         ],
         "title": "Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue",
         "year": "2021",
-        "page": "",
+        "page": "1898-1907",
         "no": "",
         "vol": "",
-        "book": "Proceedings of International Conference on Computer Vision (ICCV), (to appear)",
+        "book": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
         "abbrv": "ICCV",
-        "draft_pdf_url": "https://arxiv.org/abs/2106.15550"
+        "draft_pdf_url": "https://openaccess.thecvf.com/content/ICCV2021/html/Matsumori_Unified_Questioner_Transformer_for_Descriptive_Question_Generation_in_Goal-Oriented_Visual_ICCV_2021_paper.html"
     },
     {
         "author": [
