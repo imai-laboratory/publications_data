@@ -2,6 +2,23 @@
 [
     {
         "author": [
+            "Yuta Watanabe",
+            "Yosuke Fukuchi",
+            "Tomoyuki Maekawa",
+            "Shoya Matsumori",
+            "Michita_Imai"
+        ],
+        "title": "Inferring Human Beliefs and Desires from their Actions and the Content of their Utterances",
+        "year": "2021",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "HAI2021 poster session, (to appear)",
+        "abbrv": "HAI",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Soma Kanazawa",
             "Shoya Matsumori",
             "Michita_Imai"
