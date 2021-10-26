@@ -2,6 +2,36 @@
 [
     {
         "author": [
+            "Takuma Seno",
+            "Michita_Imai"
+        ],
+        "title": "d3rlpy: An Offline Deep Reinforcement Learning Library",
+        "year": "2021",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Thirty-fifth Conference on Neural Information Processing Systems, Offline Reinforcement Learning Workshop",
+        "abbrv": "NeurIPS",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
+            "Ryuji Imamura",
+            "Takuma Seno",
+            "Kenta Kawamoto",
+            "Michael Spranger"
+        ],
+        "title": "Expert Human-Level Driving in Gran Turismo Sport Using Deep Reinforcement Learning with Image-based Representation",
+        "year": "2021",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Thirty-fifth Conference on Neural Information Processing Systems, Deep Reinforcement Learning Workshop",
+        "abbrv": "NeurIPS",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Yuta Watanabe",
             "Yosuke Fukuchi",
             "Tomoyuki Maekawa",
