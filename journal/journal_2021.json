@@ -2,6 +2,37 @@
     {
         "author": {
             "ja": [
+                "Shoya Matsumori",
+                "Yuki Abe", 
+                "Kosuke Shingyouchi",
+                "Komei Sugiura",
+                "Michita Imai"
+            ],
+            "en": [
+                "Shoya Matsumori",
+                "Yuki Abe", 
+                "Kosuke Shingyouchi",
+                "Komei Sugiura",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation",
+            "en": "LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation"
+        },
+        "book": {
+            "ja": "IEEE Access",
+            "en": "IEEE Access"
+        },
+        "year": "2021",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://ieeexplore.ieee.org/document/9620071"
+    },
+    {
+        "author": {
+            "ja": [
                 "Mitsuhiko Kimoto",
                 "Yuuki Yasumatsu", 
                 "Michita Imai"
