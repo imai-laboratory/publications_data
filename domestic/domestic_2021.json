@@ -1,6 +1,22 @@
 [
     {
         "author": [
+                "井上 南",
+                "前川 知行",
+                "松森 匠哉",
+                "柴田 遼一",
+                "吉野 哲平",
+                "今井 倫太"
+            ],
+        "title": "ロボット間の対話における指示語・省略が第三者に与える印象の検討",
+        "year": "2021",
+        "page": "pp.1-8",
+        "no":"25",
+        "book":  "第195回 ヒューマンコンピュータインタラクション研究会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1Axe7q1YNV73IoG8d9yIqhBNv-1Hl0AeS/view?usp=sharing"
+    },
+    {
+        "author": [
                 "土屋 碧渡",
                 "川崎 陽祐",
                 "渡邊 悠太",
