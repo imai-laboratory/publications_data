@@ -1,0 +1,33 @@
+[
+    {
+        "author": {
+            "ja": [
+                "Yosuke_Fukuchi",
+                "Masahiko_Osawa",
+                "Hiroshi_Yamakawa",
+                "Tatsuji_Takahashi",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Yosuke_Fukuchi",
+                "Masahiko_Osawa",
+                "Hiroshi_Yamakawa",
+                "Tatsuji_Takahashi",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Conveying Intention by Motions With Awareness of Information Asymmetry",
+            "en": "Conveying Intention by Motions With Awareness of Information Asymmetry"
+        },
+        "book": {
+            "ja": "Frontiers in Robotics and AI",
+            "en": "Frontiers in Robotics and AI"
+        },
+        "year": "2022",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://www.frontiersin.org/articles/10.3389/frobt.2022.783863/full"
+    }
+]
