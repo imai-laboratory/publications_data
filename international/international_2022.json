@@ -2,99 +2,20 @@
 [
     {
         "author": [
-            "Takuma Seno",
-            "Michita_Imai"
+            "Ryoichi Shibata", 
+            "Shoya Matsumori", 
+            "Yosuke Fukuchi", 
+            "Tomoyuki Maekawa", 
+            "Mitsuhiko Kimoto", 
+            "Michita Imai"
         ],
-        "title": "d3rlpy: An Offline Deep Reinforcement Learning Library",
-        "year": "2021",
-        "page": "",
+        "title": "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue",
+        "year": "2022",
+        "page": "734-745",
         "no": "",
         "vol": "",
-        "book": "Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS), Offline Reinforcement Learning Workshop",
-        "abbrv": "NeurIPS",
-        "draft_pdf_url": ""
-    },
-    {
-        "author": [
-            "Yuta Watanabe",
-            "Yosuke Fukuchi",
-            "Tomoyuki Maekawa",
-            "Shoya Matsumori",
-            "Michita_Imai"
-        ],
-        "title": "Inferring Human Beliefs and Desires from their Actions and the Content of their Utterances",
-        "year": "2021",
-        "page": "",
-        "no": "",
-        "vol": "",
-        "book": "The Ninth International Conference on Human-Agent Interaction, poster session, (to appear)",
-        "abbrv": "HAI",
-        "draft_pdf_url": ""
-    },
-    {
-        "author": [
-            "Soma Kanazawa",
-            "Shoya Matsumori",
-            "Michita_Imai"
-        ],
-        "title": "Improving Goal-Oriented Visual Dialogue by Asking Fewer Questions",
-        "year": "2021",
-        "page": "158-169",
-        "no": "Part II",
-        "vol": "",
-        "book": "Proceedings of the 28th International Conference on Neural Information Processing",
-        "abbrv": "ICONIP",
-        "draft_pdf_url": "https://link.springer.com/chapter/10.1007/978-3-030-92270-2_14"
-    },
-    {
-        "author": [
-            "Shoya Matsumori",
-            "Kosuke Shingyouchi",
-            "Yuki Abe",
-            "Yosuke Fukuchi",
-            "Komei Sugiura",
-            "Michita_Imai"
-        ],
-        "title": "Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue",
-        "year": "2021",
-        "page": "1898-1907",
-        "no": "",
-        "vol": "",
-        "book": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
-        "abbrv": "ICCV",
-        "draft_pdf_url": "https://openaccess.thecvf.com/content/ICCV2021/html/Matsumori_Unified_Questioner_Transformer_for_Descriptive_Question_Generation_in_Goal-Oriented_Visual_ICCV_2021_paper.html"
-    },
-    {
-        "author": [
-            "Nanase_Otake",
-            "Shoya_Matsumori",
-            "Yosuke_Fukuchi",
-            "Yusuke_Takimoto",
-            "Michita_Imai"
-        ],
-        "title": "Mixed Reference Interpretation in Multi-turn Conversation",
-        "year": "2021",
-        "page": "321-328",
-        "no": "",
-        "vol": "1",
-        "book": "Proceedings of the 13th International Conference on Agents and Artificial Intelligence",
-        "abbrv": "ICAART",
-        "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=nCFsLQXzweo=&t=1"
-    },
-    {
-        "author": [
-            "Teppei_Yoshino",
-            "Shoya_Matsumori",
-            "Yosuke_Fukuchi",
-            "Michita_Imai"
-        ],
-        "title": "Simultaneous Contextualization and Interpretation with Keyword Awareness",
-        "year": "2021",
-        "page": "403-413",
-        "no": "",
-        "vol": "",
-        "book": "International Conference on Artificial Intelligence and Soft Computing",
-        "abbrv": "ICAISC",
-        "draft_pdf_url": "https://drive.google.com/file/d/1kNPCHUSM1CDpzDixUMQAwCSpBvLmZ8GY/view?usp=sharing"
+        "book": "In 27th International Conference on Intelligent User Interfaces (IUI '22)",
+        "abbrv": "IUI",
+        "draft_pdf_url": "https://doi.org/10.1145/3490099.3511116"
     }
 ]
