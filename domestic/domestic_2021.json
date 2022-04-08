@@ -1,6 +1,24 @@
 [
     {
         "author": [
+            "土屋 碧渡",
+            "川崎 陽祐",
+            "渡邊 悠太",
+            "佐藤 夏樹",
+            "福地 庸介",
+            "松森 匠哉",
+            "前川 知行",
+            "髙橋 正樹",
+            "今井 倫太"
+        ],
+        "title": "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",
+        "year": "2021",
+        "no": "1ZE-08",
+        "book": "情報処理学会　第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1BuybOaecJVzS5LV8DnlZEBGePU26Pnuf/view?usp=sharing"
+    },
+    {
+        "author": [
                 "井上 南",
                 "前川 知行",
                 "松森 匠哉",
