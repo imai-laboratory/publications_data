@@ -1,6 +1,20 @@
 [
     {
         "author": [
+                "下山香音",
+                "大塚洋平",
+                "金重有哉",
+                "木本充彦",
+                "今井倫太"
+            ],
+        "title": "ロボットの経験を伝える発話とジェスチャの同時生成システム",
+        "year": "2021",
+        "no":"1ZE-06",
+        "book":  "情報処理学会　第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1lt3LOemiEVrjHuXNOK4aZw8SZz4b04EX/view?usp=sharing"
+    },
+    {
+        "author": [
                 "井上 南",
                 "前川 知行",
                 "松森 匠哉",
