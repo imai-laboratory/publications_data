@@ -9,12 +9,13 @@
                 "今井 倫太"
             ],
         "title": "冗長さの異なるロボット発話を生成する手法の検討",
-        "year": "2022",
+        "year": "2021",
         "no":"1ZE-03",
         "book":  "情報処理学会　第84回全国大会",
         "draft_pdf_url": "https://drive.google.com/file/d/1bhXAdkF8teOcJ4tbCRQNEJHFEvkcMnnp/view?usp=sharing"
     },
-    "author": [
+    {
+        "author": [
                 "下山香音",
                 "大塚洋平",
                 "金重有哉",
