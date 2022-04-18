@@ -1,6 +1,19 @@
 [
     {
         "author": [
+            "長谷川 麟太郎",
+            "福地 庸介",
+            "奥岡 耕平",
+            "今井 倫太"
+        ],
+        "title": "Advantage関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",
+        "year": "2021",
+        "no": "5ZD-06",
+        "book": "情報処理学会　第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1wFeRfRuTmLRikFuZXDXAzANkwCpJTwJv/view?usp=sharing"
+    },
+    {
+        "author": [
             "土屋 碧渡",
             "川崎 陽祐",
             "渡邊 悠太",
