@@ -1,0 +1,66 @@
+[
+    {
+        "author": [
+            "長谷川 麟太郎",
+            "福地 庸介",
+            "奥岡 耕平",
+            "今井 倫太"
+        ],
+        "title": "Advantage関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",
+        "year": "2022",
+        "page": "pp.39-40",
+        "no": "No.4",
+        "book": "情報処理学会 第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1wFeRfRuTmLRikFuZXDXAzANkwCpJTwJv/view?usp=sharing"
+    },
+    {
+        "author": [
+            "土屋 碧渡",
+            "川崎 陽祐",
+            "渡邊 悠太",
+            "佐藤 夏樹",
+            "福地 庸介",
+            "松森 匠哉",
+            "前川 知行",
+            "髙橋 正樹",
+            "今井 倫太"
+        ],
+        "title": "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",
+        "year": "2022",
+        "page": "pp.95-96",
+        "no": "No.4",
+        "book": "情報処理学会 第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1BuybOaecJVzS5LV8DnlZEBGePU26Pnuf/view?usp=sharing"
+    },
+    {
+        "author": [
+                "井上 南",
+                "前川 知行",
+                "松森 匠哉",
+                "柴田 遼一",
+                "吉野 哲平",
+                "今井 倫太"
+            ],
+        "title": "冗長さの異なるロボット発話を生成する手法の検討",
+        "year": "2022",
+        "page": "pp.85-86",
+        "no": "No.4",
+        "book":  "情報処理学会 第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1bhXAdkF8teOcJ4tbCRQNEJHFEvkcMnnp/view?usp=sharing"
+    },
+    {
+        "author": [
+                "下山香音",
+                "大塚洋平",
+                "金重有哉",
+                "木本充彦",
+                "今井倫太"
+            ],
+        "title": "ロボットの経験を伝える発話とジェスチャの同時生成システム",
+        "year": "2022",
+        "page": "pp.91-92",
+        "no": "No.4",
+        "book":  "情報処理学会 第84回全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1lt3LOemiEVrjHuXNOK4aZw8SZz4b04EX/view?usp=sharing"
+    }
+]
