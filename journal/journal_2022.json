@@ -29,5 +29,34 @@
         "no": "783863",
         "page": "",
         "draft_pdf_url": "https://www.frontiersin.org/articles/10.3389/frobt.2022.783863/full"
+    },
+        {
+        "author": {
+            "ja": [
+                "Yosuke_Fukuchi",
+                "Masahiko_Osawa",
+                "Hiroshi_Yamakawa",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Yosuke_Fukuchi",
+                "Masahiko_Osawa",
+                "Hiroshi_Yamakawa",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Explaining Intelligent Agent’s Future Motion on Basis of Vocabulary Learning With Human Goal Inference",
+            "en": "Explaining Intelligent Agent’s Future Motion on Basis of Vocabulary Learning With Human Goal Inference"
+        },
+        "book": {
+            "ja": "IEEE Access",
+            "en": "IEEE Access"
+        },
+        "year": "2022",
+        "vol": "10",
+        "no": "",
+        "page": "54336–54347",
+        "draft_pdf_url": "https://ieeexplore.ieee.org/document/9777698"
     }
 ]
