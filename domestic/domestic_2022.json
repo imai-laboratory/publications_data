@@ -1,6 +1,29 @@
 [    
     {
     "author": [
+            "松森匠哉",
+            "奥岡耕平",
+            "柴田遼一",
+            "井上南", 
+            "吉野哲平",
+            "福地庸介",
+            "岩沢透",
+            "今井倫太"
+        ],
+    "title": {
+        "ja": "マスク言語モデルを利用したOpen Cloze問題の自動生成",
+        "en": "Open Cloze Question Generation using Masked Language Model"
+    },
+    "year": "2022",
+    "page": "3N4-GS-10-04",
+    "book": {
+        "ja": "第36回人工知能学会全国大会",
+        "en": "The 36th Annual Conference of the Japanese Society for Artificial Intelligence"
+    },
+    "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3N4GS1004/_article/-char/ja/"
+    },
+    {
+    "author": [
             "神部理咲",
             "金重有哉",
             "木本充彦",
