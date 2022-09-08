@@ -1,4 +1,23 @@
-[
+[    
+    {
+    "author": [
+            "神部理咲",
+            "金重有哉",
+            "木本充彦",
+            "今井倫太"
+        ],
+    "title": {
+        "ja": "会話の引き継ぎ支援に向けた話者交代前後における話題構造分析",
+        "en": "Comparison and Structure Analysis of Conversation Topics Before and After Speaker's Replacement in Order to Assist Dialogue Inheritance"
+    },
+    "year": "2022",
+    "page": "3L4-GS-8-02",
+    "book": {
+        "ja": "第36回人工知能学会全国大会",
+        "en": "The 36th Annual Conference of the Japanese Society for Artificial Intelligence"
+    },
+    "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3L4GS802/_article/-char/ja/"
+    },
     {
         "author": [
             "長谷川 麟太郎",
