@@ -58,5 +58,36 @@
         "no": "",
         "page": "54336–54347",
         "draft_pdf_url": "https://ieeexplore.ieee.org/document/9777698"
+    },
+    {
+        "author": {
+            "ja": [
+                "Riki Satogata",
+                "Mitsuhiko_Kimoto",
+                "Yosuke_Fukuchi",
+                "Kohei_Okuoka",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Riki Satogata",
+                "Mitsuhiko_Kimoto",
+                "Yosuke_Fukuchi",
+                "Kohei_Okuoka",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Q-Mapping: Learning User-Preferred Operation Mappings with Operation-Action Value Function",
+            "en": "Q-Mapping: Learning User-Preferred Operation Mappings with Operation-Action Value Function"
+        },
+        "book": {
+            "ja": "IEEE Transactions on Human-Machine Systems",
+            "en": "IEEE Transactions on Human-Machine Systems"
+        },
+        "year": "2022",
+        "vol": "",
+        "no": "",
+        "page": "13pages",
+        "draft_pdf_url": "DOI:10.1109/THMS.2022.3207372"
     }
 ]
