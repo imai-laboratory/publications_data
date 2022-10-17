@@ -89,5 +89,34 @@
         "no": "",
         "page": "13pages",
         "draft_pdf_url": "https://drive.google.com/file/d/15gIiAU_cUPUeTjXJDpDe0PEXJ9nE_Id9/view?usp=sharing"
+    },
+    {
+        "author": {
+            "ja": [
+                "Kohei_Okuoka",
+                "Kouichi_Enami",
+                "Mitsuhiko_Kimoto",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Kohei_Okuoka",
+                "Kouichi_Enami",
+                "Mitsuhiko_Kimoto",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Multi-device trust transfer: Can trust be transferred among multiple devices?",
+            "en": "Multi-device trust transfer: Can trust be transferred among multiple devices?"
+        },
+        "book": {
+            "ja": "Frontiers in Psychology",
+            "en": "Frontiers in Psychology"
+        },
+        "year": "2022",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.920844/full"
     }
 ]
