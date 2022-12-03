@@ -2,6 +2,31 @@
     {
         "author": {
             "ja": [
+                "Takuma_Seno",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Takuma_Seno",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "d3rlpy: An Offline Deep Reinforcement Learning Library",
+            "en": "d3rlpy: An Offline Deep Reinforcement Learning Library"
+        },
+        "book": {
+            "ja": "Journal of Machine Learning Research",
+            "en": "Journal of Machine Learning Research"
+        },
+        "year": "2022",
+        "vol": "23",
+        "no": "315",
+        "page": "1-20",
+        "draft_pdf_url": "https://www.jmlr.org/papers/volume23/22-0017/22-0017.pdf"
+    },
+    {
+        "author": {
+            "ja": [
                 "Yosuke_Fukuchi",
                 "Masahiko_Osawa",
                 "Hiroshi_Yamakawa",
