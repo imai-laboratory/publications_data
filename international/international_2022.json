@@ -2,6 +2,22 @@
 [
     {
         "author": [
+            "Kaon Shimoyama", 
+            "Kohei Okuoka", 
+            "Mitsuhiko Kimoto", 
+            "Michita Imai"
+        ],
+        "title": "VISTURE: A System for Video-Based Gesture and Speech Generation by Robots",
+        "year": "2022",
+        "page": "185–193",
+        "no": "",
+        "vol": "",
+        "book": "10th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI",
+        "draft_pdf_url": "https://doi.org/10.1145/3527188.3561931"
+    }
+    ,{
+        "author": [
             "Ryoichi Shibata", 
             "Shoya Matsumori", 
             "Yosuke Fukuchi", 
