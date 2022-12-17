@@ -1,10 +1,25 @@
-
 [
     {
         "author": [
-            "Kaon Shimoyama", 
-            "Kohei Okuoka", 
-            "Mitsuhiko Kimoto", 
+            "Rintaro Hasegawa",
+            "Yosuke Fukuchi",
+            "Kohei Okuoka",
+            "Michita Imai"
+        ],
+        "title": "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function",
+        "year": "2022",
+        "page": "95-103",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings of the 10th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI",
+        "draft_pdf_url": "https://dl.acm.org/doi/10.1145/3527188.3561917"
+    },
+    {
+        "author": [
+            "Kaon Shimoyama",
+            "Kohei Okuoka",
+            "Mitsuhiko Kimoto",
             "Michita Imai"
         ],
         "title": "VISTURE: A System for Video-Based Gesture and Speech Generation by Robots",
@@ -15,14 +30,14 @@
         "book": "Proceedings of the 10th International Conference on Human-Agent Interaction",
         "abbrv": "HAI",
         "draft_pdf_url": "https://doi.org/10.1145/3527188.3561931"
-    }
-    ,{
+    },
+    {
         "author": [
-            "Ryoichi Shibata", 
-            "Shoya Matsumori", 
-            "Yosuke Fukuchi", 
-            "Tomoyuki Maekawa", 
-            "Mitsuhiko Kimoto", 
+            "Ryoichi Shibata",
+            "Shoya Matsumori",
+            "Yosuke Fukuchi",
+            "Tomoyuki Maekawa",
+            "Mitsuhiko Kimoto",
             "Michita Imai"
         ],
         "title": "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue",
