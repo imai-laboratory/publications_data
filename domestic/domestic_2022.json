@@ -1,45 +1,61 @@
-[    
+[
     {
-    "author": [
+        "author": [
+            "佐久間唯太",
+            "前川知行",
+            "柴田遼一",
+            "植田有咲",
+            "杉浦孔明",
+            "今井倫太"
+        ],
+        "title": "対話的画像修正による好み推定に向けたインターフェースの検討",
+        "year": "2022",
+        "page": "1-5",
+        "no": "2022-HCI-200",
+        "book": "第200回 ヒューマンコンピュータインタラクション研究会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1G5KqCrbygtc2kvTjzMzJ4Y6Wmuq6GegB/view?usp=sharing"
+    },
+    {
+        "author": [
             "松森匠哉",
             "奥岡耕平",
             "柴田遼一",
-            "井上南", 
+            "井上南",
             "吉野哲平",
             "福地庸介",
             "岩沢透",
             "今井倫太"
         ],
-    "title": {
-        "ja": "マスク言語モデルを利用したOpen Cloze問題の自動生成",
-        "en": "Open Cloze Question Generation using Masked Language Model"
-    },
-    "year": "2022",
-    "page": "3N4-GS-10-04",
-    "book": {
-        "ja": "第36回人工知能学会全国大会",
-        "en": "The 36th Annual Conference of the Japanese Society for Artificial Intelligence"
-    },
-    "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3N4GS1004/_article/-char/ja/"
+        "title": {
+            "ja": "マスク言語モデルを利用したOpen Cloze問題の自動生成",
+            "en": "Open Cloze Question Generation using Masked Language Model"
+        },
+        "year": "2022",
+        "page": "3N4-GS-10-04",
+        "book": {
+            "ja": "第36回人工知能学会全国大会",
+            "en": "The 36th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3N4GS1004/_article/-char/ja/"
     },
     {
-    "author": [
+        "author": [
             "神部理咲",
             "金重有哉",
             "木本充彦",
             "今井倫太"
         ],
-    "title": {
-        "ja": "会話の引き継ぎ支援に向けた話者交代前後における話題構造分析",
-        "en": "Comparison and Structure Analysis of Conversation Topics Before and After Speaker's Replacement in Order to Assist Dialogue Inheritance"
-    },
-    "year": "2022",
-    "page": "3L4-GS-8-02",
-    "book": {
-        "ja": "第36回人工知能学会全国大会",
-        "en": "The 36th Annual Conference of the Japanese Society for Artificial Intelligence"
-    },
-    "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3L4GS802/_article/-char/ja/"
+        "title": {
+            "ja": "会話の引き継ぎ支援に向けた話者交代前後における話題構造分析",
+            "en": "Comparison and Structure Analysis of Conversation Topics Before and After Speaker's Replacement in Order to Assist Dialogue Inheritance"
+        },
+        "year": "2022",
+        "page": "3L4-GS-8-02",
+        "book": {
+            "ja": "第36回人工知能学会全国大会",
+            "en": "The 36th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3L4GS802/_article/-char/ja/"
     },
     {
         "author": [
@@ -76,33 +92,33 @@
     },
     {
         "author": [
-                "井上 南",
-                "前川 知行",
-                "松森 匠哉",
-                "柴田 遼一",
-                "吉野 哲平",
-                "今井 倫太"
-            ],
+            "井上 南",
+            "前川 知行",
+            "松森 匠哉",
+            "柴田 遼一",
+            "吉野 哲平",
+            "今井 倫太"
+        ],
         "title": "冗長さの異なるロボット発話を生成する手法の検討",
         "year": "2022",
         "page": "pp.85-86",
         "no": "No.4",
-        "book":  "情報処理学会 第84回全国大会",
+        "book": "情報処理学会 第84回全国大会",
         "draft_pdf_url": "https://drive.google.com/file/d/1bhXAdkF8teOcJ4tbCRQNEJHFEvkcMnnp/view?usp=sharing"
     },
     {
         "author": [
-                "下山香音",
-                "大塚洋平",
-                "金重有哉",
-                "木本充彦",
-                "今井倫太"
-            ],
+            "下山香音",
+            "大塚洋平",
+            "金重有哉",
+            "木本充彦",
+            "今井倫太"
+        ],
         "title": "ロボットの経験を伝える発話とジェスチャの同時生成システム",
         "year": "2022",
         "page": "pp.91-92",
         "no": "No.4",
-        "book":  "情報処理学会 第84回全国大会",
+        "book": "情報処理学会 第84回全国大会",
         "draft_pdf_url": "https://drive.google.com/file/d/1lt3LOemiEVrjHuXNOK4aZw8SZz4b04EX/view?usp=sharing"
     }
 ]
