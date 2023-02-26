@@ -31,41 +31,5 @@
         "no": "",
         "page": "9835-9850",
         "draft_pdf_url": "https://ieeexplore.ieee.org/document/10024779"
-    },
-    {
-        "author": {
-            "ja": [
-                "Ryoichi_Shibata",
-                "Shoya_Matsumori",
-                "Yosuke_Fukuchi",
-                "Tomoyuki_Maekawa",
-                "Mitsuhiko_Kimoto",
-                "Michita_Imai"
-            ],
-            "en": [
-                "Ryoichi_Shibata",
-                "Shoya_Matsumori",
-                "Yosuke_Fukuchi",
-                "Tomoyuki_Maekawa",
-                "Mitsuhiko_Kimoto",
-                "Michita_Imai"
-            ]
-        },
-        "title": {
-            "ja": "Conversational Context-Sensitive Ad Generation With a Few Core-Queries",
-            "en": "Conversational Context-Sensitive Ad Generation With a Few Core-Queries"
-        },
-        "book": {
-            "ja": "TiiS(WIP)",
-            "en": "TiiS(WIP)"
-        },
-        "year": "WIP",
-        "vol": "WIP",
-        "no": "",
-        "page": "WIP",
-        "draft_pdf_url": {
-            "main": "https://drive.google.com/file/d/1Gq31XFXY_N4-XgCT7h5PU4feTNODPgyO/view?usp=sharing",
-            "supplementary material": "https://drive.google.com/file/d/1Gq31XFXY_N4-XgCT7h5PU4feTNODPgyO/view?usp=sharing"
-        },
     }
 ]
