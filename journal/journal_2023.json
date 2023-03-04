@@ -2,39 +2,6 @@
     {
         "author": {
             "ja": [
-                "Shoya_Matsumori",
-                "Kohei_Okuoka",
-                "Ryoichi_Shibata",
-                "Minami_Inoue",
-                "Yosuke_Fukuchi",
-                "Michita_Imai"
-            ],
-            "en": [
-                "Shoya_Matsumori",
-                "Kohei_Okuoka",
-                "Ryoichi_Shibata",
-                "Minami_Inoue",
-                "Yosuke_Fukuchi",
-                "Michita_Imai"
-            ]
-        },
-        "title": {
-            "ja": "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model",
-            "en": "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model"
-        },
-        "book": {
-            "ja": "IEEE Access",
-            "en": "IEEE Access"
-        },
-        "year": "2023",
-        "vol": "11",
-        "no": "",
-        "page": "9835-9850",
-        "draft_pdf_url": "https://ieeexplore.ieee.org/document/10024779"
-    },
-    {
-        "author": {
-            "ja": [
                 "Ryoichi_Shibata",
                 "Shoya_Matsumori",
                 "Yosuke_Fukuchi",
@@ -64,5 +31,38 @@
         "no": "",
         "page": "",
         "draft_pdf_url": ""
+    },
+    {
+        "author": {
+            "ja": [
+                "Shoya_Matsumori",
+                "Kohei_Okuoka",
+                "Ryoichi_Shibata",
+                "Minami_Inoue",
+                "Yosuke_Fukuchi",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Shoya_Matsumori",
+                "Kohei_Okuoka",
+                "Ryoichi_Shibata",
+                "Minami_Inoue",
+                "Yosuke_Fukuchi",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model",
+            "en": "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model"
+        },
+        "book": {
+            "ja": "IEEE Access",
+            "en": "IEEE Access"
+        },
+        "year": "2023",
+        "vol": "11",
+        "no": "",
+        "page": "9835-9850",
+        "draft_pdf_url": "https://ieeexplore.ieee.org/document/10024779"
     }
 ]
