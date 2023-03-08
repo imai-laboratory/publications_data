@@ -1,0 +1,27 @@
+[
+    {
+        "author": {
+            "ja": ["弦本賢人",
+                "奥岡耕平",
+                "篠澤一彦",
+                "今井倫太"
+            ], 
+            "en": [
+                "Kento Tsurumoto",
+                "Kohei Okuoka",
+                "Kazuhiko Shinozawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "肩乗りロボットの模倣動作がユーザの印象に与える影響",
+            "en": "Effects on User’s Impression by Shoulder Robot’s Imitation"
+        },
+        "year": "2023",
+        "book": {
+            "ja": "HAIシンポジウム2023",
+            "en": "Human-Agent Interaction Symposium 2023"
+        },
+        "draft_pdf_url": "https://hai-conference.net/symp2023/proceedings/pdf/P-47.pdf"
+    }
+]
