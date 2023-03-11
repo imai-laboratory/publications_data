@@ -52,7 +52,7 @@
         "draft_pdf_url": "https://hai-conference.net/symp2023/proceedings/pdf/P-47.pdf"
     },
 
-{
+    {
         "author": {
             "ja": ["松﨑光",
                 "長谷川麟太郎",
@@ -76,6 +76,34 @@
             "en": "The 85th National Convention of IPSJ"
         },
         "draft_pdf_url": "https://drive.google.com/file/d/1YpMUdbx2wDR94ob8nNqFi-kyi8Hf7T2T/view?usp=sharing"
-    }    
+    },  
+
+    {
+        "author": {
+            "ja": ["赤堀翔太",
+                "下山香音",
+                "奥岡耕平",
+                "木本充彦",
+                "今井倫太"
+            ], 
+            "en": [
+                "Shota Akahori",
+                "Kaon Shimoyama",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "自然言語で操作可能なサービス機器におけるユーザの意図に基づくサービス提案文生成システム",
+            "en": "A system for generating service proposal sentences based on user intentions for service equipment that can be operated in natural language"
+        },
+        "year": "2023",
+        "book": {
+            "ja": "HAIシンポジウム2023",
+            "en": "Human-Agent Interaction Symposium 2023"
+        },
+        "draft_pdf_url": "https://hai-conference.net/symp2023/proceedings/pdf/P-37.pdf"
+    }
     
 ]
