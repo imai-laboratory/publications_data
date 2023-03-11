@@ -1,6 +1,33 @@
 [
     {
         "author": {
+            "ja": [
+                "本郷望実",
+                "前川知行",
+                "松森匠哉",
+                "福地庸介",
+                "今井倫太"
+                ],
+            "en": [
+                "Nozomi Hongo",
+                "Tomoyuki Maekawa",
+                "Shoya Matsumori",
+                "Yosuke Fukuchi",
+                "Michita Imai"
+                ]
+        },
+        "title": "購買行動を誘導する対話エージェントの立ち位置が買い物支援システムのユーザ評価に与える影響",
+        "year": "2023",
+        "page": "pp.229-234",
+        "book": {
+            "ja": "情報処理学会 インタラクション 2023",
+            "en": "IPSJ Interaction 2023"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1SszY-lGZHUv_00JLC6pVu-CeEXVPpij0/view?usp=sharing"
+    }
+                   
+    {
+        "author": {
             "ja": ["弦本賢人",
                 "奥岡耕平",
                 "篠澤一彦",
