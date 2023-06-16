@@ -1,6 +1,12 @@
 [
     {
         "author": {
+            "ja": [
+                "Mitsuhiko_Kimoto",
+                "Yohei_Otsuka",
+                "Michita_Imai",
+                "Masahiro_Shiomi"
+            ],
             "en": [
                 "Mitsuhiko_Kimoto",
                 "Yohei_Otsuka",
@@ -9,9 +15,11 @@
             ]
         },
         "title": {
+            "ja": "Effects of appearance and gender on pre-touch proxemics in virtual reality",
             "en": "Effects of appearance and gender on pre-touch proxemics in virtual reality"
         },
         "book": {
+            "ja": "Frontiers in Psychology",
             "en": "Frontiers in Psychology"
         },
         "year": "2023",
