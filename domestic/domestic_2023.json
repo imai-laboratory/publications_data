@@ -1,4 +1,21 @@
-[
+[    
+    {
+        "author": {
+            "en": [
+                "Theo Jean Poncelet",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": "Anaphora and semantic resolution by introducing multitasking into coreference algorithms",
+        "year": "2023",
+        "page": "2U1-IS-1b-05",
+        "book": {
+            "ja": "2023年度人工知能学会全国大会（第37回）",
+            "en": "The 37th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2U1IS1b05/_pdf/-char/ja"
+    },
     {
         "author": {
             "ja": [
