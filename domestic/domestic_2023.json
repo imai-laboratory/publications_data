@@ -1,4 +1,28 @@
-[    
+[
+    {
+        "author": {
+            "ja": [
+                "河原彩乃",
+                "奥岡耕平",
+                "長谷川麟太郎",
+                "今井倫太"
+            ],
+            "en": [
+                "Ayano Kawara",
+                "Kohei Okuoka",
+                "Rintaro Hasegawa",
+                "Michita Imai"
+            ]
+        },
+        "title": "オーナーシップ認識によるヒューマン・ロボットインタラクション",
+        "year": "2023",
+        "page": "2O4-GS-8-01",
+        "book": {
+            "ja": "2023年度人工知能学会全国大会（第37回）",
+            "en": "The 37th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2O4GS801/_pdf/-char/ja"
+    },
     {
         "author": {
             "en": [
