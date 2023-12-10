@@ -10,7 +10,8 @@
         "no": "",
         "vol": "",
         "book": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
-        "abbrv": "EMNLP 2023"
+        "abbrv": "EMNLP 2023",
+        "draft_pdf_url": "https://aclanthology.org/2023.emnlp-main.773/"
     },
     {
         "author": [
