@@ -1,0 +1,46 @@
+[
+    {
+        "author": [
+            "Tomoyuki Maekawa",
+            "Michita Imai"
+        ],
+        "title": "Identifying Statements Crucial for Awareness of Interpretive Nonsense to Prevent Communication Breakdowns",
+        "year": "2023",
+        "page": "12550–12566, acceptance rate = [23.3%]",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+        "abbrv": "EMNLP 2023",
+        "draft_pdf_url": "https://aclanthology.org/2023.emnlp-main.773/"
+    },
+    {
+        "author": [
+            "Zijian Liu",
+            "Michita Imai"
+        ],
+        "title": "Telepresence Chameleon: Improve User Experience of Telepresence Robot With Chameleon Effect",
+        "year": "2023",
+        "page": "55-62",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings of the 11th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI '23",
+        "draft_pdf_url": "https://doi.org/10.1145/3623809.3623828"
+    },
+    {
+        "author": [
+            "Minami Inoue",
+            "Tomoyuki Maekawa",
+            "Ryoichi Shibata",
+            "Michita Imai"
+        ],
+        "title": "The Effect of Response Suggestion on Dialogue Flow: Analysis Based on Dialogue Act and Initiative",
+        "year": "2023",
+        "page": "1974-1980",
+        "no": "",
+        "vol": "45",
+        "book": "Proceedings of the Annual Meeting of the Cognitive Science Society",
+        "abbrv": "CogSci2023",
+        "draft_pdf_url": "https://escholarship.org/uc/item/3m251093"
+    }
+]

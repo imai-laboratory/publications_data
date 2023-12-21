@@ -2,6 +2,35 @@
     {
         "author": {
             "ja": [
+                "Mitsuhiko_Kimoto",
+                "Yohei_Otsuka",
+                "Michita_Imai",
+                "Masahiro_Shiomi"
+            ],
+            "en": [
+                "Mitsuhiko_Kimoto",
+                "Yohei_Otsuka",
+                "Michita_Imai",
+                "Masahiro_Shiomi"
+            ]
+        },
+        "title": {
+            "ja": "Effects of appearance and gender on pre-touch proxemics in virtual reality",
+            "en": "Effects of appearance and gender on pre-touch proxemics in virtual reality"
+        },
+        "book": {
+            "ja": "Frontiers in Psychology",
+            "en": "Frontiers in Psychology"
+        },
+        "year": "2023",
+        "vol": "14",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1195059/full"
+    },
+    {
+        "author": {
+            "ja": [
                 "Ryoichi_Shibata",
                 "Shoya_Matsumori",
                 "Yosuke_Fukuchi",
@@ -23,14 +52,14 @@
             "en": "Conversational Context-Sensitive Ad Generation With a Few Core-Queries"
         },
         "book": {
-            "ja": "ACM Transactions on Interactive Intelligent Systems (TiiS) (to be appeared)",
-            "en": "ACM Transactions on Interactive Intelligent Systems (TiiS) (to be appeared)"
+            "ja": "ACM Transactions on Interactive Intelligent Systems (TiiS)",
+            "en": "ACM Transactions on Interactive Intelligent Systems (TiiS)"
         },
         "year": "2023",
-        "vol": "",
-        "no": "",
-        "page": "",
-        "draft_pdf_url": "",
+        "vol": "13",
+        "no": "3",
+        "page": "1-37",
+        "draft_pdf_url": "https://dl.acm.org/doi/10.1145/3588578",
         "appendix_url": "https://drive.google.com/file/d/1Gq31XFXY_N4-XgCT7h5PU4feTNODPgyO/view?usp=share_link"
     },
     {

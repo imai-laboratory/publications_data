@@ -2,19 +2,65 @@
     {
         "author": {
             "ja": [
+                "河原彩乃",
+                "奥岡耕平",
+                "長谷川麟太郎",
+                "今井倫太"
+            ],
+            "en": [
+                "Ayano Kawara",
+                "Kohei Okuoka",
+                "Rintaro Hasegawa",
+                "Michita Imai"
+            ]
+        },
+        "title": "オーナーシップ認識によるヒューマン・ロボットインタラクション",
+        "year": "2023",
+        "page": "2O4-GS-8-01",
+        "book": {
+            "ja": "2023年度人工知能学会全国大会（第37回）",
+            "en": "The 37th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2O4GS801/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "en": [
+                "Theo Jean Poncelet",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ],
+            "ja": [
+                "Theo Jean Poncelet",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": "Anaphora and semantic resolution by introducing multitasking into coreference algorithms",
+        "year": "2023",
+        "page": "2U1-IS-1b-05",
+        "book": {
+            "ja": "2023年度人工知能学会全国大会（第37回）",
+            "en": "The 37th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2U1IS1b05/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
                 "本郷望実",
                 "前川知行",
                 "松森匠哉",
                 "福地庸介",
                 "今井倫太"
-                ],
+            ],
             "en": [
                 "Nozomi Hongo",
                 "Tomoyuki Maekawa",
                 "Shoya Matsumori",
                 "Yosuke Fukuchi",
                 "Michita Imai"
-                ]
+            ]
         },
         "title": "購買行動を誘導する対話エージェントの立ち位置が買い物支援システムのユーザ評価に与える影響",
         "year": "2023",
@@ -25,14 +71,14 @@
         },
         "draft_pdf_url": "https://drive.google.com/file/d/1SszY-lGZHUv_00JLC6pVu-CeEXVPpij0/view?usp=sharing"
     },
-                   
     {
         "author": {
-            "ja": ["弦本賢人",
+            "ja": [
+                "弦本賢人",
                 "奥岡耕平",
                 "篠澤一彦",
                 "今井倫太"
-            ], 
+            ],
             "en": [
                 "Kento Tsurumoto",
                 "Kohei Okuoka",
@@ -51,14 +97,14 @@
         },
         "draft_pdf_url": "https://hai-conference.net/symp2023/proceedings/pdf/P-47.pdf"
     },
-
     {
         "author": {
-            "ja": ["松﨑光",
+            "ja": [
+                "松﨑光",
                 "長谷川麟太郎",
                 "前川知行",
                 "今井倫太"
-            ], 
+            ],
             "en": [
                 "Hikaru Matsuzaki",
                 "Rintaro Hasegawa",
@@ -71,21 +117,23 @@
             "en": "Control of camera pan and tilt angles adjusted to user’s intention"
         },
         "year": "2023",
+        "page": "pp.165-166",
+        "no": "No.4",
         "book": {
             "ja": "情報処理学会第85回全国大会",
             "en": "The 85th National Convention of IPSJ"
         },
         "draft_pdf_url": "https://drive.google.com/file/d/1YpMUdbx2wDR94ob8nNqFi-kyi8Hf7T2T/view?usp=sharing"
-    },  
-
+    },
     {
         "author": {
-            "ja": ["赤堀翔太",
+            "ja": [
+                "赤堀翔太",
                 "下山香音",
                 "奥岡耕平",
                 "木本充彦",
                 "今井倫太"
-            ], 
+            ],
             "en": [
                 "Shota Akahori",
                 "Kaon Shimoyama",
@@ -105,6 +153,33 @@
             "en": "Human-Agent Interaction Symposium 2023"
         },
         "draft_pdf_url": "https://hai-conference.net/symp2023/proceedings/pdf/P-37.pdf"
+    },
+    {
+        "author": {
+            "ja": [
+                "澁谷陸",
+                "井上南",
+                "前川知行",
+                "今井倫太"
+            ],
+            "en": [
+                "Riku Shibuya",
+                "Inoue Minami",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "発話候補文の提案により話題遷移をアシストするチャットシステムの検討",
+            "en": "Chat System that Assists Topic Transition by Suggesting Candidate Sentences"
+        },
+        "year": "2023",
+        "page": "pp.191-192",
+        "no": "No.4",
+        "book": {
+            "ja": "情報処理学会第85回全国大会",
+            "en": "The 85th National Convention of IPSJ"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1LIO9y7YUj22iA4DmE6ZR-T0BXBCqtEZK/view?usp=sharing"
     }
-    
 ]
