@@ -1,6 +1,21 @@
 [
     {
         "author": [
+            "Akiko Yamazaki",
+            "Antonia Lina Krummheuer",
+            "Michita Imai"
+        ],
+        "title": "Interdisciplinary Explorations of Processes of Mutual Understanding in Interaction with Assistive Shopping Robots",
+        "year": "2022",
+        "page": "1293-1295",
+        "no": "",
+        "vol": "",
+        "book": "Workshop at the 17th Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022) ",
+        "abbrv": "HRI",
+        "draft_pdf_url": "https://dl.acm.org/doi/10.5555/3523760.3524008"
+    },
+    {
+        "author": [
             "Rintaro Hasegawa",
             "Yosuke Fukuchi",
             "Kohei Okuoka",
