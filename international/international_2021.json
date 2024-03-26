@@ -2,6 +2,22 @@
 [
     {
         "author": [
+            "Yuya Kaneshige",
+            "Satoru Satake", 
+            "Takayuki Kanda", 
+            "Michita Imai"
+        ],
+        "title": "How to overcome the difficulties in programming and debugging mobile social robots?",
+        "year": "2021",
+        "page": "361-369",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction",
+        "abbrv": "HRI",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Takuma Seno",
             "Michita_Imai"
         ],
