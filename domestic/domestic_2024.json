@@ -1,5 +1,35 @@
 [
     {
+        "author": {
+            "ja": [
+                "中西建心",
+                "土屋碧渡",
+                "長谷川麟太郎",
+                "前川知行",
+                "今井倫太"
+            ],
+            "en": [
+                "Kenshin Nakanishi",
+                "Aoto Tsuchiya",
+                "Rintaro Hasegawa",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "大規模言語モデルを用いた解釈に影響を与える対話文取得方法の検討",
+            "en": "Investigation of dialogue acquisition methods that affect interpretation using Large language Models"
+        },
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "情報処理学会第86回全国大会",
+            "en": "The 86th National Convention of IPSJ"
+        },
+        "draft_pdf_url": ""
+    },
+    {
        "author": {
             "ja": [
                 "大場璃々",
@@ -52,35 +82,5 @@
             "en": "Human-Agent Interaction Symposium 2024"
         },
         "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-3.pdf"
-    },
-    {
-        "author": {
-            "ja": [
-                "中西建心",
-                "土屋碧渡",
-                "長谷川麟太郎",
-                "前川知行",
-                "今井倫太"
-            ],
-            "en": [
-                "Kenshin Nakanishi",
-                "Aoto Tsuchiya",
-                "Rintaro Hasegawa",
-                "Tomoyuki Maekawa",
-                "Michita Imai"
-            ]
-        },
-        "title": {
-            "ja": "大規模言語モデルを用いた解釈に影響を与える対話文取得方法の検討",
-            "en": "Investigation of dialogue acquisition methods that affect interpretation using Large language Models"
-        },
-        "year": "2024",
-        "page": "",
-        "no": "",
-        "book": {
-            "ja": "情報処理学会第86回全国大会",
-            "en": "The 86th National Convention of IPSJ"
-        },
-        "draft_pdf_url": ""
     }
 ]
