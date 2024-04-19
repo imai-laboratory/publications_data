@@ -73,12 +73,12 @@
             ]
         },
         "title": {
-            "ja": "大規模言語モデルとロボットを用いたアクティブラーニングにおけるリヴォイシングタイミングの研究",
+            "ja": "ロボットの発言生成を用いたアクティブラーニング",
             "en": "Active Learning Utilizing Robot Speech Generation"
         },
         "year": "2024",
-        "page": "pp.-",
-        "no": "No.",
+        "page": "",
+        "no": "",
         "book": {
             "ja": "情報処理学会第86回全国大会",
             "en": "The 86th National Convention of IPSJ"
