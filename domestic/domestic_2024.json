@@ -1,1 +1,56 @@
-
+[
+    {
+       "author": {
+            "ja": [
+                "大場璃々",
+                "松岡竜耀",
+                "井上南",
+                "今井倫太"
+            ],
+            "en": [
+                "Riri Oba",
+                "Ryuki Matsuoka",
+                "Minami Inoue",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "大規模言語モデルとロボットを用いたアクティブラーニングにおけるリヴォイシングタイミングの研究",
+            "en": "Active Learning Utilizing Robot Speech Generation"
+        },
+        "year": "2024",
+        "page": "pp.165-166",
+        "no": "No.4",
+        "book": {
+            "ja": "情報処理学会第86回全国大会",
+            "en": "The 86th National Convention of IPSJ"
+        },
+        "draft_pdf_url": ""
+    },
+    {
+        "author": {
+            "ja": [
+                "大場璃々",
+                "松岡竜耀",
+                "井上南",
+                "今井倫太"
+            ],
+            "en": [
+                "Riri Oba",
+                "Ryuki Matsuoka",
+                "Minami Inoue",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "大規模言語モデルとロボットを用いたアクティブラーニングにおけるリヴォイシングタイミングの研究",
+            "en": "Active Learning Utilizing Robot Speech Generation"
+        },
+        "year": "2024",
+        "book": {
+            "ja": "HAIシンポジウム2024",
+            "en": "Human-Agent Interaction Symposium 2024"
+        },
+        "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-3.pdf"
+    },
+    
