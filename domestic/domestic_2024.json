@@ -19,8 +19,8 @@
             "en": "Intelligent robot that can communicate while understanding relationships with people"
         },
         "year": "2024",
-        "page": "",
-        "no": "",
+        "page": "pp.53-54",
+        "no": "No.4",
         "book": {
             "ja": "情報処理学会第86回全国大会",
             "en": "The 86th National Convention of IPSJ"
@@ -58,7 +58,7 @@
         "draft_pdf_url": "https://drive.google.com/file/d/1Y5vnNS4PQ7F8kZKCH73UGb-cDFmNmQBa/view?usp=sharing"
     },
     {
-       "author": {
+        "author": {
             "ja": [
                 "大場璃々",
                 "松岡竜耀",
