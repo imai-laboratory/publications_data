@@ -2,6 +2,34 @@
     {
         "author": {
             "ja": [
+                "立川寛大",
+                "赤堀翔太",
+                "佐久間唯太",
+                "今井倫太"
+            ],
+            "en": [
+                "Kanta Tachikawa",
+                "Shota Akahori",
+                "Yuita Sakuma",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "人の知識に合わせて道案内ができる知能ロボット",
+            "en": "Intelligent Robot that can Give Directions According to Human Knowledge"
+        },
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "情報処理学会第86回全国大会",
+            "en": "The 86th National Convention of IPSJ"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1IQ4zMoivm5hJYMvKreQoKqg6C5XIBbOQ/view?usp=sharing"
+    },
+    {
+        "author": {
+            "ja": [
                 "小野寺佳成",
                 "松崎光",
                 "河原彩乃",
