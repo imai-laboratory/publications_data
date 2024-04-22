@@ -30,6 +30,38 @@
     {
         "author": {
             "ja": [
+                "三宅芹奈",
+                "河原彩乃",
+                "下山香音",
+                "奥岡耕平",
+                "木本充彦",
+                "今井倫太"
+            ],
+            "en": [
+                "Serina Miyake",
+                "Ayano Kawara",
+                "Kaon Shimoyama",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "大規模言語モデルを用いたインタビューロボットの研究",
+            "en": "Research on interview robots using large-scale language models"
+        },
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "情報処理学会第86回全国大会",
+            "en": "The 86th National Convention of IPSJ"
+        },
+        "draft_pdf_url": ""
+    },
+    {
+        "author": {
+            "ja": [
                 "中西建心",
                 "土屋碧渡",
                 "長谷川麟太郎",
@@ -110,5 +142,35 @@
             "en": "Human-Agent Interaction Symposium 2024"
         },
         "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-3.pdf"
+    },
+    {
+        "author": {
+            "ja": [
+                "三宅芹奈",
+                "河原彩乃",
+                "下山香音",
+                "奥岡耕平",
+                "木本充彦",
+                "今井倫太"
+            ],
+            "en": [
+                "Serina Miyake",
+                "Ayano Kawara",
+                "Kaon Shimoyama",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "大規模言語モデルを使用したインタビューシステム",
+            "en": "Research On Interview Robots Using Large-scale Language Models"
+        },
+        "year": "2024",
+        "book": {
+            "ja": "HAIシンポジウム2024",
+            "en": "Human-Agent Interaction Symposium 2024"
+        },
+        "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-9.pdf"
     }
 ]
