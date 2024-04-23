@@ -200,5 +200,35 @@
             "en": "Human-Agent Interaction Symposium 2024"
         },
         "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-9.pdf"
+    },
+    {
+        "author": {
+            "ja": [
+                "松室拓秀",
+                "澁谷陸",
+                "松崎光",
+                "前川知行",
+                "今井倫太"
+            ],
+            "en": [
+                "Takuho Matsumuro",
+                "Riku Shibuya",
+                "Hikaru Matsuzaki",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "LLMを利用した会話途中参加支援システムの提案",
+            "en": "Proposal for a Conversation Mid-Join Support System Using LLM"
+        },
+        "year": "2024",
+        "page": "pp.119-120",
+        "no": "No.2",
+        "book": {
+            "ja": "情報処理学会第86回全国大会",
+            "en": "The 86th National Convention of IPSJ"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/13i6soQ0BSVPY0laptEK5ZFySihgt8mX8/view?usp=drive_link"
     }
 ]
