@@ -2,6 +2,36 @@
     {
         "author": {
             "ja": [
+                "中西建心",
+                "土屋碧渡",
+                "長谷川麟太郎",
+                "前川知行",
+                "今井倫太"
+            ],
+            "en": [
+                "Kenshin Nakanishi",
+                "Aoto Tsuchiya",
+                "Rintaro Hasegawa",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "聞き逃しを考慮した文脈理解技術の拡張",
+            "en": "Extending Contextual Understanding Techniques to Account for Missed Listenings"
+        },
+        "year": "2024",
+        "page": "3T1-OS-6a-02",
+        "no": "",
+        "book": {
+            "ja": "2024年度人工知能学会全国大会（第38回）",
+            "en": "The 38th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": ""
+    },
+    {
+        "author": {
+            "ja": [
                 "前川知行",
                 "土屋碧渡",
                 "中西建心",
