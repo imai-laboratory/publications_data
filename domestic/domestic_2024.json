@@ -2,6 +2,34 @@
     {
         "author": {
             "ja": [
+                "小野寺佳成",
+                "松崎光",
+                "河原彩乃",
+                "今井倫太"
+            ],
+            "en": [
+                "Yoshinari Onodera",
+                "Hikaru Matsuzaki",
+                "Ayano Kawara",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "三者間の関係性を考慮したロボット用会話システムの構築",
+            "en": "Construction of a conversation system for robots considering the relationships among three parties"
+        },
+        "year": "2024",
+        "page": "3T1-OS-6a-03",
+        "no": "",
+        "book": {
+            "ja": "2024年度人工知能学会全国大会（第38回）",
+            "en": "The 38th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3T1OS6a03/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
                 "中西建心",
                 "土屋碧渡",
                 "長谷川麟太郎",
