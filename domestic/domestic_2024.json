@@ -2,6 +2,34 @@
     {
         "author": {
             "ja": [
+                "立川寛大",
+                "赤堀翔太",
+                "佐久間唯太",
+                "今井倫太"
+            ],
+            "en": [
+                "Kanta Tachikawa",
+                "Shota Akahori",
+                "Yuita Sakuma",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ランドマークを用いて道案内をおこなうロボットシステムの提案",
+            "en": "Robot System that can Give Route Directions with Landmarks"
+        },
+        "year": "2024",
+        "page": "4C3-GS-11-05",
+        "no": "",
+        "book": {
+            "ja": "2024年度人工知能学会全国大会（第38回）",
+            "en": "The 38th Annual Conference of the Japanese Society for Artificial Intelligence"
+        },
+        "draft_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4C3GS1105/_pdf/-char/ja"
+    },
+    {
+        "author": {
+            "ja": [
                 "小野寺佳成",
                 "松崎光",
                 "河原彩乃",
@@ -105,8 +133,8 @@
             "en": "Intelligent Robot that can Give Directions According to Human Knowledge"
         },
         "year": "2024",
-        "page": "63-64",
-        "no": "4",
+        "page": "pp.63-64",
+        "no": "No.4",
         "book": {
             "ja": "情報処理学会第86回全国大会",
             "en": "The 86th National Convention of IPSJ"
