@@ -2,6 +2,55 @@
     {
         "author": {
             "ja": [
+                "北出卓也",
+                "山谷佳祐",
+                "春山知生",
+                "中村匠",
+                "安川真平",
+                "今井 倫太"
+            ],
+            "en": [
+                "Takuya Kitade"
+            ]
+        },
+        "title": {
+            "ja": "文脈に基づくネットワークカメラ映像の変化点抽出および説明手法の提案",
+            "en": "Proposal of a Change-Point Detection and Explanation Method for Network Camera Footage Based on Context"
+        },
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "マルチメディア、分散、協調とモバイル　DICOMO 2024 シンポジウム",
+            "en": "Multimedia, Distributed, Cooperative, and Mobile Symposium (DICOMO 2024)"
+        },
+        "draft_pdf_url": "https://tsys.jp/dicomo/2024/program/program_abst.html#7C-4"
+    },
+    {
+        "author": {
+            "ja": [
+                "北出卓也"
+            ],
+            "en": [
+                "Takuya Kitade"
+            ]
+        },
+        "title": {
+            "ja": "Bicode：イベントカメラのためのハイブリッド点滅マーカーシステム",
+            "en": "Bicode: A Hybrid Blinking Marker System for Event Cameras"
+        },
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "第23回情報科学技術フォーラム（FIT2024）",
+            "en": "The 23rd Forum on Information Technology (FIT2024)"
+        },
+        "draft_pdf_url": "https://www.ipsj.or.jp/event/fit/fit2024/abstract/data/html/event/event_TCS3-3.html"
+    },
+    {
+        "author": {
+            "ja": [
                 "立川寛大",
                 "赤堀翔太",
                 "佐久間唯太",
