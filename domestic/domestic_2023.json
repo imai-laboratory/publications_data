@@ -2,6 +2,37 @@
     {
         "author": {
             "ja": [
+                "北出 卓也（NTTドコモ・慶大）",
+                "中村 圭佑",
+                "水野 涼介",
+                "山谷 佳祐（NTTドコモ）",
+                "松村 択磨（ドコモ・テクノロジ）",
+                "森次 一瑛",
+                "飯田 一博",
+                "幡上 宏政",
+                "陶山 純（みのる産業）",
+                "田澤 純子",
+                "関口 哲生",
+                "吉田 隆延",
+                "三浦 重典（農業・食品産業技術総合研究機構）",
+                "今井 倫太（慶大）"
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "title": "画像認識を用いた小型農業用ロボット向け作物列追従システムの提案",
+        "year": "2023",
+        "page": "",
+        "book": {
+            "ja": "第108回モバイルコンピューティングと新社会システム・第79回ユビキタスコンピューティングシステム・第38回コンシューマ・デバイス＆システム・第27回高齢社会デザイン合同研究発表会",
+            "en": "The 108th Mobile Computing and New Social Systems, 79th Ubiquitous Computing Systems, 38th Consumer Devices & Systems, and 27th Aging Society Design Joint Research Presentation Conference."
+        },
+        "draft_pdf_url": "https://www.ipsj.or.jp/kenkyukai/event/mbl108ubi79cds38asd27.html"
+    },
+    {
+        "author": {
+            "ja": [
                 "河原彩乃",
                 "奥岡耕平",
                 "長谷川麟太郎",
