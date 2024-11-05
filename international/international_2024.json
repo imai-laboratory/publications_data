@@ -1,6 +1,22 @@
 [
     {
         "author": [
+            "Takuya Kitade",
+            "Wataru Yamada",
+            "Keiichi Ochiai",
+            "Michita Imai"
+        ],
+        "title": "Bicode: A Hybrid Blinking Marker System for Event Cameras",
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "2024 IEEE International Conference on Robotics and Automation",
+        "abbrv": "ICRA",
+        "draft_pdf_url": "https://ieeexplore.ieee.org/document/10611033"
+    },
+    {
+        "author": [
             "Aoto Tsuchiya",
             "Tomoyuki Maekawa",
             "Michita Imai"
