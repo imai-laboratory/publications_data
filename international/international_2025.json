@@ -13,8 +13,8 @@
         "page": "1524 - 1528",
         "no": "",
         "vol": "",
-        "book": "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
-        "abbrv": "ICRA",
+        "book": "Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
+        "abbrv": "HRI’25",
         "draft_pdf_url": "https://dl.acm.org/doi/abs/10.5555/3721488.3721712"
     },
     {
@@ -32,8 +32,40 @@
         "page": "1493 - 1497",
         "no": "",
         "vol": "",
-        "book": "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
-        "abbrv": "ICRA",
+        "book": "Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction",
+        "abbrv": "HRI’25",
         "draft_pdf_url": "https://dl.acm.org/doi/abs/10.5555/3721488.3721706"
+    },
+    {
+        "author": [
+            "Kanta Tachikawa",
+            "Shota Akahori",
+            "Kohei Okuoka",
+            "Mitsuhiko Kimoto",
+            "Michita Imai"
+        ],
+        "title": "RoDiL: Giving Route Directions with Landmarks by Robots",
+        "year": "2025",
+        "page": "298-309",
+        "no": "",
+        "vol": "1",
+        "book": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+        "abbrv": "ICAART 2025",
+        "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=AxWXgKhcJaQ=&t=1"
+    },
+    {
+        "author": [
+            "Kenshin Nakanishi",
+            "Tomoyuki Maekawa",
+            "Michita Imai"
+        ],
+        "title": "Dialogue Support Through the Identification of Utterances Crucial for the Listener's Interpretation if Missed",
+        "year": "2025",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+        "abbrv": "ICAART 2025",
+        "draft_pdf_url": "https://www.insticc.org/node/TechnicalProgram/icaart/2025/presentationDetails/132995"
     }
 ]
