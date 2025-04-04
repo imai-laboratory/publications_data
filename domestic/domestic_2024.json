@@ -426,5 +426,32 @@
             "en": "Human-Agent Interaction Symposium 2024"
         },
         "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-33.pdf"
+    },
+    
+    {
+        "author": {
+            "ja": [
+                "松崎光",
+                "前川知行",
+                "今井倫太",
+                "石井健太郎"
+            ],
+            "en": [
+                "Hikaru Matsuzaki",
+                "Tomoyuki Maekawa",
+                "Michita Imai",
+                "Kentaro Ishii"
+            ]
+        },
+        "title": {
+            "ja": "PassStyles: 顔特徴の混合によるグラフィカル認証システムの提案",
+            "en": "PassStyles: Graphical Authentication Using Mixed Face Styles"
+        },
+        "year": "2024",
+        "book": {
+            "ja": "インタラクション2025",
+            "en": "INTERACTION 2025"
+        },
+        "draft_pdf_url": "https://www.interaction-ipsj.org/proceedings/2025/data/pdf/3B-33.pdf"
     }
 ]
