@@ -18,8 +18,14 @@
         "draft_pdf_url": "https://dl.acm.org/doi/abs/10.5555/3721488.3721712",
         "event_duration": "2025/03/04 - 2025/03/06",
         "presentation_date": "2025/03/05",
-        "host_country": "Australia",
-        "host_city": "Melbourne"
+        "host_country": {
+            "ja": "オーストラリア",
+            "en": "Australia"
+        },
+        "host_city": {
+            "ja": "メルボルン",
+            "en": "Melbourne"
+        }
     },
     {
         "author": [
@@ -41,8 +47,14 @@
         "draft_pdf_url": "https://dl.acm.org/doi/abs/10.5555/3721488.3721706",
         "event_duration": "2025/03/04 - 2025/03/06",
         "presentation_date": "2025/03/06",
-        "host_country": "Australia",
-        "host_city": "Melbourne"
+        "host_country": {
+            "ja": "オーストラリア",
+            "en": "Australia"
+        },
+        "host_city": {
+            "ja": "メルボルン",
+            "en": "Melbourne"
+        }
     },
     {
         "author": [
@@ -62,8 +74,14 @@
         "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=AxWXgKhcJaQ=&t=1",
         "event_duration": "2025/02/23 - 2025/02/25",
         "presentation_date": "2025/02/24",
-        "host_country": "Portugal",
-        "host_city": "Porto"
+        "host_country": {
+            "ja": "ポルトガル",
+            "en": "Portugal"
+        },
+        "host_city": {
+            "ja": "ポルト",
+            "en": "Porto"
+        }
     },
     {
         "author": [
@@ -81,7 +99,13 @@
         "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=wc/xOOZeeLg=&t=1",
         "event_duration": "2025/02/23 - 2025/02/25",
         "presentation_date": "2025/02/24",
-        "host_country": "Portugal",
-        "host_city": "Porto"
+        "host_country": {
+            "ja": "ポルトガル",
+            "en": "Portugal"
+        },
+        "host_city": {
+            "ja": "ポルト",
+            "en": "Porto"
+        }
     }
 ]
