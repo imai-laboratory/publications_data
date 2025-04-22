@@ -2,6 +2,42 @@
     {
         "author": {
             "ja": [
+                "中西建心",
+                "前川知行",
+                "今井倫太"
+            ],
+            "en": [
+                "Kenshin Nakanishi",
+                "Tomoyuki Maekawa",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "解釈を左右する聞き逃し発話の特定による対話支援",
+            "en": "Dialogue Support through the Identification of Utterances Crucial for the Listener's Interpretation if Missed"
+        },
+        "year": "2024",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "HCGシンポジウム2024",
+            "en": "HCG Symposium2024"
+        },
+        "draft_pdf_url": "",
+        "event_duration": "2024/12/11 - 2024/12/13",
+        "presentation_date": "2024/12/11",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "金沢",
+            "en": "Kanazawa"
+        }
+    },
+    {
+        "author": {
+            "ja": [
                 "北出卓也",
                 "山谷佳祐",
                 "春山知生",
@@ -427,7 +463,6 @@
         },
         "draft_pdf_url": "https://hai-conference.net/symp2024/proceedings/pdf/P-33.pdf"
     },
-    
     {
         "author": {
             "ja": [
