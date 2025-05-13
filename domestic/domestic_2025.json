@@ -36,5 +36,42 @@
             "ja": "東京",
             "en": "Tokyo"
         }
+    },
+    {
+        "author": {
+            "ja": [
+                "小野寺慶治郎",
+                "小野寺佳成",
+                "三宅芹奈",
+                "今井倫太"
+            ],
+            "en": [
+                "Keijiro Onodera",
+                "Yoshinari Onodera",
+                "Serina Miyake",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ピンクノイズ特性を用いた1 対1 対話の盛り上げシステムの提案",
+            "en": "Proposal of a pink noise-based dialogue enhancement system."
+        },
+        "year": "2025",
+        "no": "",
+        "book": {
+            "ja": "HAIシンポジウム2025",
+            "en": "HAI Symposium2025"
+        },
+        "draft_pdf_url": "https://hai-conference.net/symp2025/proceedings/pdf/P1-44.pdf",
+        "event_duration": "2025/02/28 - 2025/03/01",
+        "presentation_date": "2025/02/28",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "東大阪",
+            "en": "Higashiosaka"
+        }
     }
 ]
