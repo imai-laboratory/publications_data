@@ -37,6 +37,45 @@
             "en": "Tokyo"
         }
     },
+
+    {
+        "author": {
+            "ja": [
+                "松崎光",
+                "前川知行",
+                "今井倫太",
+                "石井健太郎"
+            ],
+            "en": [
+                "Hikaru Matsuzaki",
+                "Tomoyuki Maekawa",
+                "Michita Imai",
+                "Kentaro Ishii"
+            ]
+        },
+        "title": {
+            "ja": "PassStyles: 顔特徴の混合によるグラフィカル認証システムの提案",
+            "en": "PassStyles: Graphical Authentication Using Mixed Face Styles"
+        },
+        "year": "2025",
+        "page": "1153-1158",
+        "no": "",
+        "book": {
+            "ja": "第29回 一般社団法人情報処理学会シンポジウム",
+            "en": "IPSJ Interaction 2025"
+        },
+        "draft_pdf_url": "https://www.interaction-ipsj.org/proceedings/2025/data/pdf/3B-33.pdf",
+        "event_duration": "2025/03/02 - 2025/03/04",
+        "presentation_date": "2025/03/04",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "東京",
+            "en": "Tokyo"
+        }
+    },
     {
         "author": {
             "ja": [
