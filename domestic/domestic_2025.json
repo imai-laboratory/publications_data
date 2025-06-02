@@ -268,5 +268,43 @@
             "ja": "大阪",
             "en": "Osaka"
         }
-    }
+    },
+    {
+        "author": {
+            "ja": [
+                "松﨑光",
+                "前川知行",
+                "石井健太郎",
+                "今井倫太"
+            ],
+            "en": [
+                "Hikaru Matsuzaki",
+                "Tomoyuki Maekawa",
+                "Kentaro Ishii",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "Interactive-SmartClerk: 初見の顧客に対する商品推薦ロボットの提案",
+            "en": "Interactive-SmartClerk: A Recommender Robot System Sharing Preferences with Customer"
+        },
+        "year": "2025",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "2025年度人工知能学会全国大会（第39回）",
+            "en": "The 39th annual conference of JSAI, 2025"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1P_iin54qMY5LeblJu08HDrG3QBO43cvF/view?usp=sharing",
+        "event_duration": "2025/05/27 - 2025/05/30",
+        "presentation_date": "2025/05/30",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "大阪",
+            "en": "Osaka"
+        }
+    }    
 ]
