@@ -1,0 +1,31 @@
+[
+    {
+        "author": {
+            "ja": [
+                "Kaon Shimoyama",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Kaon Shimoyama",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Conversational Robot System for Travel Memoir Generation",
+            "en": "Conversational Robot System for Travel Memoir Generation"
+        },
+        "book": {
+            "ja": "ACM Transactions on Human-Robot Interaction",
+            "en": "ACM Transactions on Human-Robot Interaction"
+        },
+        "year": "2025",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://dl.acm.org/doi/10.1145/3762674"
+    }
+]
