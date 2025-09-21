@@ -27,5 +27,35 @@
         "no": "",
         "page": "35 pages",
         "draft_pdf_url": "https://dl.acm.org/doi/10.1145/3762674"
-    }
+    },
+
+    {
+    "author": {
+        "ja": [
+            "Hikaru Matsuzaki",
+            "Tomoyuki Maekawa",
+            "Michita Imai",
+            "Kentaro Ishii"
+        ],
+        "en": [
+            "Hikaru Matsuzaki",
+            "Tomoyuki Maekawa",
+            "Michita Imai",
+            "Kentaro Ishii"
+        ]
+    },
+    "title": {
+        "ja": "PassStyles: Graphical Authentication Using Mixed Face Styles",
+        "en": "PassStyles: Graphical Authentication Using Mixed Face Styles"
+    },
+    "book": {
+        "ja": "IEEE Access",
+        "en": "IEEE Access"
+    },
+    "year": "2025",
+    "vol": "",
+    "no": "",
+    "page": "19 pages",
+    "draft_pdf_url": "https://ieeexplore.ieee.org/document/11173661"
+}
 ]
