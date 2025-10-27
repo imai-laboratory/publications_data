@@ -9,8 +9,8 @@
         "page": "pp.370-385",
         "no": "",
         "vol": "",
-        "book": "Lecture_Notes_in_Computer_Science_1554",
-        "abbrv": "AMCP"
+        "book": "Lecture_Notes_in_Computer_Science_1554 (AMCP 1998)",
+        "abbrv": "AMCP 1998"
     },
     {
         "author": [
@@ -23,7 +23,7 @@
         "page": " pp.256-261",
         "no": "",
         "vol": "Vol.1",
-        "book": "Proceedings_of_7th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_7th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 1998)",
+        "abbrv": "RO-MAN 1998"
     }
 ]

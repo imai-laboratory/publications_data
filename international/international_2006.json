@@ -25,8 +25,8 @@
         "page": "pp.18-22",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_IEEE/WIC/ACM_International_Conference_on_Intelligent_Agent_Technology",
-        "abbrv": "IAT"
+        "book": "Proceedings_of_the_IEEE/WIC/ACM_International_Conference_on_Intelligent_Agent_Technology (IAT 2006)",
+        "abbrv": "IAT 2006"
     },
     {
         "author": [
@@ -40,8 +40,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Semantic_Sensor_Networks_Workshop:_A_workshop_of_International_Semantic_Web_Conference",
-        "abbrv": ""
+        "book": "Semantic_Sensor_Networks_Workshop:_A_workshop_of_International_Semantic_Web_Conference 2006 (ISWC 2006)",
+        "abbrv": "SSN 2006"
     },
     {
         "author": [
@@ -56,8 +56,8 @@
         "page": "pp.5843-5850",
         "no": "",
         "vol": "",
-        "book": "Three-Layer_Model_for_Generation_and_Recognition_of_Attention-Drawing_Behavior",
-        "abbrv": "IROS"
+        "book": "Three-Layer_Model_for_Generation_and_Recognition_of_Attention-Drawing_Behavior (IROS 2006)",
+        "abbrv": "IROS 2006"
     },
     {
         "author": [
@@ -70,8 +70,8 @@
         "page": "pp.1460-1465",
         "no": "",
         "vol": "",
-        "book": "Joint_3rd_International_Conference_on_Soft_Computing_and_Intelligent_Systems_and_7th_International_Symposium_on_advanced_Intelligent_Systems",
-        "abbrv": "SCIS&ISIS"
+        "book": "Joint_3rd_International_Conference_on_Soft_Computing_and_Intelligent_Systems_and_7th_International_Symposium_on_advanced_Intelligent_Systems (SCIS&IS2006)",
+        "abbrv": "SCIS&IS 2006"
     },
     {
         "author": [
@@ -84,8 +84,8 @@
         "page": "Vol.15 pp.763-768",
         "no": "",
         "vol": "",
-        "book": "The_15th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "The_15th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2006)",
+        "abbrv": "RO-MAN 2006"
     },
     {
         "author": [
@@ -101,8 +101,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "roc._of_2nd_International_Workshop_on_Personalized_Context_Modeling_and_Management_for_UbiComp_Applications",
-        "abbrv": "ubiPCMM"
+        "book": "roc._of_2nd_International_Workshop_on_Personalized_Context_Modeling_and_Management_for_UbiComp_Applications (ubiPCMM 2006)",
+        "abbrv": "ubiPCMM 2006"
     },
     {
         "author": [
@@ -116,8 +116,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Proc._Of_the_3rd_International_Workshop_on_Data_Management_for_Sensor_Networks",
-        "abbrv": "DMSN"
+        "book": "Proc._Of_the_3rd_International_Workshop_on_Data_Management_for_Sensor_Networks (DMS 2006)",
+        "abbrv": "DMS 2006"
     },
     {
         "author": [
@@ -158,8 +158,8 @@
         "page": "Vol.5 pp.173-174",
         "no": "",
         "vol": "",
-        "book": "5th_International_Conference_of_the_Cognitive_Science",
-        "abbrv": "ICCS"
+        "book": "5th_International_Conference_of_the_Cognitive_Science (ICCS 2006)",
+        "abbrv": "ICCS 2006"
     },
     {
         "author": [
@@ -198,7 +198,7 @@
         "page": " pp. 733-740",
         "no": "",
         "vol": "Vol._3842",
-        "book": "APWeb_2006_International_Workshops:_XRA,_IWSN,_MEGA,_and_ICSE,_Lecture_Notes_in_computer_Science",
-        "abbrv": ""
+        "book": "APWeb_2006_International_Workshops:_XRA,_IWSN,_MEGA,_and_ICSE,_Lecture_Notes_in_computer_Science (LNCS 2006)",
+        "abbrv": "LNCS 2006"
     }
 ]

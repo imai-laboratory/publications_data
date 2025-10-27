@@ -9,8 +9,8 @@
         "page": "pp.199-204",
         "no": "",
         "vol": "",
-        "book": "The_2003_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "The_2003_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication (RO-MAN 2003)",
+        "abbrv": "RO-MAN 2003"
     },
     {
         "author": [
@@ -23,8 +23,8 @@
         "page": "pp.205-210",
         "no": "",
         "vol": "",
-        "book": "The_2003_IEEE_International_Workshop_on_Robot_and　Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "The_2003_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication (RO-MAN 2003)",
+        "abbrv": "RO-MAN 2003"
     },
     {
         "author": [
@@ -38,8 +38,8 @@
         "page": "pp.177-182",
         "no": "",
         "vol": "",
-        "book": "International_Joint_Conference_on_Artificial_Intelligence",
-        "abbrv": "IJCAI"
+        "book": "International_Joint_Conference_on_Artificial_Intelligence (IJCAI 2003)",
+        "abbrv": "IJCAI 2003"
     },
     {
         "author": [
@@ -52,8 +52,8 @@
         "page": "Vol.4 pp.3132-3137",
         "no": "",
         "vol": "",
-        "book": "International_Conference_on_Intelligent_Robots_and　Systems",
-        "abbrv": "IROS"
+        "book": "International_Conference_on_Intelligent_Robots_and_Systems (IROS 2003)",
+        "abbrv": "IROS 2003"
     },
     {
         "author": [
@@ -66,8 +66,8 @@
         "page": "pp.221-232",
         "no": "",
         "vol": "",
-        "book": "Agent-Based　Technologies　and_Systems",
-        "abbrv": "ATS"
+        "book": "Agent-Based_Technologies_and_Systems (ATS 2003)",
+        "abbrv": "ATS 2003"
     },
     {
         "author": [
@@ -81,7 +81,7 @@
         "page": "pp.558-563",
         "no": "",
         "vol": "",
-        "book": "Proceedings_2003_IEEE_International_Symposium_on_ComputationalIntelligence_in_Robotics_and_Automation",
-        "abbrv": "CIRA"
+        "book": "Proceedings_2003_IEEE_International_Symposium_on_ComputationalIntelligence_in_Robotics_and_Automation (CIRA 2003)",
+        "abbrv": "CIRA 2003"
     }
 ]

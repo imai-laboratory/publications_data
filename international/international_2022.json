@@ -10,7 +10,7 @@
         "page": "1293-1295",
         "no": "",
         "vol": "",
-        "book": "Workshop at the 17th Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022) ",
+        "book": "Workshop at the 17th Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)",
         "abbrv": "HRI",
         "draft_pdf_url": "https://dl.acm.org/doi/10.5555/3523760.3524008"
     },
@@ -26,8 +26,8 @@
         "page": "95-103",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 10th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "Proceedings of the 10th International Conference on Human-Agent Interaction (HAI 2022)",
+        "abbrv": "HAI 2022",
         "draft_pdf_url": "https://dl.acm.org/doi/10.1145/3527188.3561917"
     },
     {
@@ -42,8 +42,8 @@
         "page": "185–193",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 10th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "Proceedings of the 10th International Conference on Human-Agent Interaction (HAI 2022)",
+        "abbrv": "HAI 2022",
         "draft_pdf_url": "https://doi.org/10.1145/3527188.3561931"
     },
     {
@@ -60,8 +60,8 @@
         "page": "734-745,acceptance rate = [25%]",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 27th International Conference on Intelligent User Interfaces",
-        "abbrv": "IUI",
+        "book": "Proceedings of the 27th International Conference on Intelligent User Interfaces (IUI 2022)",
+        "abbrv": "IUI 2022",
         "draft_pdf_url": "https://doi.org/10.1145/3490099.3511116"
     }
 ]

@@ -10,8 +10,8 @@
         "page": "pp.391",
         "no": "",
         "vol": "",
-        "book": "IEEE_International_Conference_on_System,_Man,_and_Cybernetics",
-        "abbrv": "SMC"
+        "book": "IEEE_International_Conference_on_System,_Man,_and_Cybernetics (SMC 1999)",
+        "abbrv": "SMC 1999"
     },
     {
         "author": [
@@ -24,8 +24,8 @@
         "page": "pp.124-129",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_8th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_8th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 1999)",
+        "abbrv": "RO-MAN 1999"
     },
     {
         "author": [
@@ -37,8 +37,8 @@
         "page": "pp.237&#8211;241",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_8th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_8th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 1999)",
+        "abbrv": "RO-MAN 1999"
     },
     {
         "author": [
@@ -51,8 +51,8 @@
         "page": "Vol.2 pp.1124-1130",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_16th_International_Joint_Conference_on_Artificial_Intelligence",
-        "abbrv": "IJCAI"
+        "book": "Proceedings_of_16th_International_Joint_Conference_on_Artificial_Intelligence (IJCAI 1999)",
+        "abbrv": "IJCAI 1999"
     },
     {
         "author": [
@@ -65,8 +65,8 @@
         "page": "pp.693-696",
         "no": "",
         "vol": "",
-        "book": "The_Second_International_Conference_on_Cognitive_Science",
-        "abbrv": "ICCS"
+        "book": "The_Second_International_Conference_on_Cognitive_Science (ICCS 1999)",
+        "abbrv": "ICCS 1999"
     },
     {
         "author": [
@@ -79,7 +79,7 @@
         "page": "pp.16-19",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_Fourth_International_Symposium_on_Artificial_Life_and_Robotics",
-        "abbrv": "AROB"
+        "book": "Proceedings_of_the_Fourth_International_Symposium_on_Artificial_Life_and_Robotics (AROB 1999)",
+        "abbrv": "AROB 1999"
     }
 ]

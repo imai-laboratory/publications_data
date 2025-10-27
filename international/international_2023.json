@@ -9,7 +9,7 @@
         "page": "12550–12566, acceptance rate = [23.3%]",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+        "book": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)",
         "abbrv": "EMNLP 2023",
         "draft_pdf_url": "https://aclanthology.org/2023.emnlp-main.773/"
     },
@@ -23,8 +23,8 @@
         "page": "55-62",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 11th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI '23",
+        "book": "Proceedings of the 11th International Conference on Human-Agent Interaction (HAI 2023)",
+        "abbrv": "HAI 2023",
         "draft_pdf_url": "https://doi.org/10.1145/3623809.3623828"
     },
     {
@@ -39,8 +39,8 @@
         "page": "1974-1980",
         "no": "",
         "vol": "45",
-        "book": "Proceedings of the Annual Meeting of the Cognitive Science Society",
-        "abbrv": "CogSci2023",
+        "book": "Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci 2023)",
+        "abbrv": "CogSci 2023",
         "draft_pdf_url": "https://escholarship.org/uc/item/3m251093"
     }
 ]

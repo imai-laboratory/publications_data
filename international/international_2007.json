@@ -12,8 +12,8 @@
         "page": "pp.1441-1448",
         "no": "",
         "vol": "",
-        "book": "IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
-        "abbrv": "IROS"
+        "book": "IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems (IROS 2007)",
+        "abbrv": "IROS 2007"
     },
     {
         "author": [
@@ -26,8 +26,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "SICE_Annual_Conference",
-        "abbrv": "SICE"
+        "book": "SICE_Annual_Conference (SICE 2007)",
+        "abbrv": "SICE 2007"
     },
     {
         "author": [
@@ -40,8 +40,8 @@
         "page": "pp.451-456",
         "no": "",
         "vol": "",
-        "book": "IEEE_RO-MAN2007",
-        "abbrv": "ROMAN"
+        "book": "IEEE_RO-MAN 2007",
+        "abbrv": "RO-MAN 2007"
     },
     {
         "author": [
@@ -54,8 +54,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "IEEE_RO-MAN2007",
-        "abbrv": "ROMAN"
+        "book": "IEEE_RO-MAN 2007",
+        "abbrv": "RO-MAN 2007"
     },
     {
         "author": [
@@ -69,8 +69,8 @@
         "page": "pp.526-535",
         "no": "",
         "vol": "",
-        "book": "Lecture_Notes_in_Computer_Science_4558",
-        "abbrv": "HCI"
+        "book": "Lecture_Notes_in_Computer_Science_4558 (HCI 2007)",
+        "abbrv": "HCI 2007"
     },
     {
         "author": [
@@ -82,8 +82,8 @@
         "page": "pp.159-162",
         "no": "",
         "vol": "",
-        "book": "Proc._of_4th_International_Conference_on_Networked_Sensing_Systems",
-        "abbrv": "INSS"
+        "book": "Proc._of_4th_International_Conference_on_Networked_Sensing_Systems (INSS 2007)",
+        "abbrv": "INSS 2007"
     },
     {
         "author": [
@@ -97,8 +97,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Advanced_Information_Networking_and_Applications",
-        "abbrv": "AINA"
+        "book": "Advanced_Information_Networking_and_Applications (AINA 2007)",
+        "abbrv": "AINA 2007"
     },
     {
         "author": [
@@ -109,8 +109,8 @@
         "page": "pp.17-24",
         "no": "",
         "vol": "",
-        "book": "Proc._of_the_International_Workshop_on_SensorWebs,_Databases_and_Mining_in_Networked_Sensing_Systems",
-        "abbrv": "SWDMNSS"
+        "book": "Proc._of_the_International_Workshop_on_SensorWebs,_Databases_and_Mining_in_Networked_Sensing_Systems (SWDMNSS 2007)",
+        "abbrv": "SWDMNSS 2007"
     },
     {
         "author": [
@@ -126,8 +126,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "IEEE_International_Workshop_on_Databases_for_Next-Generation_Researchers",
-        "abbrv": "SWOD"
+        "book": "IEEE_International_Workshop_on_Databases_for_Next-Generation_Researchers (SWOD 2007)",
+        "abbrv": "SWOD 2007"
     },
     {
         "author": [
@@ -141,7 +141,7 @@
         "page": "pp.25-30",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_Second_IASTED_International_Conference_Human-Computer_Interaction",
-        "abbrv": ""
+        "book": "Proceedings_of_the_Second_IASTED_International_Conference_Human-Computer_Interaction (HCI 2007)",
+        "abbrv": "HCI 2007"
     }
 ]

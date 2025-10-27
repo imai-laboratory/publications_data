@@ -12,8 +12,8 @@
         "page": "608-617",
         "no": "",
         "vol": "10634",
-        "book": "The 24th International Conference On Neural Information Processing",
-        "abbrv": "ICONIP",
+        "book": "The 24th International Conference On Neural Information Processing (ICONIP 2017)",
+        "abbrv": "ICONIP 2017",
         "draft_pdf_url":  ""
     },
     {
@@ -28,8 +28,8 @@
         "page": "100-108",
         "no": "",
         "vol": "10634",
-        "book": "The 24th International Conference On Neural Information Processing",
-        "abbrv": "ICONIP",
+        "book": "The 24th International Conference On Neural Information Processing (ICONIP 2017)",
+        "abbrv": "ICONIP 2017",
         "draft_pdf_url":  "https://drive.google.com/file/d/0B8j5f8TKRudIX2V3dkx2VkdZc28/view?usp=sharing"
     },
     {
@@ -44,8 +44,8 @@
         "page": "97-101",
         "no": "",
         "vol": "",
-        "book": "5th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "5th International Conference on Human-Agent Interaction (HAI 2017)",
+        "abbrv": "HAI 2017",
         "draft_pdf_url":  "https://drive.google.com/file/d/0B8j5f8TKRudIcTRRNVFQWTVudFU/view?usp=sharing"
     },
         {
@@ -57,8 +57,8 @@
         "page": "151-159",
         "no": "",
         "vol": "",
-        "book": "5th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "5th International Conference on Human-Agent Interaction (HAI 2017)",
+        "abbrv": "HAI 2017",
         "draft_pdf_url":  ""
     },
     {
@@ -71,8 +71,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
-        "abbrv": "BICA"
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures (BICA 2017)",
+        "abbrv": "BICA 2017"
     },
     {
         "author": [
@@ -87,8 +87,8 @@
         "page": "pp.198-206",
         "no": "",
         "vol": "636",
-        "book": "Biologically Inspired Cognitive Architectures (BICA) for Young Scientists",
-        "abbrv": "BICA"
+        "book": "Biologically Inspired Cognitive Architectures (BICA 2017) for Young Scientists",
+        "abbrv": "BICA 2017"
     },
     {
         "author": [
@@ -102,8 +102,8 @@
         "page": " pp.331-332",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": "HRI",
+        "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction (HRI 2017)",
+        "abbrv": "HRI 2017",
         "draft_pdf_url": ""
     },
     {
@@ -118,8 +118,8 @@
         "page": " p.44",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": "HRI",
+        "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction (HRI 2017)",
+        "abbrv": "HRI 2017",
         "draft_pdf_url": ""
     },
     {
@@ -134,8 +134,8 @@
         "page": " pp.313-322",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": "HRI",
+        "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction (HRI 2017)",
+        "abbrv": "HRI 2017",
         "draft_pdf_url": ""
     },
     {
@@ -150,8 +150,8 @@
         "page": "2786-2792",
         "no": "",
         "vol": "",
-        "book": "The IEEE/RSJ International Conference on Intelligent Robots and Systems",
-        "abbrv": "IROS",
+        "book": "The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2017)",
+        "abbrv": "IROS 2017",
         "draft_pdf_url": "https://drive.google.com/file/d/1lSjFHs-hZX-d64-hz1rEFqzLYvWgFy1i/view?usp=sharing"
     },
     {
@@ -165,8 +165,8 @@
         "page": " pp.195-200",
         "no": "",
         "vol": "",
-        "book": "the_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN",
+        "book": "the_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (ROMAN 2017)",
+        "abbrv": "ROMAN 2017",
         "draft_pdf_url": "https://drive.google.com/file/d/0B5bCej83LHyAdTlHY3hXR204T0k/view?usp=sharing"
     },
     {
@@ -180,8 +180,8 @@
         "page": " pp.201-206",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the IEEE International Symposium on Robot and Human Interactive Communication",
-        "abbrv": "ROMAN",
+        "book": "Proceedings_of_the IEEE International Symposium on Robot and Human Interactive Communication (ROMAN 2017)",
+        "abbrv": "ROMAN 2017",
         "draft_pdf_url": "https://drive.google.com/file/d/0B8j5f8TKRudISlYxSHVpZ0pHWVU/view?usp=sharing"
     }
 ]
