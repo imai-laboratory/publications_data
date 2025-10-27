@@ -12,8 +12,8 @@
         "page": "361-369",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction",
-        "abbrv": "HRI",
+        "book": "Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2021)",
+        "abbrv": "HRI 2021",
         "draft_pdf_url": ""
     },
     {
@@ -26,8 +26,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS), Offline Reinforcement Learning Workshop",
-        "abbrv": "NeurIPS",
+        "book": "Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021), Offline Reinforcement Learning Workshop",
+        "abbrv": "NeurIPS 2021",
         "draft_pdf_url": ""
     },
     {
@@ -43,8 +43,8 @@
         "page": "391-395",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 9th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "Proceedings of the 9th International Conference on Human-Agent Interaction (HAI 2021)",
+        "abbrv": "HAI 2021",
         "draft_pdf_url": "https://dl.acm.org/doi/10.1145/3472307.3484668"
     },
     {
@@ -58,8 +58,8 @@
         "page": "158-169",
         "no": "Part II",
         "vol": "",
-        "book": "Proceedings of the 28th International Conference on Neural Information Processing",
-        "abbrv": "ICONIP",
+        "book": "Proceedings of the 28th International Conference on Neural Information Processing (ICONIP 2021)",
+        "abbrv": "ICONIP 2021",
         "draft_pdf_url": "https://link.springer.com/chapter/10.1007/978-3-030-92270-2_14"
     },
     {
@@ -76,8 +76,8 @@
         "page": "1898-1907",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
-        "abbrv": "ICCV",
+        "book": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2021)",
+        "abbrv": "ICCV 2021",
         "draft_pdf_url": "https://openaccess.thecvf.com/content/ICCV2021/html/Matsumori_Unified_Questioner_Transformer_for_Descriptive_Question_Generation_in_Goal-Oriented_Visual_ICCV_2021_paper.html"
     },
     {
@@ -93,8 +93,8 @@
         "page": "321-328",
         "no": "",
         "vol": "1",
-        "book": "Proceedings of the 13th International Conference on Agents and Artificial Intelligence",
-        "abbrv": "ICAART",
+        "book": "Proceedings of the 13th International Conference on Agents and Artificial Intelligence (ICAART 2021)",
+        "abbrv": "ICAART 2021",
         "draft_pdf_url": "https://www.scitepress.org/PublicationsDetail.aspx?ID=nCFsLQXzweo=&t=1"
     },
     {
@@ -109,8 +109,8 @@
         "page": "403-413",
         "no": "",
         "vol": "",
-        "book": "International Conference on Artificial Intelligence and Soft Computing",
-        "abbrv": "ICAISC",
+        "book": "International Conference on Artificial Intelligence and Soft Computing (ICAI 2021)",
+        "abbrv": "ICAI 2021",
         "draft_pdf_url": "https://drive.google.com/file/d/1kNPCHUSM1CDpzDixUMQAwCSpBvLmZ8GY/view?usp=sharing"
     }
 ]

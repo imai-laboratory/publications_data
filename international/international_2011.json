@@ -11,8 +11,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "International_Conference_on_Social_Robotics",
-        "abbrv": "ICSR"
+        "book": "International_Conference_on_Social_Robotics (ICSR 2011)",
+        "abbrv": "ICSR 2011"
     },
     {
         "author": [
@@ -25,8 +25,8 @@
         "page": "Vol.20 pp.162-167",
         "no": "",
         "vol": "",
-        "book": "20th_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "20th_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2011)",
+        "abbrv": "RO-MAN 2011"
     },
     {
         "author": [
@@ -41,6 +41,6 @@
         "no": "",
         "vol": "",
         "book": "HRI2011_poster",
-        "abbrv": "HRI"
+        "abbrv": "HRI 2011"
     }
 ]

@@ -11,8 +11,8 @@
         "page": "pp.257-264",
         "no": "",
         "vol": "",
-        "book": "Pacific_Rim_International_Symposium_on_Dependable_Computing",
-        "abbrv": "PRDC"
+        "book": "Pacific_Rim_International_Symposium_on_Dependable_Computing (PRDC 2002)",
+        "abbrv": "PRDC 2002"
     },
     {
         "author": [
@@ -27,8 +27,8 @@
         "page": "pp.1265-1270",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
-        "abbrv": "IROS"
+        "book": "Proceedings_of_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems (IROS 2002)",
+        "abbrv": "IROS 2002"
     },
     {
         "author": [
@@ -39,8 +39,8 @@
         "page": "pp.411-416",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_11th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_11th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 2002)",
+        "abbrv": "RO-MAN 2002"
     },
     {
         "author": [
@@ -51,8 +51,8 @@
         "page": "pp.271-276",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_11th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_11th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 2002)",
+        "abbrv": "RO-MAN 2002"
     },
     {
         "author": [
@@ -66,8 +66,8 @@
         "page": "pp.13-18",
         "no": "",
         "vol": "",
-        "book": "IASTED_International_Conference_information_System_and_Database",
-        "abbrv": "ISDB"
+        "book": "IASTED_International_Conference_information_System_and_Database (ISDB 2002)",
+        "abbrv": "ISDB 2002"
     },
     {
         "author": [
@@ -82,8 +82,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "IEEE_International_Conference_on_Robotics_and_Automation",
-        "abbrv": "ICRA"
+        "book": "IEEE_International_Conference_on_Robotics_and_Automation (ICRA 2002)",
+        "abbrv": "ICRA 2002"
     },
     {
         "author": [
@@ -94,7 +94,7 @@
         "page": "pp.1848-1855",
         "no": "",
         "vol": "",
-        "book": "IEEE_International_Conference_on_Robotics_and_Automation",
-        "abbrv": "ICRA"
+        "book": "IEEE_International_Conference_on_Robotics_and_Automation (ICRA 2002)",
+        "abbrv": "ICRA 2002"
     }
 ]

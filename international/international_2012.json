@@ -11,8 +11,8 @@
         "page": "p. 438-447",
         "no": "",
         "vol": "",
-        "book": "International_Conference_on_Social_Robotics",
-        "abbrv": "ICSR",
+        "book": "International_Conference_on_Social_Robotics (ICSR 2012)",
+        "abbrv": "ICSR 2012",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIOUZOZU9BSU5WOW8/view?usp=drivesdk"
     },
     {
@@ -27,8 +27,8 @@
         "page": "p. 131-136",
         "no": "",
         "vol": "",
-        "book": "25th_ACM_Symposium_on_User_Interface_Software_and_Technology",
-        "abbrv": "UIST",
+        "book": "25th_ACM_Symposium_on_User_Interface_Software_and_Technology (UIST 2012)",
+        "abbrv": "UIST 2012",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIZXpZNmVYZWV6VkE/view?usp=drivesdk"
     },
     {
@@ -42,8 +42,8 @@
         "page": "p. 322-327",
         "no": "",
         "vol": "",
-        "book": "The_21st_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN",
+        "book": "The_21st_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2012)",
+        "abbrv": "RO-MAN 2012",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIVGt0bGU5T2I2MG8/view?usp=drivesdk"
     },
     {
@@ -60,8 +60,8 @@
         "page": "p. 328-333",
         "no": "",
         "vol": "",
-        "book": "IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN",
+        "book": "IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2012)",
+        "abbrv": "RO-MAN 2012",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIdTEtaUJPS3RsRzQ/view?usp=drivesdk"
     },
     {
@@ -76,8 +76,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "The_10th_Asia_Pacific_Conference_on_Computer_Human_Interaction",
-        "abbrv": "APCHI",
+        "book": "The_10th_Asia_Pacific_Conference_on_Computer_Human_Interaction (APCHI 2012)",
+        "abbrv": "APCHI 2012",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIVG9SNU9abGtTWEE/view?usp=drivesdk"
     },
     {
@@ -92,8 +92,8 @@
         "page": "p. 64-68",
         "no": "",
         "vol": "",
-        "book": "The_2nd_IEEE_International_Conference_on_CYBER_TECHNOLOGY_IN_AUTOMATION_CONTROL,_and_INTELLIGENT SYSTEMS",
-        "abbrv": "",
+        "book": "The_2nd_IEEE_International_Conference_on_CYBER_TECHNOLOGY_IN_AUTOMATION_CONTROL,_and_INTELLIGENT SYSTEMS (CYBER 2012)",
+        "abbrv": "CYBER 2012",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIT0ZZVmJ0SE15NEk/view?usp=drivesdk"
     },
     {
@@ -108,8 +108,8 @@
         "page": "p. 2001-2004",
         "no": "",
         "vol": "",
-        "book": "In_Proceedings_of_the_30th_International_Conference_on_Human_Factors_in_Computing_Systems",
-        "abbrv": "CHI"
+        "book": "In_Proceedings_of_the_30th_International_Conference_on_Human_Factors_in_Computing_Systems (CHI 2012)",
+        "abbrv": "CHI 2012"
     },
     {
         "author": [
@@ -123,8 +123,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "In_Proceedings_of_the_30th_International_Conference_on_Human_Factors_in_Computing_Systems",
-        "abbrv": "CHI"
+        "book": "In_Proceedings_of_the_30th_International_Conference_on_Human_Factors_in_Computing_Systems (CHI 2012)",
+        "abbrv": "CHI 2012"
     },
     {
         "author": [
@@ -138,8 +138,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "The_ACM_SIGCHI_Conference_on_Human_Factors_in_Computing_Systems",
-        "abbrv": "CHI"
+        "book": "The_ACM_SIGCHI_Conference_on_Human_Factors_in_Computing_Systems (CHI 2012)",
+        "abbrv": "CHI 2012"
     },
     {
         "author": [
@@ -154,8 +154,8 @@
         "page": "pp.447-454",
         "no": "",
         "vol": "",
-        "book": "ACM/IEE_HRI2012",
-        "abbrv": "HRI"
+        "book": "ACM/IEE_HRI2012 (HRI 2012)",
+        "abbrv": "HRI 2012"
     },
     {
         "author": [
@@ -167,7 +167,7 @@
         "page": "pp.632-641",
         "no": "",
         "vol": "",
-        "book": "4th_International_Conference_on_Agents_and_Artificial_Intelligence",
-        "abbrv": "ICAART"
+        "book": "4th_International_Conference_on_Agents_and_Artificial_Intelligence (ICAART 2012)",
+        "abbrv": "ICAART 2012"
     }
 ]

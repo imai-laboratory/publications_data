@@ -11,8 +11,8 @@
         "page": "301-309",
         "no": "",
         "vol": "",
-        "book": "6th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "6th International Conference on Human-Agent Interaction (HAI 2018)",
+        "abbrv": "HAI 2018",
         "draft_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3284432.3284461?download=true"
     },
     {
@@ -27,8 +27,8 @@
         "page": "167-175",
         "no": "",
         "vol": "",
-        "book": "6th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "6th International Conference on Human-Agent Interaction (HAI 2018)",
+        "abbrv": "HAI 2018",
         "draft_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3284432.3284465?download=true"
     },
     {
@@ -42,8 +42,8 @@
         "page": "377-379",
         "no": "",
         "vol": "",
-        "book": "6th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "6th International Conference on Human-Agent Interaction (HAI 2018)",
+        "abbrv": "HAI 2018",
         "draft_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3284432.3287192?download=true"
     },
     {
@@ -59,8 +59,8 @@
         "page": "3-10",
         "no": "",
         "vol": "",
-        "book": "6th International Conference on Human-Agent Interaction",
-        "abbrv": "HAI",
+        "book": "6th International Conference on Human-Agent Interaction (HAI 2018)",
+        "abbrv": "HAI 2018",
         "draft_pdf_url": "https://arxiv.org/pdf/1810.05564.pdf"
     },
     {
@@ -76,7 +76,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "The IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "book": "The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)",
         "abbrv": "IROS 2018",
         "draft_pdf_url":  "https://drive.google.com/a/ailab.ics.keio.ac.jp/file/d/1U33TNWjAfQRQ1pw_tvustvJic4NMI_6m/view?usp=drivesdk"
     },
@@ -107,8 +107,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
-        "abbrv": "BICA",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures (BICA 2018)",
+        "abbrv": "BICA 2018",
         "draft_pdf_url":  "https://drive.google.com/a/ailab.ics.keio.ac.jp/file/d/1W-UDhsYyw1LiExrEjDauMRxrfuXLExM7/view?usp=sharing"
     },
     {
@@ -126,8 +126,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
-        "abbrv": "BICA",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures (BICA 2018)",
+        "abbrv": "BICA 2018",
         "draft_pdf_url":  ""
     },
     {
@@ -141,8 +141,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
-        "abbrv": "BICA",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures (BICA 2018)",
+        "abbrv": "BICA 2018",
         "draft_pdf_url":  "https://drive.google.com/a/ailab.ics.keio.ac.jp/file/d/1yOHI8EkT0etGHKYzU_vXUfKuTMoDvec4/view?usp=drivesdk"
     },
     {
@@ -159,7 +159,7 @@
         "page": "270-278",
         "no": "",
         "vol": "",
-        "book": "Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction",
+        "book": "Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2018)",
         "abbrv": "HRI 2018",
         "draft_pdf_url":  "https://drive.google.com/file/d/1cMicejFpcY4O1zTMBdkctho84leEnB-V/view?usp=drivesdk"
     }

@@ -11,8 +11,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "2009_IEEE_Workshop_on_Advanced_Robotics_and_its_Social_Impacts",
-        "abbrv": "ARSO"
+        "book": "2009_IEEE_Workshop_on_Advanced_Robotics_and_its_Social_Impacts (ARSO 2009)",
+        "abbrv": "ARSO 2009"
     },
     {
         "author": [
@@ -26,8 +26,8 @@
         "page": "pp.663-668",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_18th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_the_18th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2009)",
+        "abbrv": "RO-MAN 2009"
     },
     {
         "author": [
@@ -38,8 +38,8 @@
         "page": "pp.29-36",
         "no": "",
         "vol": "",
-        "book": "In_Advances_in_Wearable_Computing_2009_(adjunct_Proc._of_the_13th_Intl._Symposium_on_Wearable_Computers(ISWC&#8217;09))",
-        "abbrv": "ISCW"
+        "book": "In_Advances_in_Wearable_Computing_2009_(adjunct_Proc._of_the_13th_Intl._Symposium_on_Wearable_Computers(ISWC&#8217;09)) ISWC_2009",
+        "abbrv": "ISCW 2009"
     },
     {
         "author": [
@@ -54,8 +54,8 @@
         "page": "pp.479-492",
         "no": "",
         "vol": "",
-        "book": "the_12th_IFIP_Conference_on_Human-Computer_Interaction",
-        "abbrv": "INTERACT"
+        "book": "the_12th_IFIP_Conference_on_Human-Computer_Interaction (INTERACT 2009)",
+        "abbrv": "INTERACT 2009"
     },
     {
         "author": [
@@ -87,8 +87,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "ACM_SIGGRAPH_2009_Full_Conferece_DVD-ROM",
-        "abbrv": "SIGGRAPH"
+        "book": "ACM_SIGGRAPH_2009_Full_Conferece_DVD-ROM (Poster_Paper)",
+        "abbrv": "SIGGRAPH 2009"
     },
     {
         "author": [
@@ -102,8 +102,8 @@
         "page": "pp.9-17",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_3rd_ACM_International_Workshop_on_Context-Awareness_for_Self-Managing_Systems_2009",
-        "abbrv": "CASEMANS"
+        "book": "Proceedings_of_the_3rd_ACM_International_Workshop_on_Context-Awareness_for_Self-Managing_Systems_2009 (CASEMANS 2009)",
+        "abbrv": "CASEMANS 2009"
     },
     {
         "author": [
@@ -117,8 +117,8 @@
         "page": "pp.33-40",
         "no": "",
         "vol": "",
-        "book": "AAAI_2009_Spring_Symposia_for_Experimental_Design_for_Real-World_Systems",
-        "abbrv": "AAAI"
+        "book": "AAAI_2009_Spring_Symposia_for_Experimental_Design_for_Real-World_Systems (AAAI 2009)",
+        "abbrv": "AAAI 2009"
     },
     {
         "author": [
@@ -134,8 +134,8 @@
         "page": "pp.203",
         "no": "",
         "vol": "",
-        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2009)",
+        "abbrv": "HRI 2009"
     },
     {
         "author": [
@@ -148,8 +148,8 @@
         "page": "Vol.4 207-208",
         "no": "",
         "vol": "",
-        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2009)",
+        "abbrv": "HRI 2009"
     },
     {
         "author": [
@@ -162,8 +162,8 @@
         "page": "Vol.4 p.327-328",
         "no": "",
         "vol": "",
-        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2009)",
+        "abbrv": "HRI 2009"
     },
     {
         "author": [
@@ -178,8 +178,8 @@
         "page": "pp.53-60",
         "no": "",
         "vol": "",
-        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2009)",
+        "abbrv": "HRI 2009"
     },
     {
         "author": [
@@ -195,7 +195,7 @@
         "page": "pp.109-116",
         "no": "",
         "vol": "",
-        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2009)",
+        "abbrv": "HRI 2009"
     }
 ]

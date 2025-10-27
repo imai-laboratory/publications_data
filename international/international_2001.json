@@ -25,8 +25,8 @@
         "page": "pp.512-517",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_10th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_10th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 2001)",
+        "abbrv": "RO-MAN 2001"
     },
     {
         "author": [
@@ -39,8 +39,8 @@
         "page": "pp.732-737",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_Twenty-third_Annual_Meeting_of_the_Cognitive_Science_Society",
-        "abbrv": "CogSci"
+        "book": "Proceedings_of_Twenty-third_Annual_Meeting_of_the_Cognitive_Science_Society (CogSci 2001)",
+        "abbrv": "CogSci 2001"
     },
     {
         "author": [
@@ -70,7 +70,7 @@
         "page": "pp.50-53",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_The_Sixth_Symp._on_Artificial_Life_and_Robotics",
-        "abbrv": "AROB"
+        "book": "Proceedings_of_The_Sixth_Symp._on_Artificial_Life_and_Robotics (AROB 2001)",
+        "abbrv": "AROB 2001"
     }
 ]

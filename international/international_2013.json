@@ -9,8 +9,8 @@
         "page": "p. 692–697",
         "no": "",
         "vol": "",
-        "book": "12th_European_Conference_on_Artificial_Life",
-        "abbrv": "ECAL"
+        "book": "12th_European_Conference_on_Artificial_Life (ECAL 2013)",
+        "abbrv": "ECAL 2013"
     },
     {
         "author": [
@@ -23,8 +23,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN",
+        "book": "Robot_and_Human_Interactive_Communication (RO-MAN 2013)",
+        "abbrv": "RO-MAN 2013",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIT1VZVWttbmxucnM/view?usp=drivesdk"
     },
     {
@@ -38,8 +38,8 @@
         "page": "5pages",
         "no": "",
         "vol": "",
-        "book": "1st_International_Conference_on_Human-Agent_Interaction",
-        "abbrv": "iHAI"
+        "book": "1st_International_Conference_on_Human-Agent_Interaction (HAI 2013)",
+        "abbrv": "HAI 2013"
     },
     {
         "author": [
@@ -51,8 +51,8 @@
         "page": "6pages",
         "no": "",
         "vol": "",
-        "book": "1st_International_Conference_on_Human-Agent_Interaction",
-        "abbrv": "iHAI"
+        "book": "1st_International_Conference_on_Human-Agent_Interaction (HAI 2013)",
+        "abbrv": "HAI 2013"
     },
     {
         "author": [
@@ -65,8 +65,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "1st_International_Conference_on_Human-Agent_Interaction",
-        "abbrv": "iHAI",
+        "book": "1st_International_Conference_on_Human-Agent_Interaction (HAI 2013)",
+        "abbrv": "HAI 2013",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudISUV1bUZMUHd4czg/view?usp=drivesdk"
     },
     {
@@ -82,8 +82,8 @@
         "page": "7pages",
         "no": "",
         "vol": "",
-        "book": "1st_International_Conference_on_Human-Agent_Interaction",
-        "abbrv": "iHAI",
+        "book": "1st_International_Conference_on_Human-Agent_Interaction (HAI 2013)",
+        "abbrv": "HAI 2013",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIVDhmajVMQ1BWYVU/view?usp=drivesdk"
     },
     {
@@ -98,8 +98,8 @@
         "page": "p. 2321-2324",
         "no": "",
         "vol": "",
-        "book": "Human_Factors_in_Computing_Systems",
-        "abbrv": "CHI",
+        "book": "Human_Factors_in_Computing_Systems (CHI 2013)",
+        "abbrv": "CHI 2013",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIZ0hCa1NydktYZkE/view?usp=drivesdk"
     },
     {
@@ -112,8 +112,8 @@
         "page": "pp. 2237-2246",
         "no": "",
         "vol": "",
-        "book": "Human_Factors_in_Computing_Systems",
-        "abbrv": "CHI"
+        "book": "Human_Factors_in_Computing_Systems (CHI 2013)",
+        "abbrv": "CHI 2013"
     },
     {
         "author": [
@@ -126,8 +126,8 @@
         "page": "2",
         "no": "",
         "vol": "",
-        "book": "Human-Robot_Interaction",
-        "abbrv": "HRI",
+        "book": "Human-Robot_Interaction (HRI 2013)",
+        "abbrv": "HRI 2013",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIR2RfVl96SFV4a2M/view?usp=drivesdk"
     },
     {
@@ -140,8 +140,8 @@
         "page": "D13",
         "no": "",
         "vol": "",
-        "book": "Human-Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "Human-Robot_Interaction (HRI 2013)",
+        "abbrv": "HRI 2013"
     },
     {
         "author": [
@@ -155,7 +155,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Human-Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "Human-Robot_Interaction (HRI 2013)",
+        "abbrv": "HRI 2013"
     }
 ]

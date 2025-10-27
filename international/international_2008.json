@@ -23,8 +23,8 @@
         "page": "pp.148-153",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_17th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_the_17th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2008)",
+        "abbrv": "RO-MAN 2008"
     },
     {
         "author": [
@@ -37,8 +37,8 @@
         "page": "pp.154-159",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_the_17th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_the_17th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2008)",
+        "abbrv": "RO-MAN 2008"
     },
     {
         "author": [
@@ -51,8 +51,8 @@
         "page": "pp.896-906",
         "no": "",
         "vol": "",
-        "book": "The_9th_International_Conference_on_Artificial_Intelligence_and_Soft_Computing",
-        "abbrv": "ICAISC"
+        "book": "The_9th_International_Conference_on_Artificial_Intelligence_and_Soft_Computing (ICAISC 2008)",
+        "abbrv": "ICAISC 2008"
     },
     {
         "author": [
@@ -67,7 +67,7 @@
         "page": "pp.153-160",
         "no": "",
         "vol": "",
-        "book": "ACM/IEEE_3rd_Annual_Conference_on_Human-Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "ACM/IEEE_3rd_Annual_Conference_on_Human-Robot_Interaction (HRI 2008)",
+        "abbrv": "HRI 2008"
     }
 ]

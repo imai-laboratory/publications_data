@@ -11,8 +11,8 @@
         "page": "pp.1-6",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_9th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_9th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 2000)",
+        "abbrv": "RO-MAN 2000"
     },
     {
         "author": [
@@ -25,8 +25,8 @@
         "page": "pp.334-339",
         "no": "",
         "vol": "",
-        "book": "Proceedings_of_9th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
-        "abbrv": "ROMAN"
+        "book": "Proceedings_of_9th_IEEE_International_Workshop_on_Robot_and_Human_Communication (RO-MAN 2000)",
+        "abbrv": "RO-MAN 2000"
     },
     {
         "author": [
@@ -39,7 +39,7 @@
         "no": "",
         "vol": "",
         "book": "Proceedings_of_AAAI-2000",
-        "abbrv": "AAAI"
+        "abbrv": "AAAI 2000"
     },
     {
         "author": [
@@ -51,7 +51,7 @@
         "page": "pp.16-21",
         "no": "",
         "vol": "",
-        "book": "The_Fourth_Asian_Fuzzy_Systems_Symposium",
-        "abbrv": "AFSS"
+        "book": "The_Fourth_Asian_Fuzzy_Systems_Symposium (AFSS 2000)",
+        "abbrv": "AFSS 2000"
     }
 ]

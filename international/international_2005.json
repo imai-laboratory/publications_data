@@ -9,8 +9,8 @@
         "page": "pp.15-22",
         "no": "",
         "vol": "",
-        "book": "The_1st_International_Workshop_on_Muli-Agent_Robotic_System",
-        "abbrv": "MARS"
+        "book": "The_1st_International_Workshop_on_Muli-Agent_Robotic_System (MARS 2005)",
+        "abbrv": "MARS 2005"
     },
     {
         "author": [
@@ -25,8 +25,8 @@
         "page": "pp.2140-2145",
         "no": "",
         "vol": "",
-        "book": "IEEE/RSJ_International_Conference_on_Intelligent_Robots_and　Systems",
-        "abbrv": "IROS"
+        "book": "IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems (IROS 2005)",
+        "abbrv": "IROS 2005"
     },
     {
         "author": [
@@ -38,8 +38,8 @@
         "page": "pp.229-234",
         "no": "",
         "vol": "",
-        "book": "The_2005_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "The_2005_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication (RO-MAN 2005)",
+        "abbrv": "RO-MAN 2005"
     },
     {
         "author": [
@@ -52,8 +52,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "IEEE_Workshop_on_Advanced_Robotics_and_Its_Social_Impacts",
-        "abbrv": "ASRO"
+        "book": "IEEE_Workshop_on_Advanced_Robotics_and_Its_Social_Impacts (ASRO 2005)",
+        "abbrv": "ASRO 2005"
     },
     {
         "author": [
@@ -65,7 +65,7 @@
         "page": "pp.523—528",
         "no": "",
         "vol": "",
-        "book": "The_2005_International_Conference_on_Active_Medial_Technology",
-        "abbrv": "AMT"
+        "book": "The_2005_International_Conference_on_Active_Medial_Technology (AMT 2005)",
+        "abbrv": "AMT 2005"
     }
 ]

@@ -11,8 +11,8 @@
         "page": "pp.3860-3867",
         "no": "",
         "vol": "",
-        "book": "The_2010_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
-        "abbrv": "IROS"
+        "book": "The_2010_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems (IROS 2010)",
+        "abbrv": "IROS 2010"
     },
     {
         "author": [
@@ -25,8 +25,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "2010_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
-        "abbrv": "IROS"
+        "book": "2010_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems (IROS 2010)",
+        "abbrv": "IROS 2010"
     },
     {
         "author": [
@@ -40,7 +40,7 @@
         "no": "",
         "vol": "",
         "book": "UbiComp2010_Workshop_2010",
-        "abbrv": "UbiComp"
+        "abbrv": "UbiComp 2010"
     },
     {
         "author": [
@@ -55,8 +55,8 @@
         "page": "pp.199-204",
         "no": "",
         "vol": "",
-        "book": "19th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "book": "19th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication (RO-MAN 2010)",
+        "abbrv": "RO-MAN 2010"
     },
     {
         "author": [
@@ -70,8 +70,8 @@
         "page": "Vol.14 pp.24-29",
         "no": "",
         "vol": "",
-        "book": "Human_Agent_Interaction:_Design_Theory_for_Interactive_Agents_and_Robots_on_Proceedings_of_The_14th_World_Multi-Conference_on_Systemics,_Cybernetics_and_Informatics",
-        "abbrv": ""
+        "book": "Human_Agent_Interaction:_Design_Theory_for_Interactive_Agents_and_Robots_on_Proceedings_of_The_14th_World_Multi-Conference_on_Systemics,_Cybernetics_and_Informatics (HCI 2010)",
+        "abbrv": "HCI 2010"
     },
     {
         "author": [
@@ -87,8 +87,8 @@
         "page": "Vol.:14 pp.1-6",
         "no": "",
         "vol": "",
-        "book": "Human_Agent_Interaction:_Design_Theory_for_Interactive_Agents_and_Robots_on_Proceedings_of_The_14th_World_Multi-Conference_on_Systemics,_Cybernetics_and_Informatics",
-        "abbrv": ""
+        "book": "Human_Agent_Interaction:_Design_Theory_for_Interactive_Agents_and_Robots_on_Proceedings_of_The_14th_World_Multi-Conference_on_Systemics,_Cybernetics_and_Informatics (HCI 2010)",
+        "abbrv": "HCI 2010"
     },
     {
         "author": [
@@ -102,8 +102,8 @@
         "page": "Vol. 5 pp.179-180",
         "no": "",
         "vol": "",
-        "book": "5th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "5th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2010)",
+        "abbrv": "HRI 2010"
     },
     {
         "author": [
@@ -117,8 +117,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "Designing_Robot_Morphology_in_5th_ACM_International_Conference_on_Human_Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "Designing_Robot_Morphology_in_5th_ACM_International_Conference_on_Human_Robot_Interaction (HRI 2010)",
+        "abbrv": "HRI 2010"
     },
     {
         "author": [
@@ -133,7 +133,7 @@
         "page": "pp.301-308",
         "no": "",
         "vol": "",
-        "book": "5th_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": "HRI"
+        "book": "5th_ACM/IEEE_International_Conference_on_Human-Robot_Interaction (HRI 2010)",
+        "abbrv": "HRI 2010"
     }
 ]
