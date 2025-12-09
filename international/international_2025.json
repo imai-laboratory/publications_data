@@ -107,5 +107,31 @@
             "ja": "ポルト",
             "en": "Porto"
         }
+    },
+    {
+        "author": [
+            "Hikaru Matsuzaki",
+            "Tomoyuki Maekawa",
+            "Kentaro Ishii",
+            "Michita Imai"
+        ],
+        "title": "Interactive-SmartClerk: A Recommender Robot System Sharing Preferences with Customer",
+        "year": "2025",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "5th International Conference on Artificial Intelligence and Application Technologies",
+        "abbrv": "AIAT 2025",
+        "draft_pdf_url": "https://drive.google.com/file/d/1gAKPod9_GzbU0TpwdXF_zhHzf3y712Ja/view?usp=sharing",
+        "event_duration": "2025/12/04 - 2025/12/06",
+        "presentation_date": "2025/12/06",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "京都",
+            "en": "Kyoto"
+        }
     }
 ]
