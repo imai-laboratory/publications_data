@@ -1,0 +1,42 @@
+[
+    {
+        "author": {
+            "ja": [
+                "中村颯",
+                "松岡竜輝",
+                "三宅芹奈",
+                "李 翰柱",
+                "今井倫太"
+            ],
+            "en": [
+                "So Nakamura",
+                "Ryuki Matsuoka",
+                "Serina Miyake",
+                "Hanju Lee",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "ヒューマンロボットインタラクションにおける共同的記憶想起対話の研究",
+            "en": "A Study on Collaborative Memory Recall Dialogue in Human-Robot Interaction"
+        },
+        "year": "2026",
+        "page": "G-10",
+        "no": "",
+        "book": {
+            "ja": "IHAI シンポジウム 2026",
+            "en": "HAI Symposium 2026"
+        },
+        "draft_pdf_url": "https://hai-conference.net/symp2026/proceedings/pdf/G-10.pdf",
+        "event_duration": "2026/02/27 - 2026/02/28",
+        "presentation_date": "2026/02/27",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "東大阪",
+            "en": "HigashiOsaka"
+        }
+    }
+]
