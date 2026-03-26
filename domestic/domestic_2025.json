@@ -2,6 +2,44 @@
     {
         "author": {
             "ja": [
+                "有村勇輝",
+                "玉井睦",
+                "松永昌浩",
+                "今井倫太"
+            ],
+            "en": [
+                "Yuki Arimura",
+                "Mutsumi Tamai",
+                "Masahiro Matsunaga",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "Inactionを手がかりとした見守りロボットの介入が人の心情に与える影響評価",
+            "en": "Evaluation of the Effects on Human Emotions from Intervention by Watchful Robots Using Inaction as a Cue."
+        },
+        "year": "2025",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "HCG シンポジウム 2025",
+            "en": "HCG Symposium 2025"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1dpcP0Ous9Oe319eBbf0Nx9XiziOENSmT/view?usp=drive_link",
+        "event_duration": "2025/012/10 - 2025/12/12",
+        "presentation_date": "2025/12/10",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "福岡",
+            "en": "Fukuoka"
+        }
+    },
+    {
+        "author": {
+            "ja": [
                 "大場璃々",
                 "松岡竜輝",
                 "菅さやか",
@@ -306,5 +344,5 @@
             "ja": "大阪",
             "en": "Osaka"
         }
-    }    
+    }
 ]
