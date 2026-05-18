@@ -133,5 +133,29 @@
             "ja": "京都",
             "en": "Kyoto"
         }
-    }
+    },
+    {
+  "author": [
+    "Ryuki Matsuoka",
+    "Michita Imai"
+  ],
+  "title": "Voice Mitigates Expectation Deficiency: A Modality Comparison with Theory-Aligned Subjectivity Metrics in Co-Creative Image Generation",
+  "year": "2026",
+  "page": "4380-4387",
+  "no": "",
+  "vol": "5",
+  "book": "18th International Conference on Agents and Artificial Intelligence (ICAART 2026)",
+  "abbrv": "ICAART 2026",
+  "draft_pdf_url": "https://www.scitepress.org/Papers/2026/144187/144187.pdf",
+  "event_duration": "2026/03/05 - 2026/03/07",
+  "presentation_date": "",
+  "host_country": {
+    "ja": "スペイン",
+    "en": "Spain"
+  },
+  "host_city": {
+    "ja": "マルベーリャ",
+    "en": "Marbella"
+  }
+}
 ]
