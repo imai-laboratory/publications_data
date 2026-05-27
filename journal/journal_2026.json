@@ -1,0 +1,33 @@
+[
+    {
+        "author": {
+            "ja": [
+                "Kanta Tachikawa",
+                "Hikaru Matsuzaki",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Kanta Tachikawa",
+                "Hikaru Matsuzaki",
+                "Kohei Okuoka",
+                "Mitsuhiko Kimoto",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "Balancing user expressiveness and system robustness in recommender robots  an empirical study of LLM-mediated preference elicitation",
+            "en": "Balancing user expressiveness and system robustness in recommender robots  an empirical study of LLM-mediated preference elicitation"
+        },
+        "book": {
+            "ja": "Advanced Robotics",
+            "en": "Advanced Robotics"
+        },
+        "year": "2026",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://drive.google.com/file/d/1Vq6aeLspFrHn8_nmTYMEPoGR0nqMA2tw/view?usp=sharing"
+    }
+]
