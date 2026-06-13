@@ -13,7 +13,7 @@
                 "Hikaru Matsuzaki",
                 "Kohei Okuoka",
                 "Mitsuhiko Kimoto",
-                "Michita_Imai"
+                "Michita Imai"
             ]
         },
         "title": {
@@ -29,5 +29,32 @@
         "no": "",
         "page": "",
         "draft_pdf_url": "https://drive.google.com/file/d/1Vq6aeLspFrHn8_nmTYMEPoGR0nqMA2tw/view?usp=sharing"
+    },
+    {
+        "author": {
+            "ja": [
+                "河原　彩乃",
+                "松﨑　光",
+                "今井　倫太"
+            ],
+            "en": [
+                "Ayano Kawara",
+                "Hikaru Matsuzaki",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "周囲の環境を認識し，ソーシャルマナーを守るロボットの研究",
+            "en": "Research on Robots that Recognize Surrounding Environments and Adhere to Social Manners"
+        },
+        "book": {
+            "ja": "知能と情報(日本知能情報ファジィ学会誌)",
+            "en": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"
+        },
+        "year": "2026",
+        "vol": "Vol.38",
+        "no": "No.2",
+        "page": "646-659",
+        "draft_pdf_url": "https://doi.org/10.3156/jsoft.38.2_646"
     }
 ]
