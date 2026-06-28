@@ -56,5 +56,34 @@
         "no": "No.2",
         "page": "646-659",
         "draft_pdf_url": "https://doi.org/10.3156/jsoft.38.2_646"
-    }
+    },
+        {
+    "author": {
+        "ja": [
+            "Hikaru Matsuzaki",
+            "Tomoyuki Maekawa",
+            "Michita Imai",
+            "Kentaro Ishii"
+        ],
+        "en": [
+            "Hikaru Matsuzaki",
+            "Tomoyuki Maekawa",
+            "Michita Imai",
+            "Kentaro Ishii"
+        ]
+    },
+    "title": {
+        "ja": "Omokage Authentication: A Graphical Authentication System Using Mixed Visual Resemblance",
+        "en": "Omokage Authentication: A Graphical Authentication System Using Mixed Visual Resemblance"
+    },
+    "book": {
+        "ja": "IEEE Access",
+        "en": "IEEE Access"
+    },
+    "year": "2026",
+    "vol": "14",
+    "no": "",
+    "page": " 93009 - 93026",
+    "draft_pdf_url": "https://ieeexplore.ieee.org/document/11570014"
+}
 ]
