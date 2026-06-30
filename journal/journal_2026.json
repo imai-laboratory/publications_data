@@ -85,5 +85,62 @@
     "no": "",
     "page": " 93009 - 93026",
     "draft_pdf_url": "https://ieeexplore.ieee.org/document/11570014"
-}
+},
+        {
+
+        "author": {
+
+            "ja": [
+
+                "Ryuki Matsuoka",
+
+                "Shiro Kumano",
+
+                "Michita Imai",
+
+                "Hiromi Narimatsu"
+
+            ],
+
+            "en": [
+
+                "Ryuki Matsuoka",
+
+                "Shiro Kumano",
+
+                "Michita Imai",
+
+                "Hiromi Narimatsu"
+
+            ]
+
+        },
+
+        "title": {
+
+            "ja": "Subjective T2I: Subjective Semantic Alignment for Text-to-Image Generation",
+
+            "en": "Subjective T2I: Subjective Semantic Alignment for Text-to-Image Generation"
+
+        },
+
+        "book": {
+
+            "ja": "IEEE Access",
+
+            "en": "IEEE Access"
+
+        },
+
+        "year": "2026",
+
+        "vol": "14",
+
+        "no": "",
+
+        "page": "93736-93752",
+
+        "draft_pdf_url": "https://doi.org/10.1109/ACCESS.2026.3705193"
+
+    }
 ]
