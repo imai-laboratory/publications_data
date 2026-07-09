@@ -39,6 +39,45 @@
             "en": "Gunma"
         }
     },
+        {
+        "author": {
+            "ja": [
+                "池上 遼祐",
+                "中西 健心",
+                "近光 真衣",
+                "今井 倫太"
+            ],
+            "en": [
+                "Ryosuke Ikegami",
+                "Kenshin Nakanishi",
+                "Mai Chikamitsu",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "学習者の理解度に応じて変化する対話形式学習支援ロボットの提案",
+            "en": "Design of a Dialogue-Based Dual-Robot Learning Support System Adaptive to Learner Understanding"
+        },
+        "year": "2026",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "2026年度人工知能学会全国大会（第40回）",
+            "en": "The 40th annual conference of JSAI, 2026"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1hjfB_yPe7HEOmKmbRjriovrNkMuiJwAP/view?usp=sharing",
+        "event_duration": "2026/06/08 - 2026/06/12",
+        "presentation_date": "2026/06/08",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "群馬",
+            "en": "Gunma"
+        }
+    },
+
     {
         "author": {
             "ja": [
