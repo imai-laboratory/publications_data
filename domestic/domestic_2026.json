@@ -40,44 +40,6 @@
         }
     },
 
-    {
-        "author": {
-            "ja": [
-                "浅田尚希",
-                "立川寛大",
-                "草野蘭子",
-                "今井倫太"
-            ],
-            "en": [
-                "Naoki Asada",
-                "Kanta Tachikawa",
-                "Ranko Kusano",
-                "Michita Imai"
-            ]
-        },
-        "title": {
-            "ja": "ツンデレな心的状態理解を促すロボットの視線モデルの提案",
-            "en": "A Gaze Model for Robots that Facilitates Understanding of Tsundere-Like Mental States"
-        },
-        "year": "2026",
-        "page": "",
-        "no": "",
-        "book": {
-            "ja": "2026年度人工知能学会全国大会（第40回）",
-            "en": "The 40th annual conference of JSAI, 2026"
-        },
-        "draft_pdf_url": "https://drive.google.com/file/d/13Gjfw6FiI6J8h-3vaWvIB-6tDbuF8OWS/view?usp=sharing",
-        "event_duration": "2026/06/08 - 2026/06/12",
-        "presentation_date": "2026/06/11",
-        "host_country": {
-            "ja": "日本",
-            "en": "Japan"
-        },
-        "host_city": {
-            "ja": "群馬",
-            "en": "Gunma"
-        }
-    },
 
         {
         "author": {
