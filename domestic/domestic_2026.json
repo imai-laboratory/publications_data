@@ -2,6 +2,46 @@
     {
         "author": {
             "ja": [
+                "馬場響己",
+                "小野寺佳成",
+                "小野寺慶治郎",
+                "李 翰柱",
+                "今井倫太"
+            ],
+            "en": [
+                "Hibiki Baba",
+                "Yoshinari Onodera",
+                "Keijiro Onodera",
+                "Hanju Lee",
+                "Michita Imai"
+            ]
+        },
+        "title": {
+            "ja": "多人数対話における聞き手ロボットの共同注視制御の研究",
+            "en": "Joint Attention Control for a Listener Robot in Multi-Party Dialogues"
+        },
+        "year": "2026",
+        "page": "",
+        "no": "",
+        "book": {
+            "ja": "2026年度人工知能学会全国大会（第40回）",
+            "en": "The 40th annual conference of JSAI, 2026"
+        },
+        "draft_pdf_url": "https://drive.google.com/file/d/1nHClqVr6wqjiv7yHKstJ1SO9Zk2LLB9R/view?usp=sharing",
+        "event_duration": "2026/06/08 - 2026/06/12",
+        "presentation_date": "2026/06/10",
+        "host_country": {
+            "ja": "日本",
+            "en": "Japan"
+        },
+        "host_city": {
+            "ja": "群馬",
+            "en": "Gunma"
+        }
+    },
+    {
+        "author": {
+            "ja": [
                 "中村颯",
                 "松岡竜輝",
                 "三宅芹奈",
@@ -39,9 +79,7 @@
             "en": "Gunma"
         }
     },
-
-
-        {
+    {
         "author": {
             "ja": [
                 "有村勇輝",
@@ -121,7 +159,7 @@
             "en": "Gunma"
         }
     },
-        {
+    {
         "author": {
             "ja": [
                 "池上 遼祐",
