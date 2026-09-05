@@ -142,5 +142,40 @@
 
         "draft_pdf_url": "https://doi.org/10.1109/ACCESS.2026.3705193"
 
+    },
+    {
+        "author": {
+            "ja": [
+                "Serina Miyake",
+                "Ryuki Matsuoka",
+                "Kohei Okuoka",
+                "Takuto Akiyoshi",
+                "Hidenobu Sumioka",
+                "Masahiro Shiomi",
+                "Michita_Imai"
+            ],
+            "en": [
+                "Serina Miyake",
+                "Ryuki Matsuoka",
+                "Kohei Okuoka",
+                "Takuto Akiyoshi",
+                "Hidenobu Sumioka",
+                "Masahiro Shiomi",
+                "Michita_Imai"
+            ]
+        },
+        "title": {
+            "ja": "BabbleMind: reducing nonverbal ambiguity via inner voice visualization in interaction with a baby-type robot",
+            "en": "BabbleMind: reducing nonverbal ambiguity via inner voice visualization in interaction with a baby-type robot"
+        },
+        "book": {
+            "ja": "Advanced Robotics",
+            "en": "Advanced Robotics"
+        },
+        "year": "2026",
+        "vol": "",
+        "no": "",
+        "page": "",
+        "draft_pdf_url": "https://doi.org/10.1080/01691864.2026.2716459"
     }
 ]
